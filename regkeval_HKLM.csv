@@ -1,0 +1,110 @@
+HKLM\Software\Classes\.bfc\ShellNew\command,
+HKLM\Software\Classes\.lnk\ShellNew\command,
+HKLM\Software\Classes\:::*:::\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
+HKLM\Software\Classes\:::*file*:::\shell\:::*:::\command\Default,
+HKLM\Software\Classes\AllFileSystemObjects\ShellEx\:::*:::\:::*:::\Default,Search for ColumnHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers ContextMenuHandlers
+HKLM\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers\:::*:::\Default,
+HKLM\Software\Classes\Applications\iexplore.exe\shell\open\command\Default,
+HKLM\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\:::*:::\Default&&FriendlyName&&CLSID,http://about-threats.trendmicro.com/Malware.aspx?language=au&name=TROJ_AGENT.MCS
+HKLM\Software\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance\:::vk:::,http://www.threatexpert.com/report.aspx?md5=d39ab2caf56c54006b1834916a0a3c45
+HKLM\Software\Classes\CLSID\{871C5380-42A0-1069-A2EA-08002B30309D}\shell\OpenHomePage\Command\Default,http://www.threatexpert.com/report.aspx?md5=3276002e66849bc61bcba03a065a6aec
+HKLM\Software\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance\:::vk:::,
+HKLM\Software\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance\:::vk:::,
+HKLM\Software\Classes\Directory\Background\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
+HKLM\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers\:::*:::\Default,
+HKLM\Software\Classes\Directory\Background\Shell\:::*:::\Command\Default,
+HKLM\Software\Classes\Directory\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
+HKLM\Software\Classes\Directory\Shell\:::*:::\Command\Default,
+HKLM\Software\Classes\Drive\shell\find\command\Default,
+HKLM\Software\Classes\Filter\:::vk:::,
+HKLM\Software\Classes\Folder\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
+HKLM\Software\Classes\Folder\Shell\:::*:::\Command\Default,
+HKLM\Software\Classes\Protocols\Filter\:::vk:::,
+HKLM\Software\Classes\Protocols\Handler\:::vk:::,
+HKLM\Software\Classes\Unknown\shell\openas\command\Default,
+HKLM\Software\Clients\StartMenuInternet\FIREFOX.EXE\shell\open\command\Default,
+HKLM\Software\Clients\StartMenuInternet\Google Chrome\shell\open\command\Default,
+HKLM\Software\Clients\StartMenuInternet\IEXPLORE.EXE\shell\open\command\Default,
+HKLM\Software\Microsoft\Active Setup\Installed Components\:::*:::\Default&&StubPath,
+HKLM\Software\Microsoft\Code Store Database\Distribution Units\:::vk:::,Activex controls->CLSID will refer to a file stored in:%windir%\Downloaded Program Files
+HKLM\Software\Microsoft\Command Processor\Autorun,
+HKLM\Software\Microsoft\Ctf\LangBarAddin\:::vk:::,e.g. malware reported as {12345678-1234-1234-1234-1234567890AB}
+HKLM\Software\Microsoft\Internet Explorer\Explorer Bars\:::vk:::,
+HKLM\Software\Microsoft\Internet Explorer\Extensions\:::*:::\ClsidExtension&&BandCLSID&&Script&&Exec,http://msdn.microsoft.com/en-us/library/aa753588%28v=vs.85%29.aspx
+HKLM\Software\Microsoft\Internet Explorer\Extensions\CmdMapping\:::vk:::,http://www.threatexpert.com/report.aspx?md5=9cb2d8ca257fbc04a07316badea3e849
+HKLM\Software\Microsoft\Internet Explorer\Main\Default_Page_URL&&HOMEOldSP&&Default_Search_URL&&Local Page&&Search Bar&&Search Page&&Start Page&&Start_Page_bak&&Use Custom Search URL,
+HKLM\Software\Microsoft\Internet Explorer\MenuExt\:::vk:::,http://msdn.microsoft.com/en-us/library/aa753589%28v=vs.85%29.aspx
+HKLM\Software\Microsoft\Internet Explorer\Search\CustomizeSearch&&Default_Search_URL&&SearchAssistant,
+HKLM\Software\Microsoft\Internet Explorer\SearchScopes\DefaultScope,
+HKLM\Software\Microsoft\Internet Explorer\SearchScopes\:::*:::\URL,
+HKLM\Software\Microsoft\Internet Explorer\SearchURL\Default,
+HKLM\Software\Microsoft\Internet Explorer\Toolbar\:::vk:::,
+HKLM\Software\Microsoft\Internet Explorer\URLSearchHooks\:::vk:::,https://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Program%3AWin32%2FSogou
+HKLM\Software\Microsoft\SystemCertificates\TrustedPublisher\Certificates\:::vk:::,malware installs its own certificate as trusted
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\:::*:::\ATExe,windows 7
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Accessibility\Utility Manager\:::*:::\Application path,http://www.threatexpert.com/report.aspx?md5=640fb2d4e87a8d503ee1d55b08e4f734
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\AeDebug\Debugger,http://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/W32~Brontok-CV/detailed-analysis.aspx
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Drivers32\:::vk:::,
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\:::*:::\Debugger,
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Network\Location Awareness\:::vk:::,
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\SvcHost\netsvcs&&,This will retrieve the value instead of the key with the same name
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run\:::vk:::,
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce\:::vk:::,
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunonceEx\:::vk:::,
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs\:::vk:::,https://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Backdoor%3AWin32%2FR2d2.A
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\AppSetup&&GinaDLL&&LogoffApp&&Shell&&System&&Taskman&&UIHost&&Userinit&&VmApplet,
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\:::*:::\Default&&DLLName,
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\:::*:::\DLLName,
+HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\CmstpExtensionDll,
+HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\BackupPath\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\ChkDskPath\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\DefragPath\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\cleanuppath\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Common Startup,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Common Startup,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Group policy\state\:::*:::\Scripts\:::*:::\:::*:::\:::*:::\Script,search user-logon.startup.logoff.shutdown-0.1-0.1
+HKLM\Software\Microsoft\Windows\CurrentVersion\OptionalComponents\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\policies\system\DisableTaskMgr,If active prevents users from invoking the task manager
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\Shell,Shell=
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnceEx\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\:::vk:::,
+HKLM\Software\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\:::vk:::,
+HKLM\Software\Policies\Microsoft\Windows NT\SystemRestore\:::v:::,
+HKLM\Software\Policies\Microsoft\Windows\System\Scripts\:::*:::\:::*:::\:::*:::\Script,logon.logoff.shutdown.startup-0.1-0.1
+HKLM\Software\wow6432node\microsoft\windows\currentversion\run\:::vk:::,
+HKLM\System\ControlSet\Control\BootVerificationProgram\ImagePath\Default,
+HKLM\System\ControlSet\Control\FileSystem\NTFSDisableLastAccessUpdate,
+HKLM\System\ControlSet\control\lsa\Authentication Packages&&Notification Packages&&Security Packages,
+HKLM\System\ControlSet\Control\NetworkProvider\Order\ProviderOrder,
+HKLM\System\ControlSet\Control\Print\Monitors\:::*:::\Driver,
+HKLM\System\ControlSet\Control\SafeBoot\AlternateShell,
+HKLM\System\ControlSet\Control\SecurityProviders\SecurityProviders,
+HKLM\System\ControlSet\Control\Session Manager\AppCertDlls\:::vk:::,
+HKLM\System\ControlSet\Control\Session Manager\BootExecute,
+HKLM\System\ControlSet\Control\Session Manager\Environment\ComSpec&&Path,
+HKLM\System\ControlSet\Control\Session Manager\KnownDLLs\:::vk:::,
+HKLM\System\ControlSet\Control\Session Manager\ExcludeFromKnownDlls,
+HKLM\System\ControlSet\Control\Session Manager\Execute\:::vk:::,
+HKLM\System\ControlSet\Control\Session Manager\FileRenameOperations\:::vk:::,
+HKLM\System\ControlSet\Control\Session Manager\PendingFileRenameOperations\:::vk:::,
+HKLM\System\ControlSet\Control\Session Manager\S0InitialCommand,http://computertechnos.blogspot.com.es/2010/08/smss-csrss-and-wininit.html
+HKLM\System\ControlSet\Control\Session Manager\SetupExecute,
+HKLM\System\ControlSet\Control\WOW\cmdline,
+HKLM\System\ControlSet\Control\WOW\wowcmdline,
+HKLM\System\ControlSet\Services\:::*:::\ImagePath,
+HKLM\System\ControlSet\Services\:::*:::\Parameters\ServiceDll,
+HKLM\System\ControlSet\Services\Tcpip\Parameters\DataBasePath,
+HKLM\System\ControlSet\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\AuthorizedApplications\List\:::vk:::,
+HKLM\System\ControlSet\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\EnableFirewall,
+HKLM\System\ControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\:::*:::\:::vk:::,
+HKLM\System\ControlSet\Services\Winsock2\Parameters\NameSpace_Catalog5\Catalog_Entries\:::*:::\LibraryPath,

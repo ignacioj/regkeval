@@ -1,0 +1,41 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"> 
+<html>
+<head><title></title>
+  <style type="text/css">
+	body { font-size: x-small }
+	table { border-collapse: collapse; table-layout: fixed }
+    td { font-family: Arial }
+	td.min { font-family: Arial; font-size: x-small;font-weight:700 }
+    th.principal { font-family: Arial; background-color: Black; color: White }
+	th.sub { font-family: Arial; text-align: left; background-color: #888888}
+	tr { font-family: Arial; font-size: small }
+	TR.cero {color: #80D980; background-color: #007722;font-size: x-small }
+	TR.uno {color: Black; background-color: #FFDD77;font-size: small }
+	TR.dos {color: White; background-color: Red;font-size: small }
+	TR.tres {color:Red; background-color: #EEEEEE;font-size: small; font-weight:700 }
+	TR.tresuno {color: #DDDDDD; background-color: #444444;font-size: x-small }
+	TR.cuatro {color: Blue; background-color: #ffff99;font-size: small }
+	TR.cincouno {color: White; background-color: #0000FF;font-weight:700;font-size: small }
+  </style> 
+</HEAD>
+<BODY> 
+<TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1"> 
+<TR> 
+  <TH colspan="4" class="principal">Registry values</TH> 
+</TR> 
+<TR> <head><title></title>
+</HEAD>
+<BODY> 
+<TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1" width="100%"> 
+  <col width="50%"></col>
+   <col width="10%"></col>
+  <col width="30%"></col>
+  <col width="10%"></col>
+<TR> 
+  <TH class="sub">Key</TH> 
+  <TH class="sub">Value</TH> 
+  <TH class="sub">Data</TH> 
+  <TH class="sub">Key_Timestamp</TH> 
+</TR> 
+

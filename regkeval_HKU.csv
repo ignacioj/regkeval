@@ -1,0 +1,69 @@
+HKU\Control Panel\Desktop\SCRNSAVE.EXE,
+HKU\Software\Classes\.bfc\ShellNew\command,
+HKU\Software\Classes\.lnk\ShellNew\command,
+HKU\Software\Classes\:::*:::\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
+HKU\Software\Classes\:::*file*:::\shell\:::*:::\command\Default,
+HKU\Software\Classes\AllFileSystemObjects\ShellEx\:::*:::\:::*:::\Default,Search for ColumnHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers ContextMenuHandlers
+HKU\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers\:::*:::\Default,
+HKU\Software\Classes\Applications\iexplore.exe\shell\open\command\Default,
+HKU\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\:::*:::\Default&&FriendlyName&&CLSID,http://about-threats.trendmicro.com/Malware.aspx?language=au&name=TROJ_AGENT.MCS
+HKU\Software\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance\:::vk:::,http://www.threatexpert.com/report.aspx?md5=d39ab2caf56c54006b1834916a0a3c45
+HKU\Software\Classes\CLSID\{871C5380-42A0-1069-A2EA-08002B30309D}\shell\OpenHomePage\Command\Default,http://www.threatexpert.com/report.aspx?md5=3276002e66849bc61bcba03a065a6aec
+HKU\Software\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance\:::vk:::,
+HKU\Software\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance\:::vk:::,
+HKU\Software\Classes\Directory\Background\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
+HKU\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers\:::*:::\Default,
+HKU\Software\Classes\Directory\Background\Shell\:::*:::\Command\Default,
+HKU\Software\Classes\Directory\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
+HKU\Software\Classes\Directory\Shell\:::*:::\Command\Default,
+HKU\Software\Classes\Drive\shell\find\command\Default,
+HKU\Software\Classes\Filter\:::vk:::,
+HKU\Software\Classes\Folder\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
+HKU\Software\Classes\Folder\Shell\:::*:::\Command\Default,
+HKU\Software\Classes\Protocols\Filter\:::vk:::,
+HKU\Software\Classes\Protocols\Handler\:::vk:::,
+HKU\Software\Classes\Unknown\shell\openas\command\Default,
+HKU\Software\Microsoft\Active Setup\Installed Components\:::*:::\Default&&StubPath,
+HKU\Software\Microsoft\Command Processor\Autorun,
+HKU\Software\Microsoft\Ctf\LangBarAddin\:::vk:::,e.g. malware reported as {12345678-1234-1234-1234-1234567890AB}
+HKU\Software\Microsoft\Internet Connection Wizard\ShellNext,
+HKU\Software\Microsoft\Internet Explorer\Approved Extensions\:::vk:::,
+HKU\Software\Microsoft\Internet Explorer\Desktop\Components\:::vk:::,
+HKU\Software\Microsoft\Internet Explorer\Explorer Bars\:::vk:::,
+HKU\Software\Microsoft\Internet Explorer\Extensions\:::*:::\ClsidExtension&&BandCLSID&&Script&&Exec,http://msdn.microsoft.com/en-us/library/aa753588%28v=vs.85%29.aspx
+HKU\Software\Microsoft\Internet Explorer\Main\Default_Page_URL&&HOMEOldSP&&Default_Search_URL&&Local Page&&Search Bar&&Search Page&&Start Page&&Start_Page_bak&&Use Custom Search URL,
+HKU\Software\Microsoft\Internet Explorer\MenuExt\:::vk:::,
+HKU\Software\Microsoft\Internet Explorer\SearchScopes\:::*:::\URL,
+HKU\Software\Microsoft\Internet Explorer\SearchScopes\DefaultScope,
+HKU\Software\Microsoft\Internet Explorer\SearchURL\Default,
+HKU\Software\Microsoft\Internet Explorer\Search\CustomizeSearch&&Default_Search_URL&&SearchAssistant,
+HKU\Software\Microsoft\Internet Explorer\Toolbar\:::vk:::,
+HKU\Software\Microsoft\Internet Explorer\UrlSearchHooks\:::vk:::,
+HKU\Software\Microsoft\Windows NT\CurrentVersion\Network\Location Awareness\:::vk:::,
+HKU\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunonceEx\:::vk:::,
+HKU\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce\:::vk:::,
+HKU\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run\:::vk:::,
+HKU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Load&&Run,load=""-Run=""
+HKU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell,
+HKU\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\:::*:::\Shell\:::*:::\command\Default,Autorun-Explore-Open
+HKU\Software\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler,
+HKU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Startup,Startup="C:\windows\start menu\programs\startup"
+HKU\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Startup,Startup="C:\windows\start menu\programs\startup"
+HKU\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Shutdown\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Startup\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ProxyOverride,
+HKU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\Policies\system\Shell,Shell=
+HKU\Software\Microsoft\Windows\CurrentVersion\RunOnceEx\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\RunOnce\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\RunOnce\Setup,
+HKU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\RunServices\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\Run\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\:::vk:::,
+HKU\Software\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\:::vk:::,
+HKU\Software\MozillaPlugins\:::*:::\Path,
+HKU\Software\Mozilla\Firefox\Extensions,
+HKU\Software\Netscape\Netscape Navigator\Viewers\:::vk:::,
+HKU\Software\Policies\Microsoft\Windows\System\Scripts\:::*:::\:::*:::\:::*:::\Script,logon.logoff.shutdown.startup-0.1-0.1

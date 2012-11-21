@@ -1,0 +1,1123 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\ContextMenuHandlers\BriefcaseMenu	Default	{85BBD920-42A0-1069-A2E4-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}	Default	Briefcase
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\syncui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\ContextMenuHandlers\Open With	Default	{09799AFB-AD67-11d1-ABCD-00C04FC30936}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{09799AFB-AD67-11d1-ABCD-00C04FC30936}	Default	Open With Context Menu Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{09799AFB-AD67-11d1-ABCD-00C04FC30936}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\ContextMenuHandlers\Open With EncryptionMenu	Default	{A470F8CF-A1E8-4f65-8335-227475AA5C46}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}	Default	Encryption Context Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\ContextMenuHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\ContextMenuHandlers\{90AA3A4E-1CBA-4233-B8BB-535773D48449}	Default	Taskband Pin
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\ContextMenuHandlers\{a2a9545d-a0c2-42b4-9708-a0b2badd77c8}	Default	Start Menu Pin
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\PropertySheetHandlers\BriefcasePage	Default	{85BBD920-42A0-1069-A2E4-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}	Default	Briefcase
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\syncui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\PropertySheetHandlers\CryptoSignMenu	Default	{7444C719-39BF-11D1-8CD9-00C04FC29D45}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C719-39BF-11D1-8CD9-00C04FC29D45}	Default	CryptSig Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C719-39BF-11D1-8CD9-00C04FC29D45}\InprocServer32	Default	%SystemRoot%\system32\cryptext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C719-39BF-11D1-8CD9-00C04FC29D45}\ProgID	Default	CryptSig.CryptSig.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\PropertySheetHandlers\{3EA48300-8CF6-101B-84FB-666CCB9BCD32}	Default	OLE DocFile Property Page
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\PropertySheetHandlers\{883373C3-BF89-11D1-BE35-080036B11A03}	Default	Summary Properties Page
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\CopyAsPathMenu	Default	{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}	Default	Copy as Path Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\SendTo	Default	{7BA4C740-9E81-11CF-99D3-00AA004AE837}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}	Default	Microsoft SendTo Service
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\batfile\ShellEx\ContextMenuHandlers\Compatibility	Default	{1d27f844-3a1f-4410-85ac-14651078412d}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}	Default	CompatContextMenu Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\InprocServer32	Default	%SystemRoot%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\ProgID	Default	CompatContextMenu.CompatContextMenu.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\batfile\ShellEx\PropertySheetHandlers\PifProps	Default	{86F19A00-42A0-1069-A2E9-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}	Default	.PIF file property pages
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\batfile\ShellEx\PropertySheetHandlers\ShimLayer Property Page	Default	{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\InprocServer32	Default	%windir%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\ProgID	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cmdfile\ShellEx\ContextMenuHandlers\Compatibility	Default	{1d27f844-3a1f-4410-85ac-14651078412d}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}	Default	CompatContextMenu Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\InprocServer32	Default	%SystemRoot%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\ProgID	Default	CompatContextMenu.CompatContextMenu.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cmdfile\ShellEx\PropertySheetHandlers\PifProps	Default	{86F19A00-42A0-1069-A2E9-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}	Default	.PIF file property pages
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cmdfile\ShellEx\PropertySheetHandlers\ShimLayer Property Page	Default	{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\InprocServer32	Default	%windir%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\ProgID	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\comfile\shellex\PropertySheetHandlers\PifProps	Default	{86F19A00-42A0-1069-A2E9-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}	Default	.PIF file property pages
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CompressedFolder\ShellEx\ContextMenuHandlers\{b8cdcb65-b1bf-4b42-9428-1dfdb7ee92af}	Default	Compressed (zipped) Folder Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ConflictFolder\shellex\PropertySheetHandlers\Standard	Default	{F04CC277-03A2-4277-96A9-77967471BDFF}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{F04CC277-03A2-4277-96A9-77967471BDFF}	Default	Sync Center Conflict Properties Extension
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{F04CC277-03A2-4277-96A9-77967471BDFF}\InProcServer32	Default	%SystemRoot%\System32\SyncCenter.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\contact_wab_auto_file\ShellEx\ContextMenuHandlers\WAB	Default	{CF67796C-F57F-45f8-92FB-AD698826C602}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{CF67796C-F57F-45f8-92FB-AD698826C602}	Default	.contact shell context menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{CF67796C-F57F-45f8-92FB-AD698826C602}\InprocServer32	Default	%CommonProgramFiles%\System\wab32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\DesktopBackground\shellex\ContextMenuHandlers\DesktopSlideshow	Default	{0bf754aa-c967-445c-ab3d-d8fda9bae7ef}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{0bf754aa-c967-445c-ab3d-d8fda9bae7ef}	Default	SlideshowContextMenu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{0bf754aa-c967-445c-ab3d-d8fda9bae7ef}\InProcServer32	Default	%SystemRoot%\system32\stobject.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\ContextMenuHandlers\EncryptionMenu	Default	{A470F8CF-A1E8-4f65-8335-227475AA5C46}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}	Default	Encryption Context Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\ContextMenuHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\CopyHookHandlers\FileSystem	Default	{217FC9C0-3AEA-1069-A2DB-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{217FC9C0-3AEA-1069-A2DB-08002B30309D}	Default	Shell Copy Hook
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{217FC9C0-3AEA-1069-A2DB-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\CopyHookHandlers\Sharing	Default	{40dd6e20-7c17-11ce-a804-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\PropertySheetHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\PropertySheetHandlers\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\ContextMenuHandlers\EnhancedStorageShell	Default	{2854F705-3548-414C-A113-93E27C808C85}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{2854F705-3548-414C-A113-93E27C808C85}	Default	Enhanced Storage Context Menu Handler Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{2854F705-3548-414C-A113-93E27C808C85}\InprocServer32	Default	%SystemRoot%\system32\EhStorShell.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{2854F705-3548-414C-A113-93E27C808C85}\ProgID	Default	EhStorShell.ContextMenuHandler.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\ContextMenuHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\ContextMenuHandlers\{59099400-57FF-11CE-BD94-0020AF85B590}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\ContextMenuHandlers\{fbeb8a05-beee-4442-804e-409d6c4515e9}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\PropertySheetHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\PropertySheetHandlers\{7988B573-EC89-11cf-9C00-00AA00A14F56}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\PropertySheetHandlers\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\PropertySheetHandlers\{fbeb8a05-beee-4442-804e-409d6c4515e9}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\exefile\shellex\ContextMenuHandlers\Compatibility	Default	{1d27f844-3a1f-4410-85ac-14651078412d}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}	Default	CompatContextMenu Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\InprocServer32	Default	%SystemRoot%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\ProgID	Default	CompatContextMenu.CompatContextMenu.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\exefile\shellex\PropertySheetHandlers\PifProps	Default	{86F19A00-42A0-1069-A2E9-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}	Default	.PIF file property pages
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\exefile\shellex\PropertySheetHandlers\ShimLayer Property Page	Default	{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\InprocServer32	Default	%windir%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\ProgID	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\ContextMenuHandlers\BriefcaseMenu	Default	{85BBD920-42A0-1069-A2E4-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}	Default	Briefcase
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\syncui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\ContextMenuHandlers\Library Location	Default	{3dad6c5d-2167-4cae-9914-f99e41c12cfa}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}	Default	Include In Library Sub Context Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\DragDropHandlers\{BD472F60-27FA-11cf-B8B4-444553540000}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\PropertySheetHandlers\BriefcasePage	Default	{85BBD920-42A0-1069-A2E4-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}	Default	Briefcase
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\syncui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\fonfile\shellex\ContextMenuHandlers\InstallFont	Default	{1a184871-359e-4f67-aad9-5b9905d62232}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}	Default	Microsoft Windows Font Context Menu Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}\InProcServer32	Default	%SystemRoot%\system32\fontext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\group_wab_auto_file\ShellEx\ContextMenuHandlers\WAB	Default	{16C2C29D-0E5F-45f3-A445-03E03F587B7D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{16C2C29D-0E5F-45f3-A445-03E03F587B7D}	Default	.group shell context menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{16C2C29D-0E5F-45f3-A445-03E03F587B7D}\InprocServer32	Default	%CommonProgramFiles%\System\wab32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\JSEFile\ShellEx\PropertySheetHandlers\WSHProps	Default	{60254CA5-953B-11CF-8C96-00AA00B8708C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{60254CA5-953B-11CF-8C96-00AA00B8708C}	Default	Shell Extension For Windows Script Host
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\JSFile\ShellEx\PropertySheetHandlers\WSHProps	Default	{60254CA5-953B-11CF-8C96-00AA00B8708C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{60254CA5-953B-11CF-8C96-00AA00B8708C}	Default	Shell Extension For Windows Script Host
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\LibraryFolder\shellex\ContextMenuHandlers\LibraryFolder	Default	{0af96ede-aebf-41ed-a1c8-cf7a685505b6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{0af96ede-aebf-41ed-a1c8-cf7a685505b6}	Default	Library Folder Context Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{0af96ede-aebf-41ed-a1c8-cf7a685505b6}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\LibraryLocation\ShellEx\ContextMenuHandlers\OpenContainingFolderMenu	Default	{37ea3a21-7493-4208-a011-7f9ea79ce9f5}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{37ea3a21-7493-4208-a011-7f9ea79ce9f5}	Default	Open Containing Folder Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{37ea3a21-7493-4208-a011-7f9ea79ce9f5}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\lnkfile\shellex\ContextMenuHandlers\Compatibility	Default	{1d27f844-3a1f-4410-85ac-14651078412d}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}	Default	CompatContextMenu Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\InprocServer32	Default	%SystemRoot%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\ProgID	Default	CompatContextMenu.CompatContextMenu.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\lnkfile\shellex\ContextMenuHandlers\OpenContainingFolderMenu	Default	{37ea3a21-7493-4208-a011-7f9ea79ce9f5}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{37ea3a21-7493-4208-a011-7f9ea79ce9f5}	Default	Open Containing Folder Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{37ea3a21-7493-4208-a011-7f9ea79ce9f5}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\lnkfile\shellex\ContextMenuHandlers\{00021401-0000-0000-C000-000000000046}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\lnkfile\shellex\PropertySheetHandlers\ShimLayer Property Page	Default	{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\InprocServer32	Default	%windir%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\ProgID	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\MediaCenter.WTVFile\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Msi.Package\shellex\ContextMenuHandlers\Compatibility	Default	{1d27f844-3a1f-4410-85ac-14651078412d}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}	Default	CompatContextMenu Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\InprocServer32	Default	%SystemRoot%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1d27f844-3a1f-4410-85ac-14651078412d}\ProgID	Default	CompatContextMenu.CompatContextMenu.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Msi.Package\shellex\PropertySheetHandlers\ShimLayer Property Page	Default	{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\InprocServer32	Default	%windir%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\ProgID	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\MSILink\shellex\ContextMenuHandlers\{90AA3A4E-1CBA-4233-B8BB-535773D48449}	Default	Taskband Pin
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\MSILink\shellex\ContextMenuHandlers\{a2a9545d-a0c2-42b4-9708-a0b2badd77c8}	Default	Start Menu Pin
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\OpenSearchProvider\ShellEx\ContextMenuHandlers\OpenSearchContextMenu	Default	{F9A7AB61-C0BC-490e-A7FE-BFF26B327A3F}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{F9A7AB61-C0BC-490e-A7FE-BFF26B327A3F}	Default	OpenSearch Result Context Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{F9A7AB61-C0BC-490e-A7FE-BFF26B327A3F}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\otffile\shellex\ContextMenuHandlers\InstallFont	Default	{1a184871-359e-4f67-aad9-5b9905d62232}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}	Default	Microsoft Windows Font Context Menu Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}\InProcServer32	Default	%SystemRoot%\system32\fontext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PairingFolderItem\shellex\PropertySheetHandlers\{3B2D194D-F107-4489-ABF8-57A125275E4E}	Default	Bluewire General Property Sheet
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PairingFolderItemBluetooth\shellex\PropertySheetHandlers\{61F7B364-432C-4D04-BBC1-7FC1BF3807A8}	Default	Bluetooth Services Property Sheet
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\pfmfile\shellex\ContextMenuHandlers\InstallFont	Default	{1a184871-359e-4f67-aad9-5b9905d62232}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}	Default	Microsoft Windows Font Context Menu Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}\InProcServer32	Default	%SystemRoot%\system32\fontext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\piffile\shellex\PropertySheetHandlers\PifProps	Default	{86F19A00-42A0-1069-A2E9-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}	Default	.PIF file property pages
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{86F19A00-42A0-1069-A2E9-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\piffile\shellex\PropertySheetHandlers\ShimLayer Property Page	Default	{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\InprocServer32	Default	%windir%\system32\acppage.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8}\ProgID	Default	LayerUIPropPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PKOFile\shellex\ContextMenuHandlers\CryptoMenu	Default	{7444C717-39BF-11D1-8CD9-00C04FC29D45}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C717-39BF-11D1-8CD9-00C04FC29D45}	Default	CryptPKO Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C717-39BF-11D1-8CD9-00C04FC29D45}\InprocServer32	Default	%SystemRoot%\system32\cryptext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C717-39BF-11D1-8CD9-00C04FC29D45}\ProgID	Default	CryptPKO.CryptPKO.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PKOFile\shellex\PropertySheetHandlers\CryptoMenu	Default	{7444C717-39BF-11D1-8CD9-00C04FC29D45}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C717-39BF-11D1-8CD9-00C04FC29D45}	Default	CryptPKO Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C717-39BF-11D1-8CD9-00C04FC29D45}\InprocServer32	Default	%SystemRoot%\system32\cryptext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7444C717-39BF-11D1-8CD9-00C04FC29D45}\ProgID	Default	CryptPKO.CryptPKO.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Printers\shellex\PropertySheetHandlers\ICM Printer Management	Default	{675F097E-4C4D-11D0-B6C1-0800091AA605}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{675F097E-4C4D-11D0-B6C1-0800091AA605}	Default	ICM Printer Management
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{675F097E-4C4D-11D0-B6C1-0800091AA605}\InProcServer32	Default	%SystemRoot%\system32\colorui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\RDBFileProperties.1\shellex\PropertySheetHandlers\RDBFilePropSheet1	Default	{55B3A0BD-4D28-42fe-8CFB-FA3EDFF969B8}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{55B3A0BD-4D28-42fe-8CFB-FA3EDFF969B8}\InProcServer32	Default	%SystemRoot%\system32\sysmain.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Results\ShellEx\ContextMenuHandlers\OpenContainingFolderMenu	Default	{37ea3a21-7493-4208-a011-7f9ea79ce9f5}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{37ea3a21-7493-4208-a011-7f9ea79ce9f5}	Default	Open Containing Folder Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{37ea3a21-7493-4208-a011-7f9ea79ce9f5}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Stack.Audio\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Stack.Image\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Stack.Video\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SyncMgrContent\shellex\PropertySheetHandlers\Standard	Default	{B32D3949-ED98-4DBB-B347-17A144969BBA}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{B32D3949-ED98-4DBB-B347-17A144969BBA}	Default	Sync Center Item Properties Extension
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{B32D3949-ED98-4DBB-B347-17A144969BBA}\InProcServer32	Default	%SystemRoot%\System32\SyncCenter.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SyncMgrFolder\shellex\PropertySheetHandlers\Standard	Default	{576C9E85-1300-4EF5-BF6B-D00509F4EDCD}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{576C9E85-1300-4EF5-BF6B-D00509F4EDCD}	Default	Sync Center Handler Properties Extension
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{576C9E85-1300-4EF5-BF6B-D00509F4EDCD}\InProcServer32	Default	%SystemRoot%\System32\SyncCenter.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SyncResultsFolder\shellex\PropertySheetHandlers\Standard	Default	{4B534112-3AF6-4697-A77C-D62CE9B9E7CF}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{4B534112-3AF6-4697-A77C-D62CE9B9E7CF}	Default	Sync Center Event Properties Extension
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{4B534112-3AF6-4697-A77C-D62CE9B9E7CF}\InProcServer32	Default	%SystemRoot%\System32\SyncCenter.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ttcfile\shellex\ContextMenuHandlers\InstallFont	Default	{1a184871-359e-4f67-aad9-5b9905d62232}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}	Default	Microsoft Windows Font Context Menu Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}\InProcServer32	Default	%SystemRoot%\system32\fontext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ttffile\shellex\ContextMenuHandlers\InstallFont	Default	{1a184871-359e-4f67-aad9-5b9905d62232}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}	Default	Microsoft Windows Font Context Menu Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1a184871-359e-4f67-aad9-5b9905d62232}\InProcServer32	Default	%SystemRoot%\system32\fontext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\UserLibraryFolder\shellex\ContextMenuHandlers\SendTo	Default	{7BA4C740-9E81-11CF-99D3-00AA004AE837}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}	Default	Microsoft SendTo Service
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\UserLibraryFolder\shellex\ContextMenuHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBEFile\ShellEx\PropertySheetHandlers\WSHProps	Default	{60254CA5-953B-11CF-8C96-00AA00B8708C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{60254CA5-953B-11CF-8C96-00AA00B8708C}	Default	Shell Extension For Windows Script Host
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBSFile\ShellEx\PropertySheetHandlers\WSHProps	Default	{60254CA5-953B-11CF-8C96-00AA00B8708C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{60254CA5-953B-11CF-8C96-00AA00B8708C}	Default	Shell Extension For Windows Script Host
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP.WTVFile\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.3G2\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.3GP\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ADTS\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.M2TS\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.M4A\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MOV\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MP4\shellex\ContextMenuHandlers\PlayTo	Default	{7AD84985-87B4-4a16-BE58-8B72A5B390F7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}	Default	PlayTo
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7AD84985-87B4-4a16-BE58-8B72A5B390F7}\InProcServer32	Default	%PROGRAMFILES%\Windows Media Player\wmpnssui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WPDContextMenu.Image\shellex\ContextMenuHandlers\ShImageViewer	Default	{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}	Default	Windows Photo Viewer Image Verbs
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}\InProcServer32	Default	%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WPDContextMenu.Video\shellex\ContextMenuHandlers\ShImageViewer	Default	{E598560B-28D5-46aa-A14A-8A3BEA34B576}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E598560B-28D5-46aa-A14A-8A3BEA34B576}	Default	Windows Photo Viewer Video Verbs
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E598560B-28D5-46aa-A14A-8A3BEA34B576}\InProcServer32	Default	%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WSFFile\ShellEx\PropertySheetHandlers\WSHProps	Default	{60254CA5-953B-11CF-8C96-00AA00B8708C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{60254CA5-953B-11CF-8C96-00AA00B8708C}	Default	Shell Extension For Windows Script Host
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WSHFile\ShellEx\PropertySheetHandlers\WSHProps	Default	{60254CA5-953B-11CF-8C96-00AA00B8708C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{60254CA5-953B-11CF-8C96-00AA00B8708C}	Default	Shell Extension For Windows Script Host
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\batfile\shell\edit\command	Default	%SystemRoot%\System32\NOTEPAD.EXE %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\batfile\shell\open\command	Default	"%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\batfile\shell\print\command	Default	%SystemRoot%\System32\NOTEPAD.EXE /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\batfile\shell\runas\command	Default	%SystemRoot%\System32\cmd.exe /C "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\campfile\shell\Install Profile\command	Default	"colorcpl.exe" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CATFile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenCAT %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cdmpfile\shell\Install Profile\command	Default	"colorcpl.exe" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CERFile\shell\add\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtAddCER %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CERFile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenCER %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CertificateStoreFile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenSTR %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\certificate_wab_auto_file\shell\open\command	Default	"%ProgramFiles%\Windows Mail\wab.exe" /certificate "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\chm.file\shell\open\command	Default	"%SystemRoot%\hh.exe" %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cmdfile\shell\edit\command	Default	%SystemRoot%\System32\NOTEPAD.EXE %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cmdfile\shell\open\command	Default	"%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cmdfile\shell\print\command	Default	%SystemRoot%\System32\NOTEPAD.EXE /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cmdfile\shell\runas\command	Default	%SystemRoot%\System32\cmd.exe /C "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\comfile\shell\open\command	Default	"%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\contact_wab_auto_file\shell\open\command	Default	"%ProgramFiles%\Windows Mail\wab.exe" /contact "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\contact_wab_auto_file\shell\print\command	Default	"%ProgramFiles%\Windows Mail\wab.exe" /Print "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cplfile\shell\cplopen\command	Default	%SystemRoot%\System32\control.exe "%1",%*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\cplfile\shell\runas\command	Default	%SystemRoot%\System32\rundll32.exe shell32.dll,Control_RunDLLAsUser "%1",%*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CRLFile\shell\add\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtAddCRL %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CRLFile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenCRL %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\docxfile\shell\open\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\docxfile\shell\print\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" /p "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\docxfile\shell\printto\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\emffile\shell\open\command	Default	"%systemroot%\system32\mspaint.exe" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\emffile\shell\print\command	Default	"%systemroot%\system32\mspaint.exe" /p "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\emffile\shell\printto\command	Default	"%systemroot%\system32\mspaint.exe" /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\evtfile\Shell\open\command	Default	%SystemRoot%\system32\eventvwr.exe /l:"%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\evtxfile\Shell\open\command	Default	%SystemRoot%\system32\eventvwr.exe /l:"%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\exefile\shell\open\command	Default	"%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\exefile\shell\runas\command	Default	"%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\fonfile\shell\preview\command	Default	%SystemRoot%\System32\fontview.exe %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\fonfile\shell\print\command	Default	%SystemRoot%\System32\fontview.exe /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\giffile\shell\printto\command	Default	"%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\shimgvw.dll",ImageView_PrintTo /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\gmmpfile\shell\Install Profile\command	Default	"colorcpl.exe" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\group_wab_auto_file\shell\edit\command	Default	"%ProgramFiles%\Windows Mail\wab.exe" /Group "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\group_wab_auto_file\shell\open\command	Default	"%ProgramFiles%\Windows Mail\wab.exe" /Group "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\group_wab_auto_file\shell\print\command	Default	"%ProgramFiles%\Windows Mail\wab.exe" /Print "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\hlpfile\shell\open\command	Default	%SystemRoot%\winhlp32.exe %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\htmlfile\shell\printto\command	Default	rundll32.exe %windir%\system32\mshtml.dll,PrintHTML "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\icmfile\shell\Install Profile\command	Default	"colorcpl.exe" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\icofile\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\inffile\shell\Install\command	Default	%SystemRoot%\System32\InfDefaultInstall.exe "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\inffile\shell\open\command	Default	%SystemRoot%\system32\NOTEPAD.EXE %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\inffile\shell\print\command	Default	%SystemRoot%\system32\NOTEPAD.EXE /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\inifile\shell\open\command	Default	%SystemRoot%\system32\NOTEPAD.EXE %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\inifile\shell\print\command	Default	%SystemRoot%\system32\NOTEPAD.EXE /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\jpegfile\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\jpegfile\shell\printto\command	Default	"%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\shimgvw.dll",ImageView_PrintTo /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\mscfile\shell\Author\command	Default	%SystemRoot%\system32\mmc.exe /a "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\mscfile\shell\open\command	Default	%SystemRoot%\system32\mmc.exe "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\mscfile\shell\RunAs\command	Default	%SystemRoot%\system32\mmc.exe "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\MSInfoFile\shell\open\command	Default	%SystemRoot%\system32\msinfo32.exe "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\MSSppLicenseFile\shell\open\command	Default	"iexplore.exe" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\MSSppPackageFile\shell\open\command	Default	rundll32.exe sppcc.dll, OpenPackage %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\msstylesfile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\shell32.dll,Control_RunDLL %SystemRoot%\system32\desk.cpl desk,@Appearance /Action:OpenMSTheme /file:"%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\odtfile\shell\open\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\odtfile\shell\print\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" /p "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\odtfile\shell\printto\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\opensearchfilefolderresult\shell\open\command	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\otffile\shell\preview\command	Default	%SystemRoot%\System32\fontview.exe %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\otffile\shell\print\command	Default	%SystemRoot%\System32\fontview.exe /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\P7RFile\shell\add\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtAddP7R %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\P7RFile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenP7R %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\pbkfile\Shell\open\command	Default	%SystemRoot%\system32\rasphone.exe -f "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PerfFile\shell\open\command	Default	%SystemRoot%\system32\mmc.exe %systemroot%\system32\perfmon.msc /F "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\pfmfile\shell\preview\command	Default	%SystemRoot%\System32\fontview.exe %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\pfmfile\shell\print\command	Default	%SystemRoot%\System32\fontview.exe /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PFXFile\shell\add\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtAddPFX %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PhotoViewer.FileAssoc.Bitmap\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PhotoViewer.FileAssoc.JFIF\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PhotoViewer.FileAssoc.Jpeg\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PhotoViewer.FileAssoc.Png\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PhotoViewer.FileAssoc.Tiff\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PhotoViewer.FileAssoc.Wdp\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\piffile\shell\open\command	Default	"%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\pjpegfile\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\pjpegfile\shell\printto\command	Default	"%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\shimgvw.dll",ImageView_PrintTo /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\pngfile\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\pngfile\shell\printto\command	Default	"%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\shimgvw.dll",ImageView_PrintTo /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\prffile\shell\Open\command	Default	"%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\msrating.dll",ClickedOnPRF %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ratfile\Shell\Open\Command	Default	"%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\msrating.dll",ClickedOnRAT %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\RDP.File\shell\Connect\command	Default	mstsc.exe "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\RDP.File\shell\Edit\command	Default	mstsc.exe -edit "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\regfile\shell\edit\command	Default	%SystemRoot%\system32\notepad.exe "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\regfile\shell\open\command	Default	regedit.exe "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\regfile\shell\print\command	Default	%SystemRoot%\system32\notepad.exe /p "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\rlefile\shell\open\command	Default	"%systemroot%\system32\mspaint.exe" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\rlefile\shell\print\command	Default	"%systemroot%\system32\mspaint.exe" /p "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\rlefile\shell\printto\command	Default	"%systemroot%\system32\mspaint.exe" /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\rtffile\shell\open\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\rtffile\shell\print\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" /p "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\rtffile\shell\printto\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\scrfile\shell\config\command	Default	"%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\scrfile\shell\install\command	Default	rundll32.exe desk.cpl,InstallScreenSaver %l
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\scrfile\shell\open\command	Default	"%1" /S
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SHCmdFile\shell\open\command	Default	%SystemRoot%\explorer.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SPCFile\shell\add\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtAddSPC %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SPCFile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenPKCS7 %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\STLFile\shell\add\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtAddCTL %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\STLFile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenCTL %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\textfile\shell\open\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\textfile\shell\print\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" /p "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\textfile\shell\printto\command	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\themefile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\shell32.dll,Control_RunDLL %SystemRoot%\system32\desk.cpl desk,@Themes /Action:OpenTheme /file:"%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\themepackfile\shell\open\command	Default	%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\shell32.dll,Control_RunDLL %SystemRoot%\system32\desk.cpl desk,@Themes /Action:OpenTheme /file:"%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ttcfile\shell\preview\command	Default	%SystemRoot%\System32\fontview.exe %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ttcfile\shell\print\command	Default	%SystemRoot%\System32\fontview.exe /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ttffile\shell\preview\command	Default	%SystemRoot%\System32\fontview.exe %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ttffile\shell\print\command	Default	%SystemRoot%\System32\fontview.exe /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\txtfile\shell\open\command	Default	%SystemRoot%\system32\NOTEPAD.EXE %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\txtfile\shell\print\command	Default	%SystemRoot%\system32\NOTEPAD.EXE /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\txtfile\shell\printto\command	Default	%SystemRoot%\system32\notepad.exe /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBEFile\Shell\Edit\Command	Default	"%SystemRoot%\System32\Notepad.exe" %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBEFile\Shell\Open\Command	Default	"%SystemRoot%\System32\WScript.exe" "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBEFile\Shell\Open2\Command	Default	"%SystemRoot%\System32\CScript.exe" "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBEFile\Shell\Print\Command	Default	"%SystemRoot%\System32\Notepad.exe" /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBSFile\Shell\Edit\Command	Default	"%SystemRoot%\System32\Notepad.exe" %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBSFile\Shell\Open\Command	Default	"%SystemRoot%\System32\WScript.exe" "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBSFile\Shell\Open2\Command	Default	"%SystemRoot%\System32\CScript.exe" "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VBSFile\Shell\Print\Command	Default	"%SystemRoot%\System32\Notepad.exe" /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\vcard_wab_auto_file\shell\open\command	Default	"%ProgramFiles%\Windows Mail\wab.exe" /vcard "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wab_auto_file\shell\open\command	Default	"%ProgramFiles%\Windows Mail\wab.exe" /Import "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wbcatfile\shell\open\command	Default	%SystemRoot%\system32\sdclt.exe /restorepage
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wcxfile\shell\Open\Command	Default	rundll32.exe xwizards.dll,RunWizard /u {7940acf8-60ba-4213-a7c3-f3b400ee266d} /z%1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7940ACF8-60BA-4213-A7C3-F3B400EE266D}	Default	Setup a Workspace Task Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7940ACF8-60BA-4213-A7C3-F3B400EE266D}\InProcServer32	Default	%SystemRoot%\system32\tsworkspace.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wdpfile\shell\open\command	Default	%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wdpfile\shell\print\command	Default	rundll32.exe %SystemRoot%\system32\shimgvw.dll,ImageView_Fullscreen %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wdpfile\shell\printto\command	Default	rundll32.exe %SystemRoot%\system32\shimgvw.dll,ImageView_PrintTo /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Windows.IsoFile\shell\burn\command	Default	%SystemRoot%\System32\isoburn.exe "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wmffile\shell\open\command	Default	"%systemroot%\system32\mspaint.exe" "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wmffile\shell\print\command	Default	"%systemroot%\system32\mspaint.exe" /p "%1"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\wmffile\shell\printto\command	Default	"%systemroot%\system32\mspaint.exe" /pt "%1" "%2" "%3" "%4"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP.DVR-MSFile\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP.DVR-MSFile\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP.WTVFile\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP.WTVFile\shell\play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.3G2\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.3G2\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.3GP\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.3GP\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ADTS\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ADTS\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.AIFF\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.AIFF\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:7 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:7 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASX\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASX\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.AU\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.AU\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.AVI\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:8 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.AVI\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:8 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.CDA\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.CDA\shell\play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.M2TS\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:12 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.M2TS\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:12 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.m3u\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.m3u\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.M4A\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.M4A\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MIDI\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MIDI\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MOV\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MOV\shell\play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MP3\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MP3\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MP4\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MP4\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:6 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MPEG\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:9 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.MPEG\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:9 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.TTS\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:12 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.TTS\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:12 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WAV\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WAV\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WAX\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WAX\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.wma\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:5 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.wma\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:5 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WMD\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /WMPackage:"%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WMS\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /layout:"%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WMV\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:7 /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WMV\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /prefetch:7 /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WMZ\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /layout:"%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WPL\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WPL\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WVX\shell\open\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Open "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.WVX\shell\Play\command	Default	"%ProgramFiles%\Windows Media Player\wmplayer.exe" /Play "%L"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WSFFile\Shell\Edit\Command	Default	"%SystemRoot%\System32\Notepad.exe" %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WSFFile\Shell\Open\Command	Default	"%SystemRoot%\System32\WScript.exe" "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WSFFile\Shell\Open2\Command	Default	"%SystemRoot%\System32\CScript.exe" "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WSFFile\Shell\Print\Command	Default	"%SystemRoot%\System32\Notepad.exe" /p %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WSHFile\Shell\Open\Command	Default	"%SystemRoot%\System32\WScript.exe" "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WSHFile\Shell\Open2\Command	Default	"%SystemRoot%\System32\CScript.exe" "%1" %*
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\CopyAsPathMenu	Default	{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}	Default	Copy as Path Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\SendTo	Default	{7BA4C740-9E81-11CF-99D3-00AA004AE837}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}	Default	Microsoft SendTo Service
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\CopyAsPathMenu	Default	{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}	Default	Copy as Path Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\SendTo	Default	{7BA4C740-9E81-11CF-99D3-00AA004AE837}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}	Default	Microsoft SendTo Service
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}	FriendlyName	DV Muxer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}	CLSID	{129D7E40-C10D-11D0-AFB9-00AA00B67A42}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}	Default	DV Muxer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1643E180-90F5-11CE-97D5-00AA0055595A}	FriendlyName	Color Space Converter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1643E180-90F5-11CE-97D5-00AA0055595A}	CLSID	{1643E180-90F5-11CE-97D5-00AA0055595A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}	Default	Color Space Converter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{187463A0-5BB7-11D3-ACBE-0080C75E246E}	FriendlyName	WM ASF Reader
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{187463A0-5BB7-11D3-ACBE-0080C75E246E}	CLSID	{187463A0-5BB7-11D3-ACBE-0080C75E246E}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}	Default	WM ASF Reader
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1A56451B-1315-4012-861E-8587333DD631}	FriendlyName	Screen Capture filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1A56451B-1315-4012-861E-8587333DD631}	CLSID	{1A56451B-1315-4012-861E-8587333DD631}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1A56451B-1315-4012-861E-8587333DD631}	Default	WMEnc Screen Capture Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}	FriendlyName	AVI Splitter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}	CLSID	{1B544C20-FD0B-11CE-8C63-00AA0044B51E}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}	Default	AVI Splitter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}	FriendlyName	VGA 16 Color Ditherer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}	CLSID	{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}	Default	VGA 16 color ditherer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}	FriendlyName	SBE2MediaTypeProfile
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}	CLSID	{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}	Default	SBE2MediaTypeProfile
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{212690FB-83E5-4526-8FD7-74478B7939CD}	FriendlyName	Microsoft DTV-DVD Video Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{212690FB-83E5-4526-8FD7-74478B7939CD}	CLSID	{212690FB-83E5-4526-8FD7-74478B7939CD}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}	Default	Microsoft DTV-DVD Video Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{280A3020-86CF-11D1-ABE6-00A0C905F375}	FriendlyName	AC3 Parser Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{280A3020-86CF-11D1-ABE6-00A0C905F375}	CLSID	{280A3020-86CF-11D1-ABE6-00A0C905F375}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}	Default	AC3 Parser Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}	FriendlyName	StreamBufferSink
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}	CLSID	{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}	Default	StreamBufferSink
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{301056D0-6DFF-11D2-9EEB-006008039E37}	FriendlyName	MJPEG Decompressor
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{301056D0-6DFF-11D2-9EEB-006008039E37}	CLSID	{301056D0-6DFF-11D2-9EEB-006008039E37}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}	Default	MJPEG Decompressor
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{336475D0-942A-11CE-A870-00AA002FEAB5}	FriendlyName	MPEG-I Stream Splitter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{336475D0-942A-11CE-A870-00AA002FEAB5}	CLSID	{336475D0-942A-11CE-A870-00AA002FEAB5}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}	Default	MPEG-I Stream Splitter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}	FriendlyName	SAMI (CC) Parser
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}	CLSID	{33FACFE0-A9BE-11D0-A520-00A0D10129C0}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}	Default	SAMI (CC) Reader
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}	FriendlyName	VBI Codec
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}	CLSID	{370A1D5D-DDEB-418C-81CD-189E0D4FA443}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}	Default	VBI Codec
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}	FriendlyName	MPEG-2 Splitter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}	CLSID	{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}	Default	MPEG-2 Splitter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{3D07A539-35CA-447C-9B05-8D85CE924F9E}	FriendlyName	Closed Captions Analysis Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{3D07A539-35CA-447C-9B05-8D85CE924F9E}	CLSID	{3D07A539-35CA-447C-9B05-8D85CE924F9E}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}	Default	Closed Captions Analysis Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{3E458037-0CA6-41aa-A594-2AA6C02D709B}	FriendlyName	SBE2FileScan
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{3E458037-0CA6-41aa-A594-2AA6C02D709B}	CLSID	{3E458037-0CA6-41aa-A594-2AA6C02D709B}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}	Default	SBE2FileScan
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}	FriendlyName	Microsoft MPEG-2 Video Encoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}	CLSID	{42150CD9-CA9A-4EA5-9939-30EE037F6E74}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}	Default	Microsoft MPEG-2 Video Encoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{48025243-2D39-11CE-875D-00608CB78066}	FriendlyName	Internal Script Command Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{48025243-2D39-11CE-875D-00608CB78066}	CLSID	{48025243-2D39-11CE-875D-00608CB78066}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{48025243-2D39-11CE-875D-00608CB78066}	Default	Internal Text Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}	FriendlyName	MPEG Audio Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}	CLSID	{4A2286E0-7BEF-11CE-9BD9-0000E202599C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}	Default	MPEG Audio Codec
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}	FriendlyName	DV Splitter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}	CLSID	{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}	Default	DV Splitter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{51B4ABF3-748F-4E3B-A276-C828330E926A}	FriendlyName	Video Mixing Renderer 9
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{51B4ABF3-748F-4E3B-A276-C828330E926A}	CLSID	{51B4ABF3-748F-4E3B-A276-C828330E926A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}	Default	Video Mixing Renderer 9
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}	FriendlyName	Microsoft MPEG-2 Encoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}	CLSID	{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}	Default	Microsoft MPEG-2 Encoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6A08CF80-0E18-11CF-A24D-0020AFD79767}	FriendlyName	ACM Wrapper
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6A08CF80-0E18-11CF-A24D-0020AFD79767}	CLSID	{6A08CF80-0E18-11CF-A24D-0020AFD79767}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}	Default	ACM Wrapper
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}	FriendlyName	Video Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}	CLSID	{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}	Default	Default Video Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}	FriendlyName	MPEG-2 Video Stream Analyzer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}	CLSID	{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}	Default	Mpeg-2 Video Stream Analysis
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6E8D4A20-310C-11D0-B79A-00AA003767A7}	FriendlyName	Line 21 Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6E8D4A20-310C-11D0-B79A-00AA003767A7}	CLSID	{6E8D4A20-310C-11D0-B79A-00AA003767A7}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6E8D4A20-310C-11D0-B79A-00AA003767A7}	Default	Line 21 Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}	FriendlyName	Video Port Manager
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}	CLSID	{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}	Default	Video Port Manager
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{70E102B0-5556-11CE-97C0-00AA0055595A}	FriendlyName	Video Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{70E102B0-5556-11CE-97C0-00AA0055595A}	CLSID	{70E102B0-5556-11CE-97C0-00AA0055595A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}	Default	Video Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}	FriendlyName	VPS Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}	CLSID	{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}	Default	VPS Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}	FriendlyName	WM ASF Writer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}	CLSID	{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}	Default	WM ASF Writer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{814B9800-1C88-11D1-BAD9-00609744111A}	FriendlyName	VBI Surface Allocator
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{814B9800-1C88-11D1-BAD9-00609744111A}	CLSID	{814B9800-1C88-11D1-BAD9-00609744111A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}	Default	VBI Surface Allocator
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}	FriendlyName	File writer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}	CLSID	{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}	Default	File Writer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{9B8C4620-2C1A-11D0-8493-00A02438AD48}	FriendlyName	DVD Navigator
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{9B8C4620-2C1A-11D0-8493-00A02438AD48}	CLSID	{9B8C4620-2C1A-11D0-8493-00A02438AD48}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}	Default	DVD Navigator
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{A0025E90-E45B-11D1-ABE9-00A0C905F375}	FriendlyName	Overlay Mixer2
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{A0025E90-E45B-11D1-ABE9-00A0C905F375}	CLSID	{A0025E90-E45B-11D1-ABE9-00A0C905F375}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{A0025E90-E45B-11D1-ABE9-00A0C905F375}	Default	Overlay Mixer2
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{A888DF60-1E90-11CF-AC98-00AA004C0FA9}	FriendlyName	AVI Draw
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{A888DF60-1E90-11CF-AC98-00AA004C0FA9}	CLSID	{A888DF60-1E90-11CF-AC98-00AA004C0FA9}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{A888DF60-1E90-11CF-AC98-00AA004C0FA9}	Default	AVI Draw Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{AB9D6472-752F-43F6-B29E-61207BDA8E06}	FriendlyName	RDP DShow Redirection Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{AB9D6472-752F-43F6-B29E-61207BDA8E06}	CLSID	{AB9D6472-752F-43F6-B29E-61207BDA8E06}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}	Default	RDP DShow Video Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InprocServer32	Default	%SystemRoot%\system32\DShowRdpFilter.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}	FriendlyName	Microsoft MPEG-2 Audio Encoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}	CLSID	{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}	Default	Microsoft MPEG-2 Audio Encoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}	FriendlyName	WST Pager
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}	CLSID	{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}	Default	WST Pager
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}	FriendlyName	MPEG-2 Demultiplexer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}	CLSID	{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}	Default	MPEG-2 Demultiplexer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}	FriendlyName	DV Video Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}	CLSID	{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}	Default	DV Video Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C1F400A0-3F08-11D3-9F0B-006008039E37}	FriendlyName	SampleGrabber
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C1F400A0-3F08-11D3-9F0B-006008039E37}	CLSID	{C1F400A0-3F08-11D3-9F0B-006008039E37}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}	Default	Sample Grabber
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C1F400A4-3F08-11D3-9F0B-006008039E37}	FriendlyName	Null Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C1F400A4-3F08-11D3-9F0B-006008039E37}	CLSID	{C1F400A4-3F08-11D3-9F0B-006008039E37}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}	Default	Null Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C666E115-BB62-4027-A113-82D643FE2D99}	FriendlyName	MPEG-2 Sections and Tables
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C666E115-BB62-4027-A113-82D643FE2D99}	CLSID	{C666E115-BB62-4027-A113-82D643FE2D99}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}	Default	MPEG-2 Sections and Tables
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}	FriendlyName	Microsoft AC3 Encoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}	CLSID	{C6B400E2-20A7-4E58-A2FE-24619682CE6C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}	Default	Microsoft AC3 Encoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}	FriendlyName	StreamBufferSource
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}	CLSID	{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}	Default	StreamBufferSource
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}	FriendlyName	Smart Tee
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}	CLSID	{CC58E280-8AA1-11D1-B3F1-00AA003761C5}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}	Default	Smart Tee Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{CD8743A1-3736-11D0-9E69-00C04FD7C15B}	FriendlyName	Overlay Mixer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{CD8743A1-3736-11D0-9E69-00C04FD7C15B}	CLSID	{CD8743A1-3736-11D0-9E69-00C04FD7C15B}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{CD8743A1-3736-11D0-9E69-00C04FD7C15B}	Default	Overlay Mixer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}	FriendlyName	AVI Decompressor
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}	CLSID	{CF49D4E0-1115-11CE-B03A-0020AF0BA770}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}	Default	AVI Decompressor
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D3588AB0-0781-11CE-B03A-0020AF0BA770}	FriendlyName	AVI/WAV File Source
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D3588AB0-0781-11CE-B03A-0020AF0BA770}	CLSID	{D3588AB0-0781-11CE-B03A-0020AF0BA770}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}	Default	AVI/WAV File Source
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D51BD5A1-7548-11CF-A520-0080C77EF58A}	FriendlyName	Wave Parser
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D51BD5A1-7548-11CF-A520-0080C77EF58A}	CLSID	{D51BD5A1-7548-11CF-A520-0080C77EF58A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}	Default	Wave Parser
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D51BD5A2-7548-11CF-A520-0080C77EF58A}	FriendlyName	MIDI Parser
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D51BD5A2-7548-11CF-A520-0080C77EF58A}	CLSID	{D51BD5A2-7548-11CF-A520-0080C77EF58A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}	Default	MIDI Parser
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D51BD5A3-7548-11CF-A520-0080C77EF58A}	FriendlyName	Multi-file Parser
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D51BD5A3-7548-11CF-A520-0080C77EF58A}	CLSID	{D51BD5A3-7548-11CF-A520-0080C77EF58A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}	Default	Multi-file Parser
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D51BD5A5-7548-11CF-A520-0080C77EF58A}	FriendlyName	File stream renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{D51BD5A5-7548-11CF-A520-0080C77EF58A}	CLSID	{D51BD5A5-7548-11CF-A520-0080C77EF58A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}	Default	File stream renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}	FriendlyName	Microsoft DTV-DVD Audio Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}	CLSID	{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}	Default	Microsoft DTV-DVD Audio Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E2448508-95DA-4205-9A27-7EC81E723B1A}	FriendlyName	StreamBufferSink2
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E2448508-95DA-4205-9A27-7EC81E723B1A}	CLSID	{E2448508-95DA-4205-9A27-7EC81E723B1A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}	Default	SBE2 Sink
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E2510970-F137-11CE-8B67-00AA00A3F1A6}	FriendlyName	AVI Mux
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E2510970-F137-11CE-8B67-00AA00A3F1A6}	CLSID	{E2510970-F137-11CE-8B67-00AA00A3F1A6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}	Default	AVI mux
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}	FriendlyName	Line 21 Decoder 2
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}	CLSID	{E4206432-01A1-4BEE-B3E1-3702C8EDC574}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}	Default	Line 21 Decoder 2
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E436EBB5-524F-11CE-9F53-0020AF0BA770}	FriendlyName	File Source (Async.)
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E436EBB5-524F-11CE-9F53-0020AF0BA770}	CLSID	{E436EBB5-524F-11CE-9F53-0020AF0BA770}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}	Default	File Source (Async.)
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E436EBB6-524F-11CE-9F53-0020AF0BA770}	FriendlyName	File Source (URL)
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E436EBB6-524F-11CE-9F53-0020AF0BA770}	CLSID	{E436EBB6-524F-11CE-9F53-0020AF0BA770}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}	Default	File Source (URL)
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E882F102-F626-49E9-BD68-CE2BE7E59EA0}	FriendlyName	AudioRecorder WAV Dest
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E882F102-F626-49E9-BD68-CE2BE7E59EA0}	CLSID	{E882F102-F626-49E9-BD68-CE2BE7E59EA0}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EA0}	Default	SoundRecorder WAV Dest
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EA0}\InprocServer32	Default	%systemroot%\system32\WavDest.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E882F102-F626-49E9-BD68-CE2BE7E59EB0}	FriendlyName	AudioRecorder Wave Form
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E882F102-F626-49E9-BD68-CE2BE7E59EB0}	CLSID	{E882F102-F626-49E9-BD68-CE2BE7E59EB0}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EB0}	Default	SoundRecorder Volume Watch
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EB0}\InprocServer32	Default	%systemroot%\system32\WavDest.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E882F102-F626-49E9-BD68-CE2BE7E59EC0}	FriendlyName	SoundRecorder Null Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{E882F102-F626-49E9-BD68-CE2BE7E59EC0}	CLSID	{E882F102-F626-49E9-BD68-CE2BE7E59EC0}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EC0}	Default	SoundRecorder Null Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EC0}\InprocServer32	Default	%systemroot%\system32\WavDest.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{F8388A40-D5BB-11D0-BE5A-0080C706568E}	FriendlyName	Infinite Pin Tee Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{F8388A40-D5BB-11D0-BE5A-0080C706568E}	CLSID	{F8388A40-D5BB-11D0-BE5A-0080C706568E}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}	Default	Infinite Pin Tee Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}	FriendlyName	Enhanced Video Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}	CLSID	{FA10746C-9B63-4B6C-BC49-FC300EA5F256}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{FA10746C-9B63-4b6c-BC49-FC300EA5F256}	Default	Enhanced Video Renderer
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}	FriendlyName	BDA MPEG2 Transport Information Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}	CLSID	{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}	Default	BDA MPEG2 Transport Information Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{FEB50740-7BEF-11CE-9BD9-0000E202599C}	FriendlyName	MPEG Video Decoder
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86}\Instance\{FEB50740-7BEF-11CE-9BD9-0000E202599C}	CLSID	{FEB50740-7BEF-11CE-9BD9-0000E202599C}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}	Default	MPEG Video Codec
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shellex\ContextMenuHandlers\Gadgets	Default	{6B9228DA-9C15-419e-856C-19E768A13BDC}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6B9228DA-9C15-419e-856C-19E768A13BDC}	Default	Windows Desktop Gadgets
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6B9228DA-9C15-419e-856C-19E768A13BDC}\InprocServer32	Default	%ProgramFiles%\Windows Sidebar\sbdrop.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shellex\ContextMenuHandlers\New	Default	{D969A300-E7FF-11d0-A93B-00A0C90F2719}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D969A300-E7FF-11d0-A93B-00A0C90F2719}	Default	New Menu Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D969A300-E7FF-11d0-A93B-00A0C90F2719}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shellex\ContextMenuHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shellex\ContextMenuHandlers\Gadgets	Default	{6B9228DA-9C15-419e-856C-19E768A13BDC}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6B9228DA-9C15-419e-856C-19E768A13BDC}	Default	Windows Desktop Gadgets
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{6B9228DA-9C15-419e-856C-19E768A13BDC}\InprocServer32	Default	%ProgramFiles%\Windows Sidebar\sbdrop.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shellex\ContextMenuHandlers\New	Default	{D969A300-E7FF-11d0-A93B-00A0C90F2719}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D969A300-E7FF-11d0-A93B-00A0C90F2719}	Default	New Menu Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D969A300-E7FF-11d0-A93B-00A0C90F2719}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shellex\ContextMenuHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shell\cmd\command	Default	cmd.exe /s /k pushd "%V"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\ContextMenuHandlers\EncryptionMenu	Default	{A470F8CF-A1E8-4f65-8335-227475AA5C46}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}	Default	Encryption Context Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\ContextMenuHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\CopyHookHandlers\FileSystem	Default	{217FC9C0-3AEA-1069-A2DB-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{217FC9C0-3AEA-1069-A2DB-08002B30309D}	Default	Shell Copy Hook
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{217FC9C0-3AEA-1069-A2DB-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\CopyHookHandlers\Sharing	Default	{40dd6e20-7c17-11ce-a804-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\PropertySheetHandlers\Sharing	Default	{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}	Default	Shell extensions for sharing
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\PropertySheetHandlers\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\cmd\command	Default	cmd.exe /s /k pushd "%V"
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\find\command	Default	%SystemRoot%\Explorer.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shell\find\command	Default	%SystemRoot%\Explorer.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\ContextMenuHandlers\BriefcaseMenu	Default	{85BBD920-42A0-1069-A2E4-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}	Default	Briefcase
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\syncui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\ContextMenuHandlers\Library Location	Default	{3dad6c5d-2167-4cae-9914-f99e41c12cfa}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}	Default	Include In Library Sub Context Menu
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}\InProcServer32	Default	%SystemRoot%\system32\shell32.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\DragDropHandlers\{BD472F60-27FA-11cf-B8B4-444553540000}	Default	
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\PropertySheetHandlers\BriefcasePage	Default	{85BBD920-42A0-1069-A2E4-08002B30309D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}	Default	Briefcase
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\syncui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\open\command	Default	%SystemRoot%\Explorer.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Filter\application/octet-stream	CLSID	{1E66F26B-79EE-11D2-8710-00C04F79ED0D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}	Default	Cor MIME Filter, CorFltr, CorFltr 1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InprocServer32	Default	mscoree.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\ProgID	Default	CorRegistration.CorFltr.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Filter\application/x-complus	CLSID	{1E66F26B-79EE-11D2-8710-00C04F79ED0D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}	Default	Cor MIME Filter, CorFltr, CorFltr 1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InprocServer32	Default	mscoree.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\ProgID	Default	CorRegistration.CorFltr.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Filter\application/x-msdownload	CLSID	{1E66F26B-79EE-11D2-8710-00C04F79ED0D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}	Default	Cor MIME Filter, CorFltr, CorFltr 1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InprocServer32	Default	mscoree.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\ProgID	Default	CorRegistration.CorFltr.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Filter\deflate	Default	AP Deflate Encoding/Decoding Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Filter\deflate	CLSID	{8f6b0360-b80d-11d0-a9b3-006097942311}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{8f6b0360-b80d-11d0-a9b3-006097942311}	Default	AP encoding/decoding Filters
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Filter\gzip	Default	AP GZIP Encoding/Decoding Filter
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Filter\gzip	CLSID	{8f6b0360-b80d-11d0-a9b3-006097942311}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{8f6b0360-b80d-11d0-a9b3-006097942311}	Default	AP encoding/decoding Filters
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\about	CLSID	{3050F406-98B5-11CF-BB82-00AA00BDCE0B}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3050F406-98B5-11CF-BB82-00AA00BDCE0B}	Default	Microsoft HTML About Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\cdl	Default	CDL: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\cdl	CLSID	{3dd53d40-7b8b-11D0-b013-00aa0059ce02}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3dd53d40-7b8b-11D0-b013-00aa0059ce02}	Default	CDL: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\dvd	Default	DVD: Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\dvd	CLSID	{12D51199-0DB5-46FE-A120-47A3D7D937CC}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{12D51199-0DB5-46FE-A120-47A3D7D937CC}	Default	DVD: Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\file	Default	file:, local: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\file	CLSID	{79eac9e7-baf9-11ce-8c82-00aa004ba90b}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}	Default	file:, local: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\ftp	Default	ftp: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\ftp	CLSID	{79eac9e3-baf9-11ce-8c82-00aa004ba90b}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{79eac9e3-baf9-11ce-8c82-00aa004ba90b}	Default	ftp: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\http	Default	http: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\http	CLSID	{79eac9e2-baf9-11ce-8c82-00aa004ba90b}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{79eac9e2-baf9-11ce-8c82-00aa004ba90b}	Default	http: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\https	Default	https: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\https	CLSID	{79eac9e5-baf9-11ce-8c82-00aa004ba90b}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{79eac9e5-baf9-11ce-8c82-00aa004ba90b}	Default	https: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\its	Default	its: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\its	CLSID	{9D148291-B9C8-11D0-A4CC-0000F80149F6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}	Default	Microsoft InfoTech Protocols for IE 4.0
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InprocServer32	Default	%SystemRoot%\System32\itss.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\ProgID	Default	MSITFS1.0
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\javascript	CLSID	{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}	Default	Microsoft HTML Javascript Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\local	Default	file:, local: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\local	CLSID	{79eac9e7-baf9-11ce-8c82-00aa004ba90b}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}	Default	file:, local: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\mailto	CLSID	{3050f3DA-98B5-11CF-BB82-00AA00BDCE0B}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3050f3DA-98B5-11CF-BB82-00AA00BDCE0B}	Default	Microsoft HTML Mailto Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\mhtml	Default	MHTML Asynchronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\mhtml	CLSID	{05300401-BCBC-11d0-85E3-00C04FD85AB4}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{05300401-BCBC-11d0-85E3-00C04FD85AB4}	Default	MHTML Asynchronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{05300401-BCBC-11d0-85E3-00C04FD85AB4}\InprocServer32	Default	%SystemRoot%\system32\inetcomm.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\mk	Default	mk: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\mk	CLSID	{79eac9e6-baf9-11ce-8c82-00aa004ba90b}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{79eac9e6-baf9-11ce-8c82-00aa004ba90b}	Default	mk: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\ms-its	Default	ms-its: Asychronous Pluggable Protocol Handler
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\ms-its	CLSID	{9D148291-B9C8-11D0-A4CC-0000F80149F6}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}	Default	Microsoft InfoTech Protocols for IE 4.0
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InprocServer32	Default	%SystemRoot%\System32\itss.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\ProgID	Default	MSITFS1.0
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\res	CLSID	{3050F3BC-98B5-11CF-BB82-00AA00BDCE0B}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3050F3BC-98B5-11CF-BB82-00AA00BDCE0B}	Default	Microsoft HTML Resource Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\tv	Default	TV: Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\tv	CLSID	{CBD30858-AF45-11D2-B6D6-00C04FBBDE6E}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{CBD30858-AF45-11D2-B6D6-00C04FBBDE6E}	Default	TV: Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PROTOCOLS\Handler\vbscript	CLSID	{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}	Default	Microsoft HTML Javascript Pluggable Protocol
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Unknown\shell\openas\command	Default	%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\shell32.dll,OpenAs_RunDLL %1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}	Default	Themes Setup
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}	StubPath	%SystemRoot%\system32\regsvr32.exe /s /n /i:/UserInstall %SystemRoot%\system32\themeui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\{44BBA855-CC51-11CF-AAFA-00AA00B6015F}	Default	DirectDrawEx
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\{4f645220-306d-11d2-995d-00c04f98bbc9}	Default	Microsoft Windows Script 5.6
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\{6fab99d0-bab8-11d1-994a-00c04f98bbc9}	Default	MSN Site Access
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\{7C028AF8-F614-47B3-82DA-BA94E41B1089}	Default	.NET Framework
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\{E92B03AB-B707-11d2-9CBD-0000F87A369E}	Default	Active Directory Service Interface
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\SearchScopes	DefaultScope	{0633EE93-D776-472f-A0FF-E1416B8B2E3A}
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}	URL	http://www.bing.com/search?q={searchTerms}&FORM=IE8SRC
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\magnifierpane	ATExe	Magnify.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\Narrator	ATExe	Narrator.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\osk	ATExe	osk.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63}	Default	Wireless Group Policy
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63}	DLLName	wlgpclnt.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861}	Default	Folder Redirection
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861}	DLLName	fdeploy.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66}	Default	Microsoft Disk Quota
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66}	DLLName	%SystemRoot%\System32\dskquota.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39}	Default	QoS Packet Scheduler
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39}	DLLName	gptext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93}	Default	Windows Search Group Policy Extension
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93}	DLLName	%SystemRoot%\System32\srchadmin.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17}	Default	Deployed Printer Connections
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17}	DLLName	%systemroot%\system32\gpprnext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053}	Default	802.3 Group Policy
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053}	DLLName	dot3gpclnt.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa}	Default	TCPIP
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa}	DLLName	gptext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{f3ccc681-b74c-4060-9f26-cd84525dca2a}	Default	Audit Policy Configuration
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{f3ccc681-b74c-4060-9f26-cd84525dca2a}	DLLName	auditcse.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{FB2CA36D-0B40-4307-821B-A13B252DE56C}	Default	Enterprise QoS
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{FB2CA36D-0B40-4307-821B-A13B252DE56C}	DLLName	gptext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f}	Default	CP
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f}	DLLName	gptext.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\mplayer2.exe	Default	%ProgramFiles%\Windows Media Player\wmplayer.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\pbrush.exe	Default	%SystemRoot%\System32\mspaint.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\PowerShell.exe	Default	%SystemRoot%\system32\WindowsPowerShell\v1.0\PowerShell.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\sidebar.exe	Default	"%ProgramFiles%\Windows Sidebar\sidebar.exe"
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wab.exe	Default	%ProgramFiles%\Windows Mail\wab.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wabmig.exe	Default	%ProgramFiles%\Windows Mail\wabmig.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wmplayer.exe	Default	%ProgramFiles%\Windows Media Player\wmplayer.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\WORDPAD.EXE	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE"
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\WRITE.EXE	Default	"%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE"
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\BackupPath	Default	%SystemRoot%\system32\sdclt.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\DefragPath	Default	%systemroot%\system32\dfrgui.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\cleanuppath	Default	%SystemRoot%\System32\cleanmgr.exe /D %c
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace\{863aa9fd-42df-457b-8e4d-0de1b8015c60}	Default	Printers
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\EnhancedStorageShell	Default	{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}	Default	Enhanced Storage Icon Overlay Handler Class
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InprocServer32	Default	%SystemRoot%\system32\EhStorShell.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\ProgID	Default	EhStorShell.IconOverlayHandler.1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\SharingPrivate	Default	{08244EE6-92F0-47f2-9FC9-929BAA2E7235}
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}	Default	Sharing Overlay (Private)
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32	Default	%SystemRoot%\system32\ntshrui.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders	Common Startup	%ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad	WebCheck	{E6FB5E20-DE35-11CF-9C87-00AA005127ED}
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FileSystem	NTFSDisableLastAccessUpdate	1
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Print\Monitors\Local Port	Driver	localspl.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Print\Monitors\Microsoft Shared Fax Monitor	Driver	FXSMON.DLL
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Print\Monitors\Standard TCP/IP Port	Driver	tcpmon.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Print\Monitors\USB Monitor	Driver	usbmon.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Print\Monitors\WSD Port	Driver	WSDMon.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\SafeBoot	AlternateShell	cmd.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\SecurityProviders	SecurityProviders	credssp.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	clbcatq	clbcatq.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	ole32	ole32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	advapi32	advapi32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	COMDLG32	COMDLG32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	DllDirectory	%SystemRoot%\system32
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	gdi32	gdi32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	IERTUTIL	IERTUTIL.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	IMAGEHLP	IMAGEHLP.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	IMM32	IMM32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	kernel32	kernel32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	LPK	LPK.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	MSCTF	MSCTF.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	MSVCRT	MSVCRT.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	NORMALIZ	NORMALIZ.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	NSI	NSI.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	OLEAUT32	OLEAUT32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	PSAPI	PSAPI.DLL
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	rpcrt4	rpcrt4.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	sechost	sechost.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	Setupapi	Setupapi.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	SHELL32	SHELL32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	SHLWAPI	SHLWAPI.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	URLMON	URLMON.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	user32	user32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	USP10	USP10.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	WININET	WININET.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	WLDAP32	WLDAP32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	WS2_32	WS2_32.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\KnownDLLs	DifxApi	difxapi.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AeLookupSvc	ImagePath	%systemroot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\ALG	ImagePath	%SystemRoot%\System32\alg.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AppID	ImagePath	\SystemRoot\system32\drivers\appid.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AppIDSvc	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Appinfo	ImagePath	%SystemRoot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AudioEndpointBuilder	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Audiosrv	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServiceNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AxInstSV	ImagePath	%SystemRoot%\system32\svchost.exe -k AxInstSVGroup
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BDESVC	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BFE	ImagePath	%systemroot%\system32\svchost.exe -k LocalServiceNoNetwork
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Brserid	ImagePath	\SystemRoot\System32\Drivers\Brserid.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BrSerWdm	ImagePath	\SystemRoot\System32\Drivers\BrSerWdm.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BrUsbMdm	ImagePath	\SystemRoot\System32\Drivers\BrUsbMdm.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BrUsbSer	ImagePath	\SystemRoot\System32\Drivers\BrUsbSer.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\bthserv	ImagePath	%SystemRoot%\system32\svchost.exe -k bthsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\COMSysApp	ImagePath	%SystemRoot%\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\CryptSvc	ImagePath	%SystemRoot%\system32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\DcomLaunch	ImagePath	%SystemRoot%\system32\svchost.exe -k DcomLaunch
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\defragsvc	ImagePath	%SystemRoot%\system32\svchost.exe -k defragsvc
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Dhcp	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalServiceNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Dnscache	ImagePath	%SystemRoot%\system32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\dot3svc	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\DPS	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServiceNoNetwork
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\EFS	ImagePath	%SystemRoot%\System32\lsass.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\EventSystem	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Fax	ImagePath	%systemroot%\system32\fxssvc.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\fdPHost	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Filetrace	ImagePath	system32\drivers\filetrace.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\FontCache3.0.0.0	ImagePath	%systemroot%\Microsoft.Net\Framework\v3.0\WPF\PresentationFontCache.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\FsDepends	ImagePath	System32\drivers\FsDepends.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\gpsvc	ImagePath	%systemroot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\hcw85cir	ImagePath	\SystemRoot\system32\drivers\hcw85cir.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\hidserv	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\hkmsvc	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\HomeGroupListener	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\HomeGroupProvider	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServiceNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\idsvc	ImagePath	"%systemroot%\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\infocard.exe"
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\IpFilterDriver	ImagePath	system32\DRIVERS\ipfltdrv.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\iphlpsvc	ImagePath	%SystemRoot%\System32\svchost.exe -k NetSvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\IPNAT	ImagePath	System32\drivers\ipnat.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\IRENUM	ImagePath	system32\drivers\irenum.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\KeyIso	ImagePath	%SystemRoot%\system32\lsass.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\KtmRm	ImagePath	%SystemRoot%\System32\svchost.exe -k NetworkServiceAndNoImpersonation
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\LanmanServer	ImagePath	%SystemRoot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\LanmanWorkstation	ImagePath	%SystemRoot%\System32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\lltdsvc	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\lmhosts	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalServiceNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\MMCSS	ImagePath	%SystemRoot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Modem	ImagePath	system32\drivers\modem.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\MpsSvc	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalServiceNoNetwork
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\MSDTC	ImagePath	%SystemRoot%\System32\msdtc.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\mshidkmdf	ImagePath	\SystemRoot\System32\drivers\mshidkmdf.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\MSiSCSI	ImagePath	%systemroot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\msiserver	ImagePath	%systemroot%\system32\msiexec.exe /V
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\napagent	ImagePath	%SystemRoot%\System32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\NativeWifiP	ImagePath	system32\DRIVERS\nwifi.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\NdisCap	ImagePath	system32\DRIVERS\ndiscap.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Ndisuio	ImagePath	system32\DRIVERS\ndisuio.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Netman	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\netprofm	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\NetTcpPortSharing	ImagePath	"%systemroot%\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe"
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\NlaSvc	ImagePath	%SystemRoot%\System32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\nsi	ImagePath	%systemroot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\p2pimsvc	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServicePeerNet
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\p2psvc	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServicePeerNet
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PcaSvc	ImagePath	%systemroot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\pla	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServiceNoNetwork
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PlugPlay	ImagePath	%SystemRoot%\system32\svchost.exe -k DcomLaunch
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PNRPAutoReg	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServicePeerNet
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PNRPsvc	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServicePeerNet
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PolicyAgent	ImagePath	%SystemRoot%\system32\svchost.exe -k NetworkServiceNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Power	ImagePath	%SystemRoot%\system32\svchost.exe -k DcomLaunch
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\ProfSvc	ImagePath	%systemroot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\ProtectedStorage	ImagePath	%SystemRoot%\system32\lsass.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\QWAVE	ImagePath	%windir%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\QWAVEdrv	ImagePath	\SystemRoot\system32\drivers\qwavedrv.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RasAcd	ImagePath	System32\DRIVERS\rasacd.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RasAuto	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RasMan	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RemoteAccess	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RpcEptMapper	ImagePath	%SystemRoot%\system32\svchost.exe -k RPCSS
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RpcLocator	ImagePath	%SystemRoot%\system32\locator.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RpcSs	ImagePath	%SystemRoot%\system32\svchost.exe -k rpcss
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SamSs	ImagePath	%SystemRoot%\system32\lsass.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Schedule	ImagePath	%systemroot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SDRSVC	ImagePath	%SystemRoot%\system32\svchost.exe -k SDRSVC
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\seclogon	ImagePath	%windir%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SENS	ImagePath	%SystemRoot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SharedAccess	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\ShellHWDetection	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Smb	ImagePath	system32\DRIVERS\smb.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SNMPTRAP	ImagePath	%SystemRoot%\System32\snmptrap.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Spooler	ImagePath	%SystemRoot%\System32\spoolsv.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\sppsvc	ImagePath	%SystemRoot%\system32\sppsvc.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\sppuinotify	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SstpSvc	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\StiSvc	ImagePath	%SystemRoot%\system32\svchost.exe -k imgsvc
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\swprv	ImagePath	%SystemRoot%\System32\svchost.exe -k swprv
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SysMain	ImagePath	%systemroot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TabletInputService	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TapiSrv	ImagePath	%SystemRoot%\System32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TBS	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServiceAndNoImpersonation
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TCPIP6	ImagePath	system32\DRIVERS\tcpip.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TDPIPE	ImagePath	system32\drivers\tdpipe.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TermService	ImagePath	%SystemRoot%\System32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Themes	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\THREADORDER	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\udfs	ImagePath	system32\DRIVERS\udfs.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\UI0Detect	ImagePath	%SystemRoot%\system32\UI0Detect.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\UxSms	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\VaultSvc	ImagePath	%SystemRoot%\system32\lsass.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\VSS	ImagePath	%systemroot%\system32\vssvc.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\vwifibus	ImagePath	\SystemRoot\System32\drivers\vwifibus.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\W32Time	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WANARP	ImagePath	system32\DRIVERS\wanarp.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wbengine	ImagePath	"%systemroot%\system32\wbengine.exe"
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WbioSrvc	ImagePath	%SystemRoot%\system32\svchost.exe -k WbioSvcGroup
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wcncsvc	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServiceAndNoImpersonation
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WcsPlugInService	ImagePath	%SystemRoot%\system32\svchost.exe -k wcssvc
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WdiServiceHost	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WdiSystemHost	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WebClient	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Wecsvc	ImagePath	%SystemRoot%\system32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wercplsupport	ImagePath	%SystemRoot%\System32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WerSvc	ImagePath	%SystemRoot%\System32\svchost.exe -k WerSvcGroup
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WIMMount	ImagePath	system32\drivers\wimmount.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WinHttpAutoProxySvc	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Winmgmt	ImagePath	%systemroot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WinRM	ImagePath	%SystemRoot%\System32\svchost.exe -k NetworkService
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Wlansvc	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wmiApSrv	ImagePath	%systemroot%\system32\wbem\WmiApSrv.exe
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WMPNetworkSvc	ImagePath	"%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe"
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WPCSvc	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalServiceNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WPDBusEnum	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\ws2ifsl	ImagePath	\SystemRoot\system32\drivers\ws2ifsl.sys
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wscsvc	ImagePath	%SystemRoot%\System32\svchost.exe -k LocalServiceNetworkRestricted
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wuauserv	ImagePath	%systemroot%\system32\svchost.exe -k netsvcs
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WwanSvc	ImagePath	%SystemRoot%\system32\svchost.exe -k LocalServiceNoNetwork
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AeLookupSvc\Parameters	ServiceDll	%SystemRoot%\System32\aelupsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AppIDSvc\Parameters	ServiceDll	%SystemRoot%\System32\appidsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Appinfo\Parameters	ServiceDll	%SystemRoot%\System32\appinfo.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AudioEndpointBuilder\Parameters	ServiceDll	%SystemRoot%\System32\Audiosrv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Audiosrv\Parameters	ServiceDll	%SystemRoot%\System32\Audiosrv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\AxInstSV\Parameters	ServiceDll	%SystemRoot%\System32\AxInstSV.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BDESVC\Parameters	ServiceDll	%SystemRoot%\System32\bdesvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BFE\Parameters	ServiceDll	%SystemRoot%\System32\bfe.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BITS\Parameters	ServiceDll	%SystemRoot%\System32\qmgr.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Browser\Parameters	ServiceDll	%SystemRoot%\System32\browser.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\bthserv\Parameters	ServiceDll	%SystemRoot%\system32\bthserv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\CertPropSvc\Parameters	ServiceDll	%SystemRoot%\System32\certprop.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\CryptSvc\Parameters	ServiceDll	%SystemRoot%\system32\cryptsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\DcomLaunch\Parameters	ServiceDll	%SystemRoot%\system32\rpcss.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\defragsvc\Parameters	ServiceDll	%Systemroot%\System32\defragsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Dnscache\Parameters	ServiceDll	%SystemRoot%\System32\dnsrslvr.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\dot3svc\Parameters	ServiceDll	%SystemRoot%\System32\dot3svc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\DPS\Parameters	ServiceDll	%SystemRoot%\system32\dps.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\EapHost\Parameters	ServiceDll	%SystemRoot%\System32\eapsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\EventSystem\Parameters	ServiceDll	%systemroot%\system32\es.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\fdPHost\Parameters	ServiceDll	%SystemRoot%\system32\fdPHost.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\FDResPub\Parameters	ServiceDll	%SystemRoot%\system32\fdrespub.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\FontCache\Parameters	ServiceDll	%SystemRoot%\system32\FntCache.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\gpsvc\Parameters	ServiceDll	%SystemRoot%\System32\gpsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\hidserv\Parameters	ServiceDll	%SystemRoot%\system32\hidserv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\hkmsvc\Parameters	ServiceDll	%SystemRoot%\system32\kmsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\HomeGroupListener\Parameters	ServiceDll	%SystemRoot%\system32\ListSvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\HomeGroupProvider\Parameters	ServiceDll	%SystemRoot%\system32\provsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\IKEEXT\Parameters	ServiceDll	%SystemRoot%\System32\ikeext.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\iphlpsvc\Parameters	ServiceDll	%SystemRoot%\System32\iphlpsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\KtmRm\Parameters	ServiceDll	%systemroot%\system32\msdtckrm.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\lltdsvc\Parameters	ServiceDll	%SystemRoot%\System32\lltdsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\lmhosts\Parameters	ServiceDll	%SystemRoot%\System32\lmhsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\MMCSS\Parameters	ServiceDll	%SystemRoot%\system32\mmcss.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\MpsSvc\Parameters	ServiceDll	%SystemRoot%\system32\mpssvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\MSiSCSI\Parameters	ServiceDll	%systemroot%\system32\iscsiexe.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\napagent\Parameters	ServiceDll	%SystemRoot%\system32\qagentRT.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Netman\Parameters	ServiceDll	%SystemRoot%\System32\netman.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\netprofm\Parameters	ServiceDll	%SystemRoot%\System32\netprofm.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\NlaSvc\Parameters	ServiceDll	%SystemRoot%\System32\nlasvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\nsi\Parameters	ServiceDll	%systemroot%\system32\nsisvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\p2pimsvc\Parameters	ServiceDll	%SystemRoot%\system32\pnrpsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\p2psvc\Parameters	ServiceDll	%SystemRoot%\system32\p2psvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PcaSvc\Parameters	ServiceDll	%SystemRoot%\System32\pcasvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\pla\Parameters	ServiceDll	%systemroot%\system32\pla.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PNRPAutoReg\parameters	ServiceDll	%SystemRoot%\system32\pnrpauto.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PNRPsvc\parameters	ServiceDll	%SystemRoot%\system32\pnrpsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\PolicyAgent\Parameters	ServiceDll	%SystemRoot%\System32\ipsecsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Power\Parameters	ServiceDll	%SystemRoot%\system32\umpo.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\ProfSvc\Parameters	ServiceDll	%systemroot%\system32\profsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\QWAVE\Parameters	ServiceDll	%windir%\system32\qwave.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RasAuto\Parameters	ServiceDll	%SystemRoot%\System32\rasauto.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RasMan\Parameters	ServiceDll	%SystemRoot%\System32\rasmans.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RemoteAccess\Parameters	ServiceDll	%SystemRoot%\System32\mprdim.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RemoteRegistry\Parameters	ServiceDll	%SystemRoot%\system32\regsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RpcEptMapper\Parameters	ServiceDll	%SystemRoot%\System32\RpcEpMap.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\RpcSs\Parameters	ServiceDll	%SystemRoot%\system32\rpcss.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SCardSvr\Parameters	ServiceDll	%SystemRoot%\System32\SCardSvr.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Schedule\Parameters	ServiceDll	%systemroot%\system32\schedsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SCPolicySvc\Parameters	ServiceDll	%SystemRoot%\System32\certprop.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SDRSVC\Parameters	ServiceDll	%Systemroot%\System32\SDRSVC.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\seclogon\Parameters	ServiceDll	%windir%\system32\seclogon.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SENS\Parameters	ServiceDll	%SystemRoot%\System32\sens.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SessionEnv\Parameters	ServiceDll	%SystemRoot%\system32\sessenv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SharedAccess\Parameters	ServiceDll	%SystemRoot%\System32\ipnathlp.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\ShellHWDetection\Parameters	ServiceDll	%SystemRoot%\System32\shsvcs.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\sppuinotify\Parameters	ServiceDll	%SystemRoot%\system32\sppuinotify.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SSDPSRV\Parameters	ServiceDll	%SystemRoot%\System32\ssdpsrv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SstpSvc\Parameters	ServiceDll	%SystemRoot%\system32\sstpsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\StiSvc\Parameters	ServiceDll	%SystemRoot%\System32\wiaservc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\swprv\Parameters	ServiceDll	%Systemroot%\System32\swprv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SysMain\Parameters	ServiceDll	%systemroot%\system32\sysmain.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TabletInputService\Parameters	ServiceDll	%SystemRoot%\System32\TabSvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TapiSrv\Parameters	ServiceDll	%SystemRoot%\System32\tapisrv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TBS\Parameters	ServiceDll	%SystemRoot%\System32\tbssvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TermService\Parameters	ServiceDll	%SystemRoot%\System32\termsrv.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Themes\Parameters	ServiceDll	%SystemRoot%\system32\themeservice.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\THREADORDER\Parameters	ServiceDll	%SystemRoot%\system32\mmcss.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\TrkWks\Parameters	ServiceDll	%SystemRoot%\System32\trkwks.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\upnphost\Parameters	ServiceDll	%SystemRoot%\System32\upnphost.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\UxSms\Parameters	ServiceDll	%SystemRoot%\System32\uxsms.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WbioSrvc\Parameters	ServiceDll	%SystemRoot%\System32\wbiosrvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wcncsvc\Parameters	ServiceDll	%SystemRoot%\System32\wcncsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WcsPlugInService\Parameters	ServiceDll	%SystemRoot%\System32\WcsPlugInService.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WdiServiceHost\Parameters	ServiceDll	%SystemRoot%\system32\wdi.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WdiSystemHost\Parameters	ServiceDll	%SystemRoot%\system32\wdi.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WebClient\Parameters	ServiceDll	%SystemRoot%\System32\webclnt.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Wecsvc\Parameters	ServiceDll	%SystemRoot%\system32\wecsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wercplsupport\Parameters	ServiceDll	%SystemRoot%\System32\wercplsupport.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WerSvc\Parameters	ServiceDll	%SystemRoot%\System32\WerSvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WinDefend\Parameters	ServiceDll	%ProgramFiles%\Windows Defender\mpsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WinHttpAutoProxySvc\Parameters	ServiceDll	winhttp.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WinRM\Parameters	ServiceDll	%SystemRoot%\system32\WsmSvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Wlansvc\Parameters	ServiceDll	%SystemRoot%\System32\wlansvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WPCSvc\Parameters	ServiceDll	%SystemRoot%\System32\wpcsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WPDBusEnum\Parameters	ServiceDll	%SystemRoot%\system32\wpdbusenum.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wscsvc\Parameters	ServiceDll	%SystemRoot%\System32\wscsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wuauserv\Parameters	ServiceDll	%systemroot%\system32\wuaueng.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\wudfsvc\Parameters	ServiceDll	%SystemRoot%\System32\WUDFSvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\WwanSvc\Parameters	ServiceDll	%SystemRoot%\System32\wwansvc.dll

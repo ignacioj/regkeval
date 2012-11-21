@@ -139,6 +139,7 @@ my %justifis;
 foreach my $justif (@a) {
 	$justif =~ s/[\x0A\x0D]//g;
 	my @troceado = split(/\t/, $justif);
+	$troceado[2] = "" if not exists $troceado[2]; # There are undefined "Default" values
 	$justifis{ ($troceado[0]."\t".$troceado[1]) } = $troceado[2];
 }
 open (Malw,"<regkeval_val_malw_espec.tsv") or die "Error opening regkeval_val_malw_espec.tsv. \n";

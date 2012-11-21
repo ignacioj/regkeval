@@ -1,0 +1,1112 @@
+Indicator	detail	classification:dos-malware_cuatro-special
+devwiz.ocx	 Flame malware:Collects information about CMOS, BIOS	dos
+dskapi.ocx	 Flame malware:Infects USB drives with data-stealing module	dos
+lanhlp32.ocx	 Flame malware:Collects information about network interfaces	dos
+mcdmn.ocx	 Flame malware:Collects information about user's domain	dos
+smdk.ocx	 Flame malware:Collects information about computer's drives	dos
+windig.ocx	 Flame malware:Installs a custom 'Palida Narrow' font	dos
+winshell.ocx	 Flame malware:Installs browser plugins that collect passwords and cookies	dos
+wmiqry32.ocx	 Flame malware:Main loader and communication module	dos
+wmihlp32.ocx	 Flame malware:Main loader and communication module	dos
+icsvnt32.dll	miniFlame	dos
+icsvnt32.ocx	miniFlame	dos
+1_clientnspprj.dll	Sinfor SSL Client Component (Chinese)	cuatro
+A2antispamlsp.dll	A-Squared Anti-Spam - http://www.emsisoft.com/en/software/download/	cuatro
+Adlsp.dll	Allume (f/k/a Aladdin) Systems Internet Cleanup , http://www.allume.com/win/cleanup/index.html	cuatro
+Agbfilt.dll	Antiy Ghostbusters security utility , http://www.antiy.net	cuatro
+Antiyfilter.dll	Antiy Ghostbusters security utility - http://www.antiy.net	cuatro
+Ao2lsp.dll	AdsOff 2 Ad Filter (no longer supported) , http://www.pcworld.com/downloads/file_description/0,fid,6182,00.asp	cuatro
+Aphish.dll	Phishing Sweeper anti-phishing software - http://www.malwareremover.com/phishingsweeper.html	cuatro
+Apptoport.dll	WyvernWorks Firewall - http://www.wyvernworks.com/firewall.html	cuatro
+Asdns.dll	Aventail Corporation VPN , http://www.aventail.com	cuatro
+Aslsp.dll	Aventail Corporation VPN , http://www.aventail.com	cuatro
+Asnsp.dll	Aventail Corporation VPN , http://www.aventail.com	cuatro
+Avgfwafu.dll	AVG Antivirus Plus Firewall - http://www.grisoft.de/doc/AvgPlusFw/lng/us/tpl/tpl01	cuatro
+Avsda.dll	AntiVir Antivirus related , http://www.hbedv.com/en	cuatro
+Betsp.dll	Aventail Corporation VPN - http://www.aventail.com	cuatro
+Biolsp.dll	Wave Embassy Trust Suite - http://www.wave.com/products/ets.html	cuatro
+Bmi_lsp.dll	Bytemobile Macara Connection Optimizer (seems to be installed in connection with Sprint PCS Connection Manager) ,http://www.bytemobile.com/html/Client_products.html	cuatro
+Bmnet.dll	Bytemobile Optimization Client related - http://www.bytemobile.com/html/Client_products.html	cuatro
+Caslsp.dll	Comodo AntiSpam - http://www.comodoantispam.com/	cuatro
+Cavemlsp.dll	Comodo Antivirus Email Scanner Module - http://antivirus.comodo.com/	cuatro
+Cdnns.dll	Related to CNNIC, a Chinese internet service provider	cuatro
+Clientnspprj.dll	Sinfor SSL Client Component (Chinese)	cuatro
+Connwsp.dll	Pure Networks Port Magic or related , http://www.purenetworks.com/products	cuatro
+Cplsp.dll	SurfControl Web & Email Content Filtering , http://www.surfcontrol.com	cuatro
+Csesck32.dll	Fortis Bank Secure Layer , http://www.onlinebanking.fortisbank.nl	cuatro
+Cslsp.dll	McAfee Antivirus , http://www.mcafee.com	cuatro
+Ctxlsp.dll	Citrix related - http://www.citrix.com	cuatro
+Ctxnsp.dll	Citrix related - http://www.citrix.com	cuatro
+Cwalsp.dll	Related to Content Watch content filter - http://www.contentwatch.com/	cuatro
+Cwhook.dll	ContentWatch Internet Filter - http://www.contentwatch.com	cuatro
+Cwlsp.dll	ContentWatch content filter/parental controls - http://www.contentwatch.com	cuatro
+Dcsws2.dll	DiamondCS Port Explorer , http://www.diamondcs.com.au/portexplorer/index.php?page=compat	cuatro
+Disksearchservicestub.dll	Baidu Disk Search Service (Chinese) - http://disk.baidu.com	cuatro
+Drwebsp.dll	Dr. Web Antivirus - http://www.sald.com	cuatro
+Drwhook.dll	Dr. Web Antivirus , http://www.sald.com	cuatro
+Eklsp.dll	EyeKidz Internet Content Filter (French) - http://www.eyekidz.com/	cuatro
+Espsock2.dll	Esafe Antivirus , http://www.esafe.com	cuatro
+Farlsp.dll	Farstone HackerSmacker Firewall , http://www.farstone.com/home/en/shtml/fw_overview.shtml	cuatro
+Fbm.dll	ZeroAds / ZeroSpyware , http://www.fbmsoftware.com	cuatro
+Fbm_lsp.dll	ZeroAds Popup Blocker , http://www.fbmsoftware.com	cuatro
+Filterlsp.dll	Spyware Doctor - http://www.pctools.com/spyware-doctor/	cuatro
+Fortilsp.dll	Forticlient Host Security - http://www.fortinet.com/products/forticlient.html	cuatro
+Fslsp.dll	F-Secure Antivirus/Internet Security - http://www.f-secure.com	cuatro
+Fwcwsp.dll	Microsoft ISA Server 2004 Firewall Client	cuatro
+Fwtunnellsp.dll	First Virtual Communications Click to Meet communications software , http://www.fvc.com	cuatro
+Gapsp.dll	Juniper/Neoteris Secure Application Manager , http://www.juniper.net/netscreen_com.html	cuatro
+Gfilter.dll	GG E-Sports Games related - http://www.gg-game.com/	cuatro
+Googledesktopnetwork1.dll	Google Desktop Search - http://desktop.google.com	cuatro
+Hclsock5.dll	Hummingbird Enterprise/Connectivity Software , http://www.hummingbird.com	cuatro
+hfirewall.dll	HandyCafe Cyber Cafe Management Software Firewall - http://www.handycafe.com/en/	cuatro
+Hooklib.dll	Parental Filter internet content filter - http://www.ecommsec.com/product_info.php?cPath=23&products_id=98	cuatro
+Humshmx.dll	Hummingbird Enterprise/Connectivity Software - http://www.hummingbird.com	cuatro
+Iapplsp.dll	IA Performance Pro Firewall / Netlink Personal Pro Firewall - http://www.iarevolution.com/bsstrick/Default.aspx?Page=Products	cuatro
+Iapp_lsp.dll	IA Performance Pro Firewall / Netlink Personal Pro Firewall - http://www.iarevolution.com/bsstrick/Default.aspx?Page=Products	cuatro
+Iavlsp.dll	System Mechanic 7 Professional's Antivirus - http://www.iolo.com/sm/7/	cuatro
+Icelsp_8.0.675.0.dll	IBM Proventia Desktop / BlackIce - http://www.iss.net/products/Proventia_Desktop/index.html	cuatro
+Icelsp_8.0.xxx.x.dll	(xxx=version number) BlackIce PC Protection - http://www.blackice.com/PCProtection-Firewall.htm	cuatro
+Icf.dll	Safeeyes Internet Content Filter - http://safeeeyes.com/	cuatro
+Ickgw32i.dll	KidsWatch Parental Control Software - http://www.kidswatch.com/	cuatro
+Ictload.dll	Accelenet Internet Accelerator , http://www.ictcompress.com/products_accelenet.html	cuatro
+Idmmbc.dll	Internet Download Manager , http://www.internetdownloadmanager.com/index.html	cuatro
+Iflsp.dll	Digital Arts IFP4 Content Filtering (Japanese) - http://www.daj.co.jp/index.htm	cuatro
+Ifw_xfilter.dll	System Mechanic Professional 7's Firewall - http://www.iolo.com/sm/7/	cuatro
+Iga.dll	Polesoft Lockspam Pro spam blocking software - http://www.polesoft.com/	cuatro
+Imon.dll	NOD32 Antivirus , http://www.nod32.com/home/home.htm	cuatro
+Imslsp.dll	ZoneLabs IM Secure , http://www.zonelabs.com/store/content/catalog/products/sku_list_imsp.jsp?lid=imlink	cuatro
+Inetcntrl.dll	Bsecure Online Internet Content Filter (f/k/a Bsafe Online Internet Content Filter) - http://www.bsecure.com/	cuatro
+Inetcntrl0002.dll	Bsecure Online Internet Content Filter (f/k/a Bsafe Online Internet Content Filter) - http://www.bsecure.com/	cuatro
+Inetcntrl0007.dll	Bsecure Online Internet Content Filter (f/k/a Bsafe Online Internet Content Filter) - http://www.bsecure.com/	cuatro
+Inetcntrl0010.dll	Bsecure Online Internet Content Filter (f/k/a Bsafe Online Internet Content Filter) - http://www.bsecure.com/	cuatro
+Integard.dll	Integard parental control software - http://www.raceriver.com/	cuatro
+Ippsp.dll	PC InternetPatrol , http://www.pcinternetpatrol.com/index.php	cuatro
+Ipsp.dll	IProtectYou Web Filter , http://www.softforyou.com/ip-index.html	cuatro
+Is3lsp.dll	Part of Stopzilla anti-spyware - http://www.is3.com/STOPzillaHomeUser.do	cuatro
+Iss_clsp.dll	Intel AnyPoint Home Networking - http://www.intel.com/anypoint/	cuatro
+Iss_slsp.dll	Intel Anypoint Home Networking , http://www.intel.com/anypoint	cuatro
+K7wslsp.dll	K7 Total Security related - http://www.k7computing.com/products.asp (mostly Japanese logs)	cuatro
+Kslsp.dll	T-Online Kinderschutz-Software Child Protection Software (German)	cuatro
+Kvsock.dll	Jiangmin KV2006 Antivirus software or related (Chinese) - http://global.jiangmin.com/index.htm	cuatro
+Kvsock_2.dll	Jiangmin KV2006 Antivirus software or related (Chinese) - http://global.jiangmin.com/index.htm	cuatro
+Kvsock_3.dll	Jiangmin KV2006 Antivirus software or related (Chinese) - http://global.jiangmin.com/index.htm	cuatro
+Kvwsp.dll	Jiangmin KVW3000 Antivirus software or related (Chinese) - http://global.jiangmin.com/index.htm	cuatro
+Kvwspxp.dll	Kingsoft Antivirus (Chinese) , http://english.duba.net/duba_intr.htm	cuatro
+Lslsimon.dll	VirusBuster II Antivirus , http://www.leprechaun.com.au/vbsupport/faq.asp?q=95	cuatro
+Lslsp.dll	Integrity Online Shield Content Filter - http://www.integrity.com/ (Also possibly used by other content filter/parental control apps.)	cuatro
+Lsp32.dll	Iontas PCEye2000 Parental Control/Monitoring Software - http://www.pceye2000.com/about.htm	cuatro
+Lspcs.dll	Cybersitter - http://www.cybersitter.comNote: Because Cybersitter allows for user submissions to their siteblock list, there have been reports of valid sites being blocked,including some security sites. If the user is reporting that type ofproblem, this may be the cause.	cuatro
+Mclsp.dll	McAfee Antivirus , http://www.mcafee.com	cuatro
+Mdnsnsp.dll	Part of Apple's Bonjour and/or Rendezvous zero configuration networking, most often added by Itunes version 5.0 and later -http://lists.apple.com/mailman/listinfo/bonjour-dev	cuatro
+Msafd.dll	Microsoft Windows Sockets 2.0 Service Provider - http://www.liutilities.com/products/wintaskspro/dlllibrary/msafd/	cuatro
+Msafdlsp.dll	DyKnow Vision classroom learning software - http://www.dyknow.com/vision/	cuatro
+Msniffer.dll	CoCSoft Stream Down streaming media download tool - http://stream-down.cocsoft.com/	cuatro
+Nimdnsnsp.dll	National Instruments Mdns responder, related to National Instruments Domain Service - http://www.ni.com/	cuatro
+%SystemRoot%\System32\mswsock.dll	Microsoft Windows Sockets 2.0 Service Provider - http://www.liutilities.com/products/wintaskspro/dlllibrary/mswsock/ Valid file is located in C:\%WINDIR%\System32	cuatro
+Mswsosp.dll	Microsoft Windows Sockets provider - http://www.greatis.com/appdata/n/m/mswsosp.dll.htm	cuatro
+Mwnsp.dll	MicroWorld EScan/Mailscan - http://www.mwti.net/antivirus/escan/escan.asp	cuatro
+Mwtsp.dll	MicroWorld EScan/Mailscan , http://www.mwti.net/antivirus/escan/escan.asp	cuatro
+Mxavlsp.dll	OnTrack Data Recovery , http://www.ontrack.com	cuatro
+Napinsp.dll	Windows Vista E-mail Naming Shim Provider	cuatro
+Nblsp.dll	iNetBeagle Content Filter , http://www.inetbeagle.com/index2.htm	cuatro
+Ndpwsspr.dll	InDefense MailDefense , http://www.indefense.com/products/mdstd.html	cuatro
+Netd.dll	NetDog Porn Filter - http://www.netdogsoft.com/	cuatro
+Nihlsp.dll	NetIntelligence Home Parental Controls/Security Software - http://parentalcontrol.netintelligence.com/	cuatro
+Nlaapi.dll	Windows Vista Network Location Awareness 2 component	cuatro
+Nlf.dll	Norman Parental Control - http://www.norman.com/	cuatro
+Nl_lsp.dll	Netlimiter , http://www.netlimiter.com	cuatro
+Nnsp.dll	Net Nanny Ad-Free Ad Filter , http://www.netnanny.com	cuatro
+Normanpf.dll	Norman Personal Firewall , http://www.norman.com/Product/Home_Home_office/Firewall/en	cuatro
+Nutafun4.dll	MKS Toolkit for Enterprise Developers (f/k/a Nutcracker) , http://www.mkssoftware.com/products/tk/ds_tkedev.asp	cuatro
+Nvappfilter.dll	NVidia Nforce Network Access Manager - http://www.nvidia.com/object/security.html	cuatro
+Nvlsp.dll	NVIDIA Application Filter, part of Nvidia NTune - http://www.nvidia.com/object/ntune_5.05.54.00.html	cuatro
+Nwprovau.dll	Microsoft Client Services for Netware	cuatro
+Nwws2nds.dll	Novell Netware , http://support.novell.com/servlet/tidfinder/2954141	cuatro
+Nwws2sap.dll	Novell Netware , http://support.novell.com/servlet/tidfinder/2954141	cuatro
+Nwws2slp.dll	Novell Netware , http://support.novell.com/servlet/tidfinder/2954141	cuatro
+Odsp.dll	Aventail Corporation VPN - http://www.aventail.com	cuatro
+Pavlsp.dll	Panda Titanium Antivirus 2004 , http://www.pandasoftware.com/products/titanium2004	cuatro
+Pclsp.dll	Microsoft MSN Parental Controls	cuatro
+Pctlsp.dll	PC Tools Antivirus or related - http://www.pctools.com	cuatro
+Pfftsp.dll	Boomerang Software Extendia Security Suite , http://www.boomerangsoftware.com/Products/Security/eSecurity.htm	cuatro
+Pgplsp.dll	PGP Universal Encryption related - http://www.pgp.com/products/universal/	cuatro
+Pidlsp.dll	Coolspot Personal ID (German) , http://www.personalid.de/?template=agb	cuatro
+Pl15w2sp.dll	InfraStruXure Manager client - http://sturgeon.apcc.com/techref.nsf/docID/34FDA775F81438DD852570F2004B2A61/$FILE/npn-00316-EN.doc	cuatro
+Pnrpnsp.dll	Windows XP Advanced Networking Pack file , http://support.microsoft.com/?kbid=817778	cuatro
+Prifw.dll	Primedius Firewall or related , http://www.primedius.com/PersonalFirewall.htm	cuatro
+Proxy.dll	Spamfighter , http://www.spamfighter.com	cuatro
+Proxyfilter.dll	Hide My IP 2007 - http://www.hide-my-ip.com/	cuatro
+Proxyie.dll	Sinfor SSL Client Component (Chinese)	cuatro
+Prplsf.dll	Propel Dial-Up Accelerator (installed by various ISP's software for "high-speed" dial-up service) , http://www.propel.com	cuatro
+Prxerdrv.dll	Proxifier - http://www.proxifier.com/	cuatro
+Prxernsp.dll	Proxifier - http://www.proxifier.com/	cuatro
+Pxlsp.dll	Proxyconn connection accelerator , http://www.proxyconn.com	cuatro
+Rnr20.dll	Microsoft Windows Sockets 2.0 TCP/IP name service provider - http://www.liutilities.com/products/wintaskspro/dlllibrary/rnr20/	cuatro
+Skysocks.dll	SkyDSL Satellite DSL provided by various ISPs - http://www.strato.de/skydsl/index_himmlisches.html	cuatro
+Vsocklib.dll	Part of VMWare Workstation or related products - http://www.vmware.com/products/ws/	cuatro
+Espsock2.dll	Esafe Antivirus , http://www.esafe.com	cuatro
+Hclsock5.dll	Hummingbird Enterprise/Connectivity Software , http://www.hummingbird.com	cuatro
+Kvsock.dll	Jiangmin KV2006 Antivirus software or related (Chinese) - http://global.jiangmin.com/index.htm	cuatro
+Kvsock_2.dll	Jiangmin KV2006 Antivirus software or related (Chinese) - http://global.jiangmin.com/index.htm	cuatro
+Kvsock_3.dll	Jiangmin KV2006 Antivirus software or related (Chinese) - http://global.jiangmin.com/index.htm	cuatro
+Mswsosp.dll	Microsoft Windows Sockets provider - http://www.greatis.com/appdata/n/m/mswsosp.dll.htm	cuatro
+Wsck32.dll	BrowseControl Internet Usage Restriction Software - http://www.browsecontrol.com/	cuatro
+%SystemRoot%\System32\winrnr.dll	Microsoft LDAP RnR Provider dll - http://www.liutilities.com/products/wintaskspro/dlllibrary/winrnr/	cuatro
+%SystemRoot%\System32\rsvpsp.dll	Microsoft Windows Rsvp Service Provider - http://www.processlibrary.com/directory/files/rsvpsp/	cuatro
+Mswsock2.dll	Win32: Small-EKE	dos
+Mswsock30.dll	TSPY_LEGMIR.ABS - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_LEGMIR.ABS&VSect=Td	dos
+Tmwsock.dll	Troj/Cimuz-CD - http://www.sophos.com/security/analyses/trojcimuzcd.html	dos
+Winsock2.dll	TR/DllWinsock.A / Trojan.Win32.Small.sv	dos
+Worsock.dll	TR/PSW.Agent.YT	dos
+Mswsck2.dll	TROJ_CIMUZ.M - http://www.trendmicro.com/vinfo/virusencyclo/default5.asp?VName=TROJ_CIMUZ.M	dos
+Mswsck32.dll	Trojan-Proxy.Win32.Cimuz.ck / Trojan.IPtables	dos
+Twsck.dll	Trojan-Proxy.Win32.Cimuz.cy	dos
+Abcdefgh.dll	Trojan.SexSearch-Unknown/LSP - http://www.fileresearchcenter.com/A/ABCDEFGH.DLL-10503.html a/k/a AdWare.Win32.Agent.ci	dos
+Aelupsvc32.dll	Rogoo Hijacker (Chinese)	dos
+Aklsp.dll	Virtumundo / AdKnowledge	dos
+Aplsp.dll	AdPartner adware , http://www.pestpatrol.com/pestinfo/a/adpartner.asp	dos
+Apptoport.dll	Added by "rogue" anti-spyware programs - BPS Spyware& Adware Remover, Adwareremovergold, and possibly others	dos
+Asiclayer.dll	EAnthology/StopSign Acceleration Software , http://www.pestpatrol.com/PestInfo/S/StopSign.asp	dos
+Calsp.dll	CouponAge	dos
+Cdlsp.dll	CouponDeals	dos
+Cnmib.dll	CommonName , http://www.doxdesk.com/parasite/CommonName.html	dos
+Cn_api60.dll	BKDR_PCCLIENT.PA (Chinese) - http://www.trendmicro.com/vinfo/virusencyclo/default5.asp?VName=BKDR_PCCLIENT.PA&VSect=P	dos
+Cn_spi32.dll	Troj/PWS-ADV - http://www.sophos.com/security/analyses/trojpwsadv.html	dos
+Cn_spiex.dll	TSPY_AGENT.EBQ - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_AGENT.EBQ&VSect=Td	dos
+Csloa.dll	MarketScore , http://www.doxdesk.com/parasite/MarketScore.html	dos
+Cvdakvgogoczl.dll	Trojan.Win32.Agent.afg	dos
+Dnserv.dll	Trojan-PSW.Win32.Agent.aks - http://www.threatexpert.com/files/dnserv.dll.html	dos
+Dolsp.dll	DealsOnline	dos
+Ebspi.dll	W32.Ogleon.A - http://www.symantec.com/en/uk/smb/security_response/writeup.jsp?docid=2007-062608-4815-99&tabid=2	dos
+Fgprov.dll	Trojan.Glaze.A - http://research.sunbelt-software.com/threatdisplay.aspx?name=Trojan.Glaze.A&threatid=168762	dos
+Flsmngr.dll	CWS/SearchAnyway Search Hijacker	dos
+Fltmgr.dll	Nonstopsearch.com Hijacker / AdWare.Searcher.b	dos
+Gdiplus32.dll	Troj/QQPass-AIX - http://www.sophos.com/security/analyses/trojqqpassaix.html	dos
+Hbmter.dll	Hengbang / Adware.hbang (Chinese) - http://research.sunbelt-software.com/threatdisplay.aspx?name=Henbang&threatid=44429	dos
+Hsvwer2.dll	Infostealer.Phax - http://www.symantec.com/security_response/writeup.jsp?docid=2007-040515-0222-99&tabid=2	dos
+Hsvwer9.dll	Troj/Maran-AJ - http://www.sophos.com/virusinfo/analyses/trojmaranaj.html	dos
+Hvsound2.dll	Trojan.Maran.jh	dos
+Imn.dll	Trojan.Win32.Agent.afg	dos
+Inetadpt.dll	NewtonKnows/Virtumundo/Targetsoft , http://www.kephyr.com/spywarescanner/library/targetsoft.inetadpt/index.phtml	dos
+Laf1.dll	Installed by rogue anti-spyware program AntiVirGear	dos
+Laf2.dll	Installed by rogue anti-spyware program AntiVirGear	dos
+Laf3.dll	Installed by rogue anti-spyware program AntiVirGear	dos
+Laf4.dll	Installed by rogue anti-spyware program AntiVirGear	dos
+Laf5.dll	Installed by rogue anti-spyware program AntiVirGear	dos
+Laf6.dll	Installed by rogue anti-spyware program AntiVirGear	dos
+Laf7.dll	Installed by rogue anti-spyware program AntiVirGear	dos
+Laf8.dll	Installed by rogue anti-spyware program AntiVirGear	dos
+Ld6media.dll	Infostealer.Gamania / Mal/Maran-A	dos
+Ldvwer6.dll	Troj/Maran Variant	dos
+Lsp.dll	ShopAtHomeSelect (Uninstall "ShopatHomeSelect Agent" from Add/Remove) ,http://www.kephyr.com/spywarescanner/library/shopathomeselect/index.phtml	dos
+Lspak.dll	Virtumundo	dos
+Mailscan.dll	Partof WinAntivirus, an antivirus product with very suspicous marketing practices	dos
+Mkls.dll	MarketScore / Relevant Knowledge	dos
+Mshlpxb64.dll	TSPY_MARAN.B - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_MARAN.B&VSect=Td	dos
+Mslsp.dll	Search results hijacker	dos
+Msnetax.dll	Trojan.Win32.Agent.afg	dos
+Mssbupx.dll	TSPY_MARAN.AE - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_MARAN.AE&VSect=Td	dos
+Msspi.dll	CoolwebSearch (CWS) Variant	dos
+Msvrl.dll	Friend Msvrl hijacker (French) , http://www.pestpatrol.com/pestinfo/f/friend_msvrl.asp	dos
+Mswsck2.dll	TROJ_CIMUZ.M - http://www.trendmicro.com/vinfo/virusencyclo/default5.asp?VName=TROJ_CIMUZ.M	dos
+Mswsck32.dll	Trojan-Proxy.Win32.Cimuz.ck / Trojan.IPtables	dos
+Mswsock2.dll	Win32: Small-EKE	dos
+Msxcbuc.dll	TSPY_DELF.MJ - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_DELF.MJ&VSect=Td	dos
+Netsonic.dll	Netsonic Web3000	dos
+Newdotnet6_98.dll	NewDotNet	dos
+Nmtracer.dll	Netmeter/Netratings(See second entry below. Also included as part of a similar programcalled Opistat. Opistat offers its users a free download of NormanAntivirus for joining. It appears Opistat must stay installed to beable to update Norman)	dos
+Nsp.dll	ADW_CNSMIN.G - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=ADW_CNSMIN.G&VSect=Td	dos
+Od2media.dll	Trojan-PSW.Win32.Maran.di or variant	dos
+Od5media.dll	TSPY_MARAN.KZ - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_MARAN.KZ&VSect=Td	dos
+Od6media.dll	TSPY_MARAN.HS - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_MARAN.HS&VSect=Td	dos
+Od7media.dll	Win32/PSW.Maran	dos
+Odmedia9.dll	TSPY_MARAN.WH - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_MARAN.WH&VSect=Td	dos
+Odvwer4.dll	TSPY_MARAN.AU - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_MARAN.AU&VSect=Td	dos
+Oj3sound.dll	Troj/Maran-K - http://www.sophos.com/virusinfo/analyses/trojmarank.html	dos
+Ojviewer.dll	TSPY_MARAN.D - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_MARAN.D&VSect=Td	dos
+Oksound.dll	Troj/Maran-AF - http://www.sophos.com/security/analyses/trojmaranaf.html	dos
+Opls.dll	Opinion Square	dos
+Osmim.dll	Marketscore Internet Accelerator , http://www.pestpatrol.com/PestInfo/M/MarketScore.asp	dos
+Ou2sound.dll	Troj/Maran-I - http://www.sophos.com/virusinfo/analyses/trojmarani.html	dos
+Ou3viewer.dll	PWS.Maran variant	dos
+Ou6sound.dll	Backdoor.Win32.Agent.ahn	dos
+Ou6viewer.dll	Troj/Maran-Z - http://www.sophos.com/security/analyses/trojmaranz.html	dos
+Ou7viewer.dll	TSPY_WOW.ABV - http://www.trendmicro.com/vinfo/grayware/ve_graywareDetails.asp?GNAME=TSPY_WOW.ABV&VSect=Td	dos
+Ou9sound.dll	PWS-Maran.dr - http://vil.nai.com/vil/content/v_141243.htm	dos
+Ouviewer.dll	PWS-Maran.dr - http://vil.nai.com/vil/content/v_141243.htm	dos
+Prls.dll	AdWare.Win32.RK.e (possibly Marketscore related)	dos
+Quartz32.dll	Adware.Roogoo	dos
+Rlls.dll	Relevant Knowledge	dos
+Rpc32vm.dll	Spyware/Adware added by an Emule "Mod" (German?) , http://translate.google.com/translate?hl=en&sl=de&u=http://hilfe.schnellie.de/ptopic,8220.html	dos
+Rsvp322.dll	Troj/SpamToo-AR - http://www.sophos.com/virusinfo/analyses/trojspamtooar.html	dos
+Wsd_sock32.dll	Malware (Chinese) - Trojan-PSW.Win32.Agent.if	dos
+Wsock3.dll	TrojanSpy:Win32/Glaze.B, a/k/a Trojan-Spy.Win32.Banker	dos
+Mswsock32.dll	Virus.Win32.AutoRun.fj	dos
+trksvr.exe	W32.Disttrack	dos
+wavesup3.drv	W32.Flamer	dos
+Winis7\opera.exe	W32.Winiga	dos
+sysdrv32.sys	W32/Rbot-GXK(Sophos)	dos
+\Temp\service.exe	Artemis!D5D177732D95	dos
+HEX-5823-6893-6818\jutched.exe	Mal/FkPhoto-A	dos
+DWRCSh32.DLL	Dameware	dos
+DWRCST.exe	Dameware Tray Icon	dos
+DamewareMini.sys	Dameware	dos
+NTOSA32.EXE	W32/Anig.worm	dos
+{CA4520F3-AE13-4FB1-A513-58E23991C86D}	Generic PUP.z!FAFC97335681	dos
+GENCRA~1.DLL	Generic PUP.z!FAFC97335681	dos
+gencrawler	Generic PUP.z!FAFC97335681	dos
+S-1-5-21-4449621239-8209484050-485469162-7047	BackDoor-EGK	dos
+sysdate.exe	BackDoor-EGK	dos
+king_mg	Troj/Agent-PGG	dos
+mgking.exe	Troj/Agent-PGG	dos
+offerbox_air_iexplorer.dll	Adware:Win32/OfferBoxBrowser	dos
+{703740c1-0f1a-4cec-a4df-d78db0158477}	Adware:Win32/OfferBoxBrowser	dos
+ugada.exe	Trojan.Win32.Generic!BT	dos
+pbudsara.exe	Generic PWS.ak	dos
+setup.dll.vbs		dos
+WIN31.dll.vbs	VBS/BUTSUR	dos
+authpack.ocx	Flame	dos
+mssecmgr.ocx	Flame	dos
+wavesup3.drv	Flame	dos
+SweetIM	SIMBAR	dos
+SWEETIE	SIMBAR	dos
+mgToolbarIE.dll	SIMBAR	dos
+{EEE6C35C-6118-11DC-9C72-001320C79847}	SIMBAR	dos
+{EEE6C35B-6118-11DC-9C72-001320C79847}	SIMBAR	dos
+GuardGuard.exe	TROJ_AGENT.JDSM	dos
+GuardMailRu.exe	TROJ_AGENT.JDSM	dos
+MailRuSputnik.dll	TROJ_AGENT.JDSM	dos
+9xf8.exe	Trojan-GameThief.Win32.Magania.csay	dos
+ghx.exe	WORM_HAMWEQ.ZPS	dos
+hc3hvi0.exe	Rootkit.Agent.YYF	dos
+PSEXESVC.EXE	PsExecService	dos
+system.exe	Worm:Win32/Hamweq.A	dos
+csrcs.exe	Troj/Agent-HUA Trojan	dos
+DWRCS.EXE	Dameware	dos
+msinfdll.dll	W32.Naras	dos
+newgina.dll	Trojan-PSW.Win32.GinaPass.a	dos
+Pattonat.dll	Trojan.Riler.C	dos
+{7BA4C38C-6BE5-4F3C-980B-CEB48A777413}	Trojan.Koutodoor	dos
+\Java\jre-10\bin\jusched.exe	W32.Griptolo	dos
+binah.exe	PWS-Zbot.gen.ol (Troyano)	dos
+wsse.dll	Sinowal	dos
+egzcqg.dll	Smitfraud/Spylocked	dos
+syycum.dll	Smitfraud	dos
+midimapgj.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+midimapjr.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+midimapzt.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+midimapwm.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+midimapcb.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+midimapfy.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+midimapms.dll	PWS-OnlineGames.aw.dll!00BE0B54	dos
+midimapfs2.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+midimapqhx.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+viuaoq.dll	Smitfraud/Spylocked	dos
+dtjby.dll	Smitfraud/Spylocked	dos
+rcohty.dll	Smitfraud/Spylocked	dos
+czxtyx.dll	Smitfraud/Spylocked	dos
+fyxkaah.dll	Smitfraud/Spylocked	dos
+onwtj.dll	Smitfraud/Spylocked	dos
+pkjcoxq.dll	Smitfraud/Spylocked	dos
+qzviz.dll	Smitfraud/Spylocked	dos
+antzozc.dll	Smitfraud/Spylocked	dos
+yuspej.dll	Smitfraud/Spylocked	dos
+indwvm.dll	Smitfraud/Spylocked	dos
+pkgvyg.dll	Smitfraud/Spylocked	dos
+uimcu.dll	Smitfraud/Spylocked	dos
+tahxqcj.dll	Smitfraud/Spylocked	dos
+oyopu.dll	Smitfraud/Spylocked	dos
+msvcrt52.dll	Trojan-Spy.Win32.Mxsender	dos
+hksrv.dll	Trojan-Spy.Win32.Mxsender.f	dos
+avicapwm.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+scrruncqsj.dll	Infostealer.Gampass	dos
+kbdswjr.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+msca32.dll	Feebs Worm	dos
+adsnv.dll	TROJ_AGENT.AATB	dos
+mstmdm.dll	Trojan.Win32.Agent.bve	dos
+msindeo.dll	Troj/Dowdec-F Trojan (Trojan-Spy.Win32.Goldun.mk)	dos
+uinc64.dll	Trojan-Dropper.Win32.Small.adz	dos
+wmldap.dll	Haxdoor	dos
+[random].dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+system32.dll	CWS variant (Greatsearch)	dos
+winmm64.dll	Trojan-Downloader	dos
+msxsltsso.dll	Trojan.GootKit	dos
+rasdlgcq.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+nwapi32dj. dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+imgutilhx2.dll	Infostealer.Gampass	dos
+dpvvoxmh.dll	Infostealer.Gampass	dos
+netids.dll	Infostealer.Sofacy	dos
+catsrvwl.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+kbdgrms.dll	Trojan-GameThief.Win32.OnLineGames.srkx	dos
+msobjstl.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+fsusdtd.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+wmpuiqhx.dll	TROJ_ZLOB.BVP	dos
+sleep32.dll	Trojan-PSW.Win32.Delf.bfh	dos
+dispexcb.dll	Generic PWS.o!C51F80B2	dos
+slbiopfs2.dll	TSPY_ONLINEG.UMC	dos
+twainyy.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+eeuydc.dll	Smitfraud/Spylocked	dos
+AceExt32.dll	Troj/Agent-FYG	dos
+kbdswjr.dll	PWS-OnlineGames.ax!8C59C106	dos
+midimapcqsj.dll	TSPY_ONLINEG.LYD	dos
+midimaptl.dll	PWS-OnlineGames.aw.dll	dos
+mswshell.dll	Trojan-PSW.Win32.Vipgsm.ad	dos
+cliconfgzx.dll	PWS-LegMir!071B2D04	dos
+tscfgwmijxsj.dll	Infostealer.Gampass	dos
+adsntzt.dll	Infostealer.Gampass	dos
+certmgrkd.dll	PWS-OnlineGames.bs!6E33143E	dos
+lweurqhx.dll	Infostealer.Gampass	dos
+usbmonjx2.dll	PWS-OnlineGames.ax!8E1DAC4E	dos
+kmljm.dll	proxy.19.bj	dos
+tdffdl.dll	Trojan-PWS.OnlineGames.AJYS	dos
+comuidsg.dll	Trojan.Popuper	dos
+sockins32.dll	W32/Dwnldr-HCP	dos
+apiuser32.dll	Trojan-PSW.Win32.Delf.aoz	dos
+vpccw.dll	Troj/FakeVir-AE	dos
+xkrdk.dll	Smitfraud	dos
+IEFilter.dll	Troj/SrchSpy-A	dos
+MsnShell32.dll	Backdoor.Win32.Agent.gkf (Zlob variant)	dos
+rdihost.dll	W32/IRCBot-VR	dos
+UpperHost.dll	Goldunÿvariant	dos
+syspoints.dll	W32/IRCBot-XN	dos
+imgutilhx2.dll	Trojan-GameThief.Win32.OnLineGames.stzr	dos
+{00150015-0015-0015-0015-00150015BB15}	PWS-OnlineGames.ax!5EA1B0D4	dos
+rasdlgcq.dll	Virus Profile: PWS-OnlineGames.ax!5418BEF6	dos
+tscfgwmijxsj.dll	PWS-OnlineGames.ax!83A24FCE	dos
+dispexcb.dll	PWS-OnlineGames.ax!3B22417E	dos
+midimapmy.dll	PWS-OnlineGames.ax!FE1D2273	dos
+midimapwd.dll	Trojan.PSW.Win32.Mapdimp.a	dos
+midimapcq.dll	PWS-OnlineGames.ax!824878C8	dos
+midimappt	Trojan-PWS.OnLineGames.POU	dos
+midimapqn3.dll	Trojan-PWS.OnLineGames	dos
+midimapjx2.dll	Trojan-PWS.OnLineGames.POU	dos
+midimapyt2.dll	Trojan-PWS.OnLineGames.POU	dos
+midimapzx.dll	Trojan.Popuper	dos
+midimapwl.dll	PWS-OnlineGames.ax!C62508B1	dos
+xuoce.dll	Smitfraud/Spylocked	dos
+slbiopfs2.dll	PWS-OnlineGames.ax!9AF7ECF4	dos
+dpvvoxmh.dll	PWS-OnlineGames.ax!854744FE	dos
+wthunk32.dll	Proxy-Thunker	dos
+mtwirl32.dll	Trojan.Bookmarker.C	dos
+mstimewd.dll	Trojan-Downloader.Win32.Zlob.sab	dos
+bootvidgj.dll	TSPY_GAMETHIE.SE	dos
+ksuserfy.dll	PWS-OnlineGames.ax!97DED27E	dos
+adsntzt.dll	PWS-OnlineGames.ax!B1E84CA8	dos
+bootvidgj.dll	PWS-OnlineGames.ax!E151664D	dos
+msobjstl.dll	PWS-OnlineGames.ax!31545805	dos
+cliconfgzx.dll	Trojan-PWS.OnlineGames.ADRD	dos
+catsrvwl.dll	Midigam R	dos
+syshelps.dll	Troj/IRCBot-WL	dos
+wmhs32.dll	Troj/IRCBot-WL	dos
+eplrr.dll	Troj/Banker-Y Trojan	dos
+eplrr3.dll	Troj/Banker-Y Trojan	dos
+2236_28.dll	Troj/Agent-CIJ	dos
+2236_27.dll	Troj/Agent-CIJ	dos
+{2C1CD3D7-86AC-4068-93BC-A02304B25319}	Troj/Agent-FZF	dos
+{71EC5123-28DF-324A-D76B-32549AB4C338}	Trojan-Downloader.Win32.Agent	dos
+mstimewd.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+{65056902-6E7B-4bd7-95BA-688DB5FA5BEB}	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+{EC43E3FD-5C60-46a6-97D7-E0B85DBDD6C4}	Trojan:Win32/Vundo	dos
+child.dll	Trojan-Dropper.Win32.Small.fe	dos
+{21BE5FDF-D4CB-4850-AD99-21E68B50BF3F}	Infostealer.Gampass	dos
+{F28A40D7-AD0E-034A-C651-5F0ED76232E6}	Backdoor.Berbew.T	dos
+Keysaver.dll	Trojan-Dropper.Win32.Small	dos
+B41346EFA848.dll	Troj/Lineag-FC	dos
+xvideo.dll	Smitfraud	dos
+vtqnxfko.dll	Downloader.Zlob/VAC	dos
+vltdfabw.dll	Trojan.Win32.Vapsup.fqp	dos
+vregfwlx.dll	Trojan.Win32.Vapsup.fqt	dos
+pmsoarbf.dll	Trojan.Win32.Vapsup.eck	dos
+omlbpkaw.dll	Trojan.Win32.Vapsup.ecj	dos
+bxlrvps.dll	Adware.Agent.BN	dos
+alofkmn.dll	Adware.Agent.BN	dos
+axrfgvek.dll	Trojan.Win32.Vapsup.huk	dos
+okmdepgb.dll	Win32/Pripecs	dos
+xokvrpwg.dll	Downloader.Zlob	dos
+tfnslopk.dll	Downloader.Zlob	dos
+vbksrofa.dll	Adware.Agent.BN	dos
+mpfanvqg.dll	Adware.Agent.BN	dos
+adgpfoxs.dll	Pripecs	dos
+fdxbameg.dll	Trojan.Zlob	dos
+fsrpknov.dll	Trojan.Zlob	dos
+sysocmgr.dll	TROJAN.AGENT	dos
+pdoskegl.dll	Trojan.FakeAlert	dos
+rqbmvpso.dll	Trojan.FakeAlert	dos
+bqxomdo.dll	AdWare.Win32.Vapsup.adc	dos
+btrklfr.dll	AdClicker-FC	dos
+apdqnxp.dll	AdClicker-FC.dr	dos
+tdomgafw.dll	Trojan.Win32.Vapsup.exn	dos
+tsxngabr.dll	TROJ_ZLOB.COX	dos
+gnowmebk.dll	Adware.Agent.BN	dos
+pxgdslro.dll	Adware.Agent.BN	dos
+wetkadmr.dll	Win32/Pripecs	dos
+evgratsm.dll	Downloader.Zlob	dos
+wnslvxtf.dll	Trojan-Downloader.Win32.Zlob.tlc	dos
+erpobmsw.dll	Adware.NetAdware.Gen	dos
+bdmanager.dll	Adware.NetAdware.Gen	dos
+admgcx.dll	AdWare.Win32.Vapsup.bnp	dos
+fkdnrwsv.dll	TROJ_VAPSUP.DK	dos
+sxfnewqb.dll	TROJ_VAPSUP.DK	dos
+aflqfkw.dll	Adware.Agent.BN	dos
+btpqkmo.dll	Adware.Agent.BN	dos
+.hlp	Trojan.Spy.Agent.OE	dos
+xrdwbfgn.dll	TrojanDownloader:Win32/Zlob	dos
+dgksvbpn.dll	Trojan.Zlob	dos
+onfwbsak.dll	Puper!F6B3287C	dos
+rwlfsdmk.dll	Puper!F6B3287C	dos
+neksolda.dll	Trojan.Zlob	dos
+mgxfebsq.dll	Downloader.Zlob!gen.3	dos
+sysocmgr.dll	Trojan-Proxy.Win32.Agent.awt	dos
+xgpsarbm.dll	Smitfraud	dos
+ngwstxfd.dll	Smitfraud	dos
+mgsvflkw.dll	TROJ_VAPSUP.DR	dos
+bdkpfxqw.dll	Adware.Agent.BN	dos
+qadovnel.dll	Adware.Agent.BN	dos
+pntqkflv.dll	Trojan.Zlob	dos
+qegbdmwf.dll	Trojan.Zlob	dos
+bxsnvqt.dll	Adware.Agent.BN	dos
+aslpmqk.dll	Adware.Agent.BN	dos
+ampkfst.dll	Adware.NetAdware.Gen	dos
+bklgvsf.dll	Adware.NetAdware.Gen	dos
+asvdnmo.dll	AdWare.Win32.Vapsup.adw	dos
+bgntlvo.dll	AdWare.Win32.Vapsup.adw	dos
+tlhelp.dll	Smitfraud	dos
+vbgtorfd.dll	Adware.Agent.BN	dos
+dwnrpofk.dll	Adware.Agent.BN	dos
+wpvmqosg.dll	Trojan.FakeAlert	dos
+rnopbfgt.dll	Pripecs AHA	dos
+xvorfwbd.dll	Trojan.Zlob	dos
+xkefqtgs.dll	Pripecs AHA	dos
+qrbgltos.dll	Smitfraud	dos
+adsoowf.dll	Smitfraud	dos
+drvsvp.dll	Smitfraud	dos
+eqvwamkl.dll	SmitFraud	dos
+expro.dll	MyGeek/CPVFeed	dos
+gormet.dll	Smitfraud	dos
+hjoqor.dll	Smitfraud	dos
+hostctrl.dll	SmitFraud	dos
+hstsys.dll	Smitfraud	dos
+hupsrv.dll	SmitFraud	dos
+jetctrl.dll	Smitfraud	dos
+kbdctrl.dll	SmitFraud	dos
+kopmet.dll	Smitfraud	dos
+leorop.dll	Smitfraud	dos
+msmdev.dll	Smitfraud	dos
+qdnkewfa.dll	TROJ_VAPSUP.DR	dos
+agrlmvp.dll	Smitfraud	dos
+altvxvm.dll	MyGeek/CPVFeed	dos
+alxvdvm.dll	Smitfraud	dos
+aswmklt.dll	Smitfraud_MyGeek/CPVFeed_variant	dos
+bgrlsmn.dll	Smitfraud	dos
+bindmod.dll	SmitFraud	dos
+bmlvqkn.dll	Smitfraud	dos
+bokpkov.dll	MyGeek/CPVFeed	dos
+Resources\	SmitFraud	dos
+bvtqfvx.dll	Smitfraud	dos
+bxsbang.dll	Smitfraud	dos
+ddkret.dll	Smitfraud	dos
+admggxp.dll	Smitfraud	dos
+msmduo.dll	Smitfraud	dos
+xcvwer.dll	Smitfraud	dos
+sapnet.dll	Smitfraud	dos
+sounddrv.dll	Smitfraud	dos
+syscore.dll	Smitfraud	dos
+vadokmxt.dll	Smitfraud	dos
+vpssup.dll	MyGeek/CPVFeed	dos
+wdpoefan.dll	Smitfraud	dos
+wmpdev.dll	Smitfraud	dos
+wmphost.dll	Smitfraud	dos
+wmplayer.dll	Smitfraud	dos
+wmsound.dll	Smitfraud	dos
+rmvgor.dll	Smitfraud	dos
+sysdx.dll	Smitfraud	dos
+msmduo2.dll	Smitfraud	dos
+msmhost.dll	Smitfraud	dos
+msqnx.dll	Smitfraud	dos
+mssql.dll	Smitfraud	dos
+msvb.dll	Smitfraud	dos
+neobus.dll	SmitFraud	dos
+nopctrl.dll	Smitfraud	dos
+nopzet.dll	Smitfraud	dos
+ocgrep.dll	Smitfraud	dos
+MonWin.dll	Trojan.Win32.Agent	dos
+AppPatch\DesktopWin.dll	Online Games Trojan variant	dos
+AppPatch\deamon.dll	W32.Almanahe.A	dos
+Media\CertMgr.dll	Trojan.Win32.BHO.gb	dos
+AppPatch\Jview.dll	Trojan-Downloader.Win32.Agent.qpv	dos
+Media\sendmail.dll	Trojan.Win32.BHO.gb	dos
+Downloaded Program Files\ThunderAdvise.dll	Online Games Trojanÿvariant	dos
+Installer\{1d64c57d-091f-4aa8-8bb6-06543a8bc431}\WinCD.dll	SmitFraud	dos
+Installer\{29b1075d-6c05-4cda-83aa-24d3777753c9}\CheckDrv.dll	SmitFraud	dos
+Installer\{c6e9c531-af10-4639-bcd8-21e3520441a1}\KbdBoot.dll	SmitFraud	dos
+Installer\{ee12547f-4a79-494f-be6d-14fc2f037713}\PrxDrive.dll	SmitFraud	dos
+systemp.dll	Troj/Narod-D	dos
+B41346EFA848.dll	Troj/Lineag-FC	dos
+{F28A40D7-AD0E-034A-C651-5F0ED76232E6}	Backdoor.Berbew.T	dos
+Keysaver.dll	Trojan-Dropper.Win32.Small	dos
+zpuwriz.dll	Smitfraud	dos
+fdpzgi.dll	Smitfraud	dos
+muvdjo.dll	Smitfraud	dos
+dsibr.dll	Smitfraud/AntiVirGear	dos
+swqzdtj.dll	Smitfraud	dos
+vpxnk.dll	SmitFraud	dos
+zdwii.dll	Smitfraud	dos
+zpeolvh.dll	Smitfraud	dos
+lgaac.dll	Smitfraud	dos
+mivmv.dll	Smitfraud	dos
+beahahl.dll	Smitfraud	dos
+ddomv.dll	Smitfraud	dos
+gkymhk.dll	Smitfraud	dos
+shlahsd.dll	Smitfraud_FakeAlert_variant	dos
+afzdbl.dll	Smitfraud	dos
+ccyszwl.dll	Smitfraud	dos
+txdkfh.dll	Smitfraud\ÿVirusHeat	dos
+ryxrho.dll	Smitfraud	dos
+siiyal.dll	Smitfraud	dos
+eigbbb.dll	Smitfraud	dos
+ymmzwd.dll	Smitfraud	dos
+eulbn.dll	SmitFraud	dos
+rkvdr.dll	Smitfraud	dos
+guxmhcd.dll	Smitfraud	dos
+fifzqip.dll	Smitfraud	dos
+tiqmcx.dll	Smitfraud	dos
+fshqaln.dll	Smitfraud	dos
+xskmoqx.dll	Smitfraud\ÿVirusheat	dos
+mvwqn.dll	Smitfraud, %SYSTEM%\mvwqn.dll	dos
+fwzozx.dll	Smitfraud	dos
+hteogat.dll	Smitfraud	dos
+ddllup.dll	Smiftraud_AntiVirGear	dos
+rldyt.dll	Smitfraud	dos
+nczupfw.dll	SmitFraud	dos
+aghmao.dll	Smitfraud/AntiVirGear	dos
+ijftc.dll	Smitfraud	dos
+kzpkwj.dll	Smitfraud	dos
+fyhwfc.dll	Smitfraud	dos
+kknwg.dll	Smitfraud	dos
+myqlejy.dll	Smitfraud	dos
+xikor.dll	Smitfraud	dos
+afkvvy.dll	Smitfraud	dos
+ugbtna.dll	Smitfraud	dos
+dfrep.dll	Smitfraud/VirusRay	dos
+zkpssqa.dll	Smitfraud	dos
+xovdzz.dll	Smitfraud	dos
+bqrcr.dll	SmitFraud	dos
+iwwvh.dll	Smitfraud	dos
+iheuv.dll	Smitfraud	dos
+vusxqm.dll	Smitfraud	dos
+fwjgtk.dll	Smitfraud	dos
+guadq.dll	Smitfraud\ÿVirusheat	dos
+tvomnc.dll	Smitfraud	dos
+kfcpnd.dll	Smitfraud\ÿAntiSpycheck	dos
+dooep.dll	Smitfraud	dos
+ncrjf.dll	Smitfraud	dos
+gnjsjc.dll	Smitfraud	dos
+iinqyl.dll	SmitFraud_VirusHeat	dos
+gbjkog.dll	Smitfraud	dos
+mxhfjy.dll	SmitFraud	dos
+jkqvjzl.dll	SmitFraud/Antispycheck	dos
+gdrtul.dll	Smitfraud	dos
+yizgdux.dll	SmitFraud/Antispycheck	dos
+fnczfh.dll	Smitfraud/AntiVirGear	dos
+tkrsw.dll	Smitfraud	dos
+xtsyynm.dll	Smitfraud	dos
+rxqcpn.dll	Smitfraud	dos
+yneid.dll	SmitFraud	dos
+cdwvhbf.dll	Smitfraud	dos
+cqsfk.dll	Smitfraud	dos
+ayjhc.dll	Smitfraud	dos
+heuvth.dll	Smitfraud\ÿVirusheat	dos
+iauoi.dll	Smitfraud	dos
+vpccw.dll	Smitfraud	dos
+uszhv.dll	Smitfraud/Antispycheck	dos
+igpfced.dll	Smitfraud	dos
+vjxwnn.dll	Smitfraud	dos
+fqgwiw.dll	Smitfraud	dos
+yhjbbzf.dll	Smitfraud	dos
+igzxwrl.dll	Smitfraud	dos
+2236_28.dll	Troj/Agent-CIJ	dos
+{2C1CD3D7-86AC-4068-93BC-A02304B25319}	Troj/Agent-FZF	dos
+dxovx.dll	Smitfraudÿvariant	dos
+sttwrd.dll	Troj/Renos-AH	dos
+wuuawkz.dll	Smitfraud_VirusHeat	dos
+xkrdk.dll	Smitfraud	dos
+lruvqvw.dll	Smitfraud\ÿVirusheat	dos
+xpRecovery.dll	Trojan-Downloader.Win32.Small.ddx (Kaspersky)	dos
+xsRecovery.dll	Trojan-Downloader.Win32.Small.ddx (Kaspersky)	dos
+onljweo.dll	Smitfraud	dos
+osdjhjc.dll	Smitfraud	dos
+cjuvwa.dll	Smitfraud	dos
+tmxxxh.dll	Smitfraud	dos
+wbchha.dll	Smitfraud_Virusheat	dos
+xedasn.dll	Smitfraud	dos
+vgibz.dll	Smitfraud	dos
+tvtpwp.dll	Smitfraud	dos
+zcwlnic.dll	Smitfraud	dos
+higehsg.dll	Smitfraud	dos
+oyryp.dll	Smitfraud	dos
+nexpegp.dll	Smitfraud	dos
+veptlh.dll	Smitfraud	dos
+gtawclv.dll	Smitfraud	dos
+wzhtjqo.dll	Smitfraud	dos
+uyhjw.dll	SmitFraudÿvariant	dos
+baoohy.dll	SmitFraud	dos
+ugofuq.dll	Smitfraud	dos
+iinqyl.dll	Smitfraud_VirusProtect	dos
+eeioq.dll	Smitfraud-VirusHeat	dos
+zdhgsp.dll	Smitfraud	dos
+svxmhpz.dll	SmitFraud	dos
+vtewupi.dll	Smitfraud	dos
+rrtrit.dll	Smitfraud	dos
+flirek.dll	Smitfraud	dos
+bubbj.dll	Smitfraud	dos
+gusur.dll	Smitfraud	dos
+nuqjici.dll	Smitfraud	dos
+fwrkqfl.dll	Smitfraud	dos
+tczij.dll	Smitfraud	dos
+lvhjtsa.dll	SmitFraud	dos
+pluwue.dll	Smitfraud	dos
+gaaplp.dll	Smitfraud	dos
+cefrjsh.dll	Smitfraud	dos
+tqcwm.dll	Smitfraud	dos
+tkosvv.dll	Smitfraud	dos
+wowlze.dll	SmitFraud	dos
+kvfvw.dll	Smitfraud	dos
+uglgs.dll	Smitfraud	dos
+psndz.dll	Smitfraud	dos
+ucmbegr.dll	Smitfraud/Virusprotect	dos
+wqzdtjg.dll	Smitfraud_AntiVirGear	dos
+moywh.dll	Smitfraud/VirusProtect	dos
+jrpkmgh.dll	Smitfraud	dos
+vophqmn.dll	Smitfraud	dos
+ktrxe.dll	Smitfraud	dos
+fqdqs.dll	Smitfraud	dos
+iklqcx.dll	Smitfraud	dos
+vzfhprk.dll	Smitfraud	dos
+pjgerka.dll	Smitfraud	dos
+khtbpdl.dll	Smitfraud	dos
+lrnjnzf.dll	Smitfraud	dos
+hymww.dll	Smitfraud	dos
+wpchz.dll	Smitfraud	dos
+wcscqa.dll	Smitfraud\ÿVirusheat	dos
+vvihh.dll	Smitfraud	dos
+dcggain.dll	SmitFraud	dos
+xevhbpw.dll	Smitfraud/AntiSpycheck	dos
+ivrllc.dll	Smitfraud	dos
+jdxah.dll	SmitFraud	dos
+clbrcek.dll	SmitFraud	dos
+surzzh.dll	Smitfraud	dos
+ioctrl.dll	Smitfraud/Spyaxe	dos
+xnvaogd.dll	Smitfraudÿvariant VirusProtect Pro 3.3	dos
+axdpfl.dll	SmitFraudÿVirusProtect variant	dos
+ofcpi.dll	SmitFraudÿVirusProtect variant	dos
+fsehfcu.dll	SmitFraudÿVirusProtect variant	dos
+ezzhjmt.dll	SmitFraudÿVirusProtect variant	dos
+qhcvdw.dll	SmitFraudÿVirusProtect variant	dos
+bgwttyl.dll	SmitFraud	dos
+cfqbw.dll	SmitFraud	dos
+dyrwls.dll	SmitFraud	dos
+lapmvzf.dll	SmitFraud	dos
+wfcof.dll	SmitFraud	dos
+winload.dll	Trojan.FakerÿNote:ÿpassword stealer	dos
+winload.dll	Infostealer.Nuklus	dos
+kcekz.dll	SmitFraud/AntiSpycheck	dos
+euwoeu.dll	Smitfraud/Antispycheck	dos
+ouhzw.dll	Smitfraud/Antispycheck	dos
+iwwvh.dll	Smitfraud/Spycrush	dos
+qdsba.dll	Smitfraud/VirusHeat	dos
+rtmipr.dll	Smitfraud/VirusHeat	dos
+zfaiqwr.dll	Smitfraud/VirusHeat	dos
+rkaxfza.dll	Smitfraud/VirusHeat	dos
+vualf.dll	Smitfraud/VirusHeat	dos
+rcohty.dll	Smitfraud/SpyLocked	dos
+rmtdvc.dll	Smitfraud/AntiVirGear	dos
+txxkb.dll	Smitfraud/AntiVirgear	dos
+rnxwph.dll	Smitfraud/AntiVirGear	dos
+tscfgwmijxsj.dll	Infostealer.Gampass	dos
+sjrggq.dll	Zlob fake codec	dos
+compstuig.dll	Trojan-Downloader.Win32.Delf.pa	dos
+fontexte.dll, fontexte.dll	Trojan-Downloader.Win32.Delf.pa	dos
+prflbmsgp32.dll, prflbmsgp32.dll	Trojan-Downloader.Win32.Delf.pa	dos
+st3.dll	Troj/Hasum-A	dos
+{1B68470C-2DEF-493B-8A4A-8E2D81BE4EA5}	Troj/Hasum-A	dos
+browsela.dll	Troj/Delf-AEO Trojan	dos
+admparsek.dll, admparsel.dll	Troj/Clicker-DC	dos
+hk.dll	Trojan-Downloader.Win32.Delf.pa	dos
+cfgmngr32.dll, admparsek.dll	Trojan-Downloader.Win32.Delf.pa	dos
+fontextb.dll	Troj/CWSMeup-E	dos
+d3dxim.dll	Trojan-Downloader.Delf.AEO	dos
+jfiehayd.dll	Trojan.Agent!sd6	dos
+hzclqhc.dll	Smitfraud SpywareQuake	dos
+acvgxw.dll	SpywareQuake	dos
+guxxa.dll	SpywareQuake	dos
+hvcycg.dll	SpywareQuake	dos
+icima.dll	Smitfraud	dos
+imfdfcj.dll	Smitfraud	dos
+ofcukiz.dll	Smitfraud	dos
+rmzdzx.dll	Smitfraud	dos
+suprox.dll	SpywareQuake	dos
+viwpzla.dll	Smitfraud	dos
+wfkduei.dll	Smitfraud	dos
+xuefh.dll	Smitfraud	dos
+oanlvs.dll	Smitfraud	dos
+eivrbsi.dll	Smitfraud/Virus Response Lab 2009	dos
+obicx.dll	Smitfraud/Virus Response Lab 2009	dos
+zafhemm.dll	Smitfraud/Virus Response Lab 2009	dos
+fbjvt.dll	Smitfraud/Antivirus Lab 2009	dos
+wighg.dll	Smitfraud/Antispycheck Rogue	dos
+teoga.dll	Smitfraud	dos
+bcxjqr.dll	Smitfraud	dos
+gcqltg.dll	Smitfraud	dos
+vimhx.dll	Smitfraud	dos
+duzakwq.dll	Smitfraud	dos
+bnbs.dll	Trojan-Downloader.Win32.Agent.ica	dos
+{EC43E3FD-5C60-46a6-97D7-E0B85DBDD6C4}	Trojan:Win32/Vundo	dos
+run.dll	Troj/Dloader-ZS	dos
+wunk32.dll	Trojan-Dropper.Win32.Small.aiw	dos
+ntosv.dll	Troj/Agent-CL Trojan	dos
+uinc64.dll	Trojan-Dropper.Win32.Small.adz	dos
+pfrmj.dll	Smitfraud	dos
+itdtjjf.dll	Smitfraud	dos
+qfrmwmq.dll	Smitfraud	dos
+ebmkdz.dll	Smitfraud	dos
+wakjs.dll	Smitfraud/VirusTrigger	dos
+gowqug.dll	Smitfraud	dos
+tiltmeo.dll	Smitfraud	dos
+eebpj.dll	Smitfraud/VirusTrigger	dos
+umhzwl.dll	Smitfraud	dos
+cwegus.dll	Smitfraud/AntivirusTrigger	dos
+ftfea.dll	Smitfraud/AntivirusTrigger	dos
+pbhha.dll	Smitfraud/AntivirusTrigger	dos
+gtckad.dll	Smitfraud/Virus Response Lab 2009	dos
+elmnplw.dll	Smitfraud/Virus Response Lab 2009	dos
+pgfshvp.dll	Smitfraud/Virus Response Lab 2009	dos
+ijofmsu.dll	Smitfraud/Antivirus Trigger	dos
+{D5BF49A2-94F1-42BD-F434-3604812C807D}	Zlob related, detected as Win32/TrojanDownloader.Small.NTQ trojan by ESET	dos
+stickrep.dll	Smitfraud	dos
+bmztmss.dll	Trojan.Zlobÿvariant	dos
+replmap.dll	Smitfraud/SpyAxe	dos
+cfgmngr321.dll	Trojan-Downloader.Win32.Delf.pa	dos
+dvdcap.dll	Smitfraud/SpywareQuake	dos
+gtpbx.dll	Smitfraud/VirusBurst	dos
+hkushdr.dll	Zlob trojan, AntiSpycheck variant	dos
+psqnuvo.dll	Zlob trojan, AntiSpycheck variant	dos
+funfsnv.dll	Zlob trojan, AntiSpycheck variant	dos
+sgntu.dll	Zlob trojan, AntiSpycheck variant	dos
+ibmsmyi.dll	Zlob trojan, AntiSpycheck variant	dos
+blbpeoy.dll	Zlob trojan, AntiSpycheck variant	dos
+zgtwfx.dll	PWS-OnlineGames.as!ED94F507	dos
+ydggsx.dll	PWS-OnlineGames.as!6F24ECC2	dos
+mttwfh.dll	PWS-OnlineGames.as!A40F04D3	dos
+gdipri.dll	Password stealer, detected asÿTrojan-PSW.Win32.QQPass.kw	dos
+msacn.dll	Spyware.OnlineGames	dos
+hhrdxd.dll	PWS-OnlineGames.as!40861268ÿtrojan	dos
+dndsaf.dll	PWS-OnlineGames.as!6485EE7E	dos
+zt.DLL	Trojan-PSW.Win32.QQpass.wm	dos
+zgfdet.dll	PWS-OnlineGames.as!B9D685AAÿtrojan	dos
+zefdst.dll	PWS-OnlineGames.as!B9D685AAÿtrojan	dos
+yxcschlp.dll	PWS-OnlineGames.f!CDAA0EBC	dos
+nhmxcjkl.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.asek - also seeÿhere	dos
+pdkpri.dll	Spyware.OnlineGames	dos
+zycdex.dll	PWS-OnlineGames.as!F8BE7E7C	dos
+zggxrx.dll	PWS-OnlineGames.as!F8BE7E7C	dos
+tdggrz.dll	PWS-OnlineGames.as!B9A4EAB7	dos
+kgfghd.dll	PWS-OnlineGames.as!CB3D85FF	dos
+zptlcsys.dll	PWS-LegMir.gen.h.dll!BA7FD231	dos
+mpwdeapi.dll	PWS-Mmorpg.gen!AF2256DA	dos
+bbqpri.dll	Trojan.PWS.Gamania	dos
+zxmscwin.dll	Trojan-PWS.OnlineGames.ADRD	dos
+jfrwdh.dll	PWS-OnlineGames.as!83EB588A	dos
+sgdewg.dll	PWS-OnlineGames.bn!ACA7B5A0	dos
+sgrefg.dll	PWS-OnlineGames.bn!ACA7B5A0	dos
+jdsaex.dll	PWS-QQPass!940a1640	dos
+winme32.dll	Troj/Lineage-MO Trojan	dos
+wyhesm.dll	PWS-OnlineGames.as!FDD34734	dos
+tdffdl.dll	Trojan-PWS.OnlineGames.AJYS	dos
+comuidsg.dll	Infostealer.Gampass	dos
+mndhfdwd.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.rxyp - also seeÿhere	dos
+apsghjba.dll	PWS-OnlineGames.f!A426F64F	dos
+yzztnmsn.dll	PWS-OnlineGames.f!E61C715B	dos
+oohxdbyt.dll	PWS-LegMir.gen.h.dll!E84C2CDE	dos
+oswxcttb.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.ajqf - also seeÿhere	dos
+mmhadpqg1091.dll	PWS-WoW.gen.a!8F3ADCE2	dos
+{8c3dd05d-a6a1-4cb5-a714-94be3c3b4cd0}	PWS-WoW.gen.a!8F3ADCE2	dos
+mnmhdsrv.dll	PWS-LegMir.gen.h.dll!D32CE04F	dos
+mndhcdwd.dll	PWSLegMirgenhdll565A4326	dos
+ypdjfbmp.dll	PWS-LegMir.gen.h.dll!1D1FCC20	dos
+ptjhehlp.dll	PWS-LegMir.gen.h.dll!80EB96E2	dos
+opshbbty.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.ajpz, also seeÿhere	dos
+apsgajba.dll	PWS-LegMir.gen.h.dll!2D4B7C01	dos
+zycbcime.dll	PWS-LegMir.gen.h.dll!ABF17075	dos
+bdscheca001.dll	Infostealer.Lingling.B	dos
+imgutilhx2.dll	Password stealer, a variant ofÿPWS-OnlineGames.ax!9AF7ECF4	dos
+dpvvoxmh.dll	Password stealer of Chinese origin, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.tqfh - also seeÿhere	dos
+{2876D76C-CAAA-4313-AF97-8D1D9A2A1087}	Password stealer of Chinese origin, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.tqfh - also seeÿhere	dos
+kbdgrms.dll	Password stealer of Chinese origin, a variant ofÿPWS-OnlineGames.f	dos
+jfdses.dll	PWS-OnlineGames.as3F284A2B	dos
+jhfrxz.dll	PWS-OnlineGames.as!C358666F	dos
+pedadt.dll	PWS-OnlineGames.as!3B93AB2A	dos
+zywmfime.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.akry - also seeÿhere	dos
+Cnscheck001.dll	Troj/LegMir-AHT Trojan	dos
+ddserh.dll	PWS-OnlineGames.as!69312C1Aÿtrojan	dos
+kb1ss1p. dll	Troj/Agent-GDA Trojan	dos
+bdscheca001.dll	Troj/Agent-ELZ Trojan	dos
+kb1111p.dll	Troj/Gamania-BT Trojan	dos
+cxscheca001. dll	Troj/PWS-AMU Trojan	dos
+jbloader.dll	Troj/MMThief-P Trojan	dos
+hkb0122a001. dll	Troj/PWS-AND Trojan	dos
+{E0F3526A-4165-4589-80CD-50B6FBAC3BDA}	Trojan.PWS.OnlineGames.ZNH	dos
+adsntzt.dll	Trojan.PWS.OnlineGames.ZNH	dos
+bdscheca100. dll	Troj/PWS-ADS Trojan (Win32/PSW.Agent.IM)	dos
+winewfile.dll	TR/PSW.OnLineGames.O	dos
+dhdpri.dll	Troj/QQPass-AOX Trojan	dos
+ztmpri.dll	Troj\QQPass-APA	dos
+tab32.dll	Troj/PWS-AQD Trojan (Trojan-PSW.Win32.Nilage.caf)	dos
+{D43B47A0-4DF4-4AA1-8763-A5811FB74F66}	Password stealer, detected asÿTrojan/Lineage AOR	dos
+mtewdh. dll	TROJ_DLOADER.PMX Trojan	dos
+mndhbdwd.dll	Trojan-PWS.OnlineGames	dos
+zywmcime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+oohxbbyt.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zptlbsys.dll	Password stealer trojan of Chinese origin, detected asTrojan/Xygam Q	dos
+yzztdmsn.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zxmsawin.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.shbu	dos
+mpwdaapi.dll	Trojan-PWS.OnlineGames.ADRD	dos
+yxcsbhlp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zycbbime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+ypcqbhlp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+ptjhchlp.dll	Password stealer trojan of Chinese origin, detected byÿKasperskyantivirus as Trojan-GameThief.Win32.OnLineGames.abqj - also seehere	dos
+{C275A28E-E8E2-433c-968E-4FB0C0D3FCCA}	OnlineGames.GY	dos
+mpmycapi.dll	Trojan-PWS.OnlineGames.ADRD	dos
+ypdjdbmp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zxptdjpg.dll	Trojan-PWS.OnlineGames.ADRD	dos
+ptjhbhlp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+oohxabyt.dll	Trojan-PWS.OnlineGames	dos
+zxptcjpg.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zyzxeime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+ypcqchlp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+lofsajbo.dll	Trojan-PWS.OnlineGames	dos
+mndscsrv.dll	Trojan-PWS.OnlineGames.ADRD	dos
+ozfycbyt.dll	Trojan-PWS.OnlineGames	dos
+zywmdime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zywlaime.dll	Trojan-PWS.OnlineGames	dos
+mnmhasrv.dll	Trojan-PWS.OnlineGames.ACKR	dos
+yzztemsn.dll	Password stealer trojan of Chinese origin, detected byÿKasperskyantivirus as Trojan-PSW.Win32.OnLineGames.adoy	dos
+mpwdbapi.dll	Trojan-PWS.OnlineGames.ADRD	dos
+oohxcbyt.dll	Trojan-PWS.OnlineGames	dos
+zxmsbwin.dll	Trojan-PWS.OnlineGames.ADRD	dos
+mnmhcsrv.dll	Trojan-PWS.OnlineGames	dos
+ypdjebmp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zyzxfime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zxptejpg.dll	Password stealer trojan of Chinese origin, detected asTSPY_ONLINEG.XPU	dos
+system.dll	TR/PSW.Small.BS.4	dos
+kvdxima.dll	Trojan-PWS.OnlineGames	dos
+zyzxhime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+kawdczy.dll	Trojan-PSW.Win32.OnLineGames.fqa	dos
+dh3oor1.dll	TSPY_LEGMIR.CMRÿtrojan	dos
+dh3oor0.dll	TSPY_LEGMIR.CMRÿtrojan	dos
+kaqhfzy.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.eoa - also seeÿhere	dos
+windows.dll	TSPY_ONLINEG.IOTÿtrojan	dos
+winforms.dll	TSPY_ONLINEG.IOTÿtrojan	dos
+MMKAFNFW1104	TROJ_DLOADER.FXN - Technical detailsÿtrojan	dos
+ztavpw0.dll	PWS-OnlineGames.t	dos
+hythsx.dll	Trojan-PSW.Win32.OnLineGames.mmq	dos
+hursax.dll	Trojan-PSW.Win32.OnLineGames.mmq	dos
+kvdxema.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.fsy - also seeÿhere	dos
+krnj32drv.dll	TROJ_AGENT.KAQÿtrojan	dos
+avzxemn.dll	Trojan-PSW.Win32.OnLineGames.fpx	dos
+kvmxfma.dll	Trojan-PSW.Win32.OnLineGames.fqd	dos
+zhjtrx.dll	Trojan-PSW.Win32.OnLineGames.mmq	dos
+dadoor.dll	TSPY_ONLINEG.DOJÿtrojan	dos
+dadoor0.dll	TSPY_ONLINEG.DOJÿtrojan	dos
+raqjcpi.dll	Trojan-PSW.Win32.OnLineGames.fqh	dos
+avzxbmn. dll	TSPY_ONLINEG.IRZÿtrojan	dos
+ratbfpi.dll	Trojan-Spy.Win32.Delf.any	dos
+qhdoor0.dll	TSPY_ONLINEG.DXGÿtrojan	dos
+qhdoor1.dll	TSPY_ONLINEG.DXGÿtrojan	dos
+midimapcqsj.dll	TSPY_ONLINEG.LYDÿtrojan	dos
+rsmyfpm.dll	Trojan-PSW.Win32.OnLineGames.fmr	dos
+zdesfx.dll	Password stealer trojan of Chinese origin, detected asTSPY_ONLING.AF	dos
+ypcqdhlp.dll	Trojan-PWS.OnlineGames	dos
+yzztgmsn.dll	Trojan-PWS.OnlineGames.ADRD	dos
+qhbpri.dll	TSPY_ONLINEGGCAÿtrojan	dos
+kvmxbma.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+ptjhdhlp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+skqnabib.dll	Trojan-PWS.OnlineGames	dos
+ratbhpi.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.hg, also seeÿhere	dos
+mpwdcapi.dll	Trojan-PWS.OnlineGames.ADRD	dos
+kaqhizy.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.hfq - also seeÿhere	dos
+wgdoor0	TSPY_FRETHOG.XGÿtrojan	dos
+RegistryInfo2.dll	TSPY_GAMANIA.AZÿtrojan	dos
+cdwsbkop.dll	Trojan-PWS.OnlineGames	dos
+ypcqehlp.dll	Trojan-PWS.OnlineGames	dos
+ozfydbyt.dll	Trojan-PWS.OnlineGames	dos
+rarjepi.dll	Infostealer.Gampass	dos
+yxfhbjpg.dll	Trojan-PWS.OnlineGames.ADRD	dos
+hdf453d.dll	TROJ_GAMETHIE.PWÿtrojan	dos
+lijzalit.dll	Trojan-PWS.OnlineGames.ADRD	dos
+mpmydapi.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.ajoq - also seeÿhere	dos
+yzztfmsn.dll	Trojan-PWS.OnlineGames.ADRD	dos
+raqjdpi.dll	Infostealer.Gampass	dos
+apzhbtde.dll	Trojan-PWS.OnlineGames.ADRD	dos
+ypcqfhlp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+avwgemn.dll	Infostealer.Gampass	dos
+jkhxaklo.dll	Trojan-PWS.OnlineGames	dos
+avzxfmn.dll	Infostealer.Gampass	dos
+lofscjbo.dll	Trojan-PWS.OnlineGames	dos
+mndsesrv.dll	Trojan-PWS.OnlineGames	dos
+yxfhcjpg.dll	Trojan-PWS.OnlineGames	dos
+yzzthmsn.dll	Trojan-PWS.OnlineGames	dos
+swrcbzc.dll	Storark aka Trojan-PSW.Win32.OnLineGames.gja	dos
+zywmeime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+sidjczy.dll	Trojan.DR.OnLineGames.BWO	dos
+kapjezy.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.hkl - also seeÿhere	dos
+mnmhfsrv.dll	Trojan-PWS.OnlineGames	dos
+lijzblit.dll	Trojan-PWS.OnlineGames	dos
+zyzxiime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+swsxachu.dll	Trojan-PWS.OnlineGames	dos
+skqncbib.dll	Trojan-PWS.OnlineGames	dos
+apsgdjba.dll	Trojan-PWS.OnlineGames	dos
+apsgbjba.dll	Password stealer trojan of Chinese origin, detected asTSPY_LEGMIR.BMJ	dos
+nhmxbjkl.dll	Trojan-PWS.OnlineGames	dos
+mpwddapi.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zycbdime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+mndsfsrv.dll	Trojan-PWS.OnlineGames.ADRD	dos
+mnmhgsrv.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-PSW.Win32.OnLineGames.alzp - also seeÿhere	dos
+yzztimsn.dll	Trojan-PWS.OnlineGames.ADRD	dos
+mndhddwd.dll	Trojan-PWS.OnlineGames.ADRD	dos
+skqnbbib.dll	Trojan Win32:OnLineGames-DQP	dos
+pjjxcdwd.dll	TSPY_ONLINEG.FOK	dos
+ozfyebyt.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.aqeh - also seeÿhere	dos
+zyzxjime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+lassaplo.dll	Trojan-PWS.OnlineGames	dos
+oswxdttb.dll	Infostealer.Gampass	dos
+sqavpw0.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+qqmm.vxd	Password stealer trojan of Chinese origin, detected byÿKasperskyantivirus as Trojan-PSW.Win32.QQPass.bpt	dos
+cliconfgzx.dll	PWS-LegMir!071B2D04ÿtrojan	dos
+{7A6DF30E-D0F2-446f-B4F0-BF4232D60E07}	PWS-LegMir!071B2D04ÿtrojan	dos
+ietzbpaq. dll	Password stealer trojan of Chinese origin, a variant ofÿPWS-OnlineGames.f	dos
+tdfhex.dll	PWS-OnlineGames.as!38462A51ÿtrojan	dos
+lijzclit.dll	Trojan-PWS.OnlineGames.ADRD	dos
+pjjxedwd.dll	Trojan-PWS.OnlineGames	dos
+rijxbkin.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.satq - also seeÿhere	dos
+ietzapaq.dll	Trojan-PSW.Win32.OnLineGames.ajrc	dos
+tisqatyu.dll	Trojan-PWS.OnlineGames	dos
+pjjxddwd.dll	Password stealer trojan of Chinese origin, detected as Trojan/Win32.OnLineGames.DQP	dos
+lofsdjbo.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.algy - also seeÿhere	dos
+apsggjba.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.sasz - also seeÿhere	dos
+ypdjgbmp.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zywmgime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+apsgejba.dll	Password stealer trojan of Chinese origin, a variant ofÿPWS-OnlineGames.f	dos
+mndhedwd.dll	Trojan-PWS.OnlineGames.ADRD	dos
+arjrbler.dll	Infostealer.Gampass	dos
+mndsgsrv.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampassÿ- detected byÿKasperskyÿas Trojan-PSW.Win32.OnLineGames.apte - also seeÿhere	dos
+akjsckaq.dll	Infostealer.Gampass	dos
+tysqakol.dll	Trojan-PWS.OnlineGames.ADRD	dos
+apsgfjba.dll	Infostealer.Gampass	dos
+mpmygapi.dll	Infostealer.Gampass	dos
+pqzfajke.dll	Trojan-PWS.OnlineGames.ADRD	dos
+yzztjmsn.dll	Trojan-PWS.OnlineGames.ADRD	dos
+arjrcler.dll	Trojan-PWS.OnlineGames.ADRD	dos
+SafeCtrl02.dll	Frethog.AEQ	dos
+SafeCtrl01.dll	Frethog.AEQ	dos
+mpmyhapi.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zxmsdwin.dll	Trojan-PWS.OnlineGames.ADRD	dos
+arjrdler.dll	Infostealer.Gampass	dos
+erxybloe.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampassÿ- also seeÿhere	dos
+apzhctde.dll	Trojan-PWS.OnlineGames.ADRD	dos
+yzztkmsn.dll	Infostealer.Gampass	dos
+arjreler.dll	Infostealer.Gampass	dos
+tysqbkol.dll	Trojan-PWS.OnlineGames.ADRD	dos
+zywlcime.dll	Trojan-PWS.OnlineGames.ADRD	dos
+ijdyapaw.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.rzoq - also seeÿhere	dos
+akjsdkaq.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as TR/Spy.Gen KasperskyTrojan-GameThief.Win32.OnLineGames.rxqe - also seeÿhere	dos
+NONpack01.dll	Worm.Win32.Agent.yzy	dos
+NONpack02.dll	Worm.Win32.Agent.yzy	dos
+mndshsrv.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.rxuz - also seeÿhere	dos
+ypcqghlp.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.ryqo - also seeÿhere	dos
+arjrfler.dll	Infostealer.Gampass	dos
+nhmxdjkl.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.rxxi - also seeÿhere	dos
+arjrgler.dll	Trojan-PWS.OnlineGames.ADRD	dos
+tisqctyu.dll	Infostealer trojan, detected byÿKasperskyÿantivirus as Trojan-GameThief.Win32.OnLineGames.sasu - also seeÿhere	dos
+oohxebyt.dll	TROJ_GAMETHIE.JUÿtrojan	dos
+arjrhler.dll	Trojan-PWS.OnlineGames.ADRD	dos
+BoldShl01.dll	OnlineGames.KW	dos
+BoldShl02.dll	OnlineGames.KW	dos
+KVBatch01.dll	Password stealer trojan of Chinese origin, detected asTrojan/Frethog JB	dos
+KVBatch02.dll	Password stealer trojan of Chinese origin, detected asTrojan/Frethog JB	dos
+rfdswc.dll	PWS-OnlineGames.as!4015F0C7ÿtrojan	dos
+jggtsr.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan.Win32.Agent.fir	dos
+{CAED0F3B-DF8B-4DBF-BB20-8DFBC3199068}	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass, detected byÿKasperskyÿantivirus as Trojan.Win32.Agent.fir	dos
+wrqszl.dll	Trojan-PWS.OnlineGames	dos
+midimaptl.dll	PWS-OnlineGames.aw.dll	dos
+midimapgj.dll	Password stealer trojan of Chinese origin, detected asTrojan/Midigam E	dos
+cliconfgzx. dll	Variant of theÿPWS-LegMir!071B2D04ÿtrojan	dos
+cedafb. dll	PWS-OnlineGames.as!3162553Aÿtrojan	dos
+MMHADPQG1097.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampassÿn	dos
+GUIMon01.dll	OnlineG.YO	dos
+GUIMon02.dll	OnlineG.YO	dos
+catsrvwl.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+kbdswjr.dll	Password stealer trojan of Chinese origin, detected asÿPWS-OnlineGames.ax!8C59C106	dos
+BugReport	OnlineG.YO	dos
+rasdlgcq.dll	Password stealer trojan of Chinese origin, detected asÿPWS-OnlineGames.ax!5418BEF6	dos
+wklsdd.dll	Password stealer trojan of Chinese origin, detected asÿPWS-OnlineGames.as!44DA828D	dos
+wgfdad.dll	Password stealer trojan of Chinese origin, detected asÿPWS-OnlineGames.as!44DA828D	dos
+SVCCtrl	OnlineGames.OF	dos
+ProcSvr0	Trojan.PSW.Win32.GameOnline	dos
+DVBBack0	win32.trojanPWS.OnlineGames	dos
+MediaDrv0	OnlineGames.KW	dos
+SQLLink0	TSPY_ONLINEG.JBB	dos
+mswinlogon.dll	Troj/DwnLdr-ETM Trojan (Trojan-Downloader.Win32.Agent.ast)	dos
+dkxcj32.dll	Troj/PSW-ES Trojan	dos
+ratbipi.dll	win32.trojanPWS.OnlineGames	dos
+WinSpy32.dll	TSPY_QQPASS.CMZÿtrojan	dos
+arjrller.dll	TROJ_GAMETHI.ILÿtrojan	dos
+kvdxshma.dll	Password stealer trojan of Chinese origin, a variant ofInfostealer.Gampass	dos
+vdicmyc	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+eblnryc	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+ieuprxb	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+hesthwd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+zycpyxe	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+nyvlcrd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+fscxfub	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+wfazvif	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+xiayqpc	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+stngxvf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+vswrlye	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+fjdgbff	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+qaoxqtd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+rdwnpvb	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+umtjtgf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+ghvdlxb	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+gttnjmc	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+coyqhyf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+ebtpojb	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+fsrpikb	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+gtrwqkb	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+sjhyddb	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+xsbbbfg	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+dknxvag	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+mhhmdsf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+uzsehcd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+ossngzf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+ivodhcc	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+dblibcb	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+ltipwke	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+mhhmdsf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+hubjemd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+qpujdcc	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+uapclud	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+ednppsf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+kaijrnf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+sdiubk	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+eafntqf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+gvepnwd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+smupvr	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+vepwqt	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+fotwqyd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+idiqpqd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+otifdtf	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+qtjnlhg	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+mmmfucd	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+diwwsi	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+hkjosr	Trojan-Spy.Win32.GreenScreenÿa Zlob/FakeAlert variant.	dos
+DbWin.dll	unidentified malware	dos

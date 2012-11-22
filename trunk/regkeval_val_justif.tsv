@@ -1,3 +1,5 @@
+HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\WindowsFirewall\DomainProfile	EnableFirewall	1
+HKEY_LOCAL_MACHINE\System\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile	EnableFirewall	1
 HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shellex\ContextMenuHandlers\BriefcaseMenu	Default	{85BBD920-42A0-1069-A2E4-08002B30309D}
 HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}	Default	Briefcase
 HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32	Default	%SystemRoot%\system32\syncui.dll

@@ -4,7 +4,7 @@
 <head><title></title>
   <style type="text/css">
 	body { font-size: x-small }
-	table { border-collapse: collapse; table-layout: fixed }
+	table { border-collapse: collapse; table-layout: fixed; word-wrap: break-word }
     td { font-family: Arial }
 	td.min { font-family: Arial; font-size: x-small;font-weight:700 }
     th.principal { font-family: Arial; background-color: Black; color: White }
@@ -28,9 +28,9 @@
 </HEAD>
 <BODY> 
 <TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1" width="100%"> 
-  <col width="50%"></col>
+  <col width="45%"></col>
    <col width="10%"></col>
-  <col width="30%"></col>
+  <col width="35%"></col>
   <col width="10%"></col>
 <TR> 
   <TH class="sub">Key</TH> 

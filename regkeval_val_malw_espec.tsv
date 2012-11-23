@@ -1,4 +1,8 @@
 Indicator	detail	classification:dos-malware_cuatro-special
+glaide32.sys	Win32/Rustock	2
+lzx32.sys	Win32/Rustock	2
+msqpdx	Win32/Alureon	2
+msliksur	Win32/Alureon	2
 runtime.sys	http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Win32/Cutwail	dos
 runtime2.sys	http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Win32/Cutwail	dos
 devwiz.ocx	 Flame malware:Collects information about CMOS, BIOS	dos

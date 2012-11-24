@@ -3,8 +3,6 @@ HKU\Software\Classes\.bfc\ShellNew\command,
 HKU\Software\Classes\.lnk\ShellNew\command,
 HKU\Software\Classes\:::*:::\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
 HKU\Software\Classes\:::*file*:::\shell\:::*:::\command\Default,
-HKU\Software\Classes\AllFileSystemObjects\ShellEx\:::*:::\:::*:::\Default,Search for ColumnHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers ContextMenuHandlers
-HKU\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers\:::*:::\Default,
 HKU\Software\Classes\Applications\iexplore.exe\shell\open\command\Default,
 HKU\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\:::*:::\Default&&FriendlyName&&CLSID,http://about-threats.trendmicro.com/Malware.aspx?language=au&name=TROJ_AGENT.MCS
 HKU\Software\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance\:::vk:::,http://www.threatexpert.com/report.aspx?md5=d39ab2caf56c54006b1834916a0a3c45

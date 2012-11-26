@@ -3,6 +3,8 @@ HKU\Software\Classes\.bfc\ShellNew\command,
 HKU\Software\Classes\.lnk\ShellNew\command,
 HKU\Software\Classes\:::*:::\ShellEx\:::*:::\:::*:::\Default,Search for ContextMenuHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers
 HKU\Software\Classes\:::*file*:::\shell\:::*:::\command\Default,
+HKU\Software\Classes\AllFileSystemObjects\ShellEx\:::*:::\:::*:::\Default,Search for ColumnHandlers CopyHookHandlers DragDropHandlers PropertySheetHandlers ContextMenuHandlers
+HKU\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers\:::*:::\Default,
 HKU\Software\Classes\Applications\iexplore.exe\shell\open\command\Default,
 HKU\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\:::*:::\Default&&FriendlyName&&CLSID,http://about-threats.trendmicro.com/Malware.aspx?language=au&name=TROJ_AGENT.MCS
 HKU\Software\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance\:::vk:::,http://www.threatexpert.com/report.aspx?md5=d39ab2caf56c54006b1834916a0a3c45
@@ -38,6 +40,7 @@ HKU\Software\Microsoft\Internet Explorer\Search\CustomizeSearch&&Default_Search_
 HKU\Software\Microsoft\Internet Explorer\Toolbar\:::vk:::,
 HKU\Software\Microsoft\Internet Explorer\UrlSearchHooks\:::vk:::,
 HKU\Software\Microsoft\Windows NT\CurrentVersion\Network\Location Awareness\:::vk:::,
+HKU\Software\Microsoft\Windows NT\CurrentVersion\SystemRestore\DisableSR,http://go.eset.com/us/threat-center/encyclopedia/threats/w32lebreata/
 HKU\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunonceEx\:::vk:::,
 HKU\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce\:::vk:::,
 HKU\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run\:::vk:::,
@@ -51,6 +54,7 @@ HKU\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Startu
 HKU\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Shutdown\:::vk:::,
 HKU\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Startup\:::vk:::,
 HKU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ProxyOverride,
+HKU\Software\Microsoft\Windows\CurrentVersion\Policies\System\DisableRegistryTools&&DisableTaskMgr,http://go.eset.com/us/threat-center/encyclopedia/threats/w32lebreata/
 HKU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\:::vk:::,
 HKU\Software\Microsoft\Windows\CurrentVersion\Policies\system\Shell,Shell=
 HKU\Software\Microsoft\Windows\CurrentVersion\RunOnceEx\:::vk:::,
@@ -65,3 +69,4 @@ HKU\Software\MozillaPlugins\:::*:::\Path,
 HKU\Software\Mozilla\Firefox\Extensions,
 HKU\Software\Netscape\Netscape Navigator\Viewers\:::vk:::,
 HKU\Software\Policies\Microsoft\Windows\System\Scripts\:::*:::\:::*:::\:::*:::\Script,logon.logoff.shutdown.startup-0.1-0.1
+HKU\Software\Policies\Microsoft\WindowsWindowsUpdate\AU\NoAutoUpdate&&AUOptions,http://go.eset.com/us/threat-center/encyclopedia/threats/w32lebreata/

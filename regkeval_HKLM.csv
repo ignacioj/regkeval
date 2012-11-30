@@ -57,10 +57,7 @@ HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\:::*:::\DLLNam
 HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\CmstpExtensionDll,
 HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\Default,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::*:::\Default,
-HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\BackupPath\Default,
-HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\ChkDskPath\Default,
-HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\DefragPath\Default,
-HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\cleanuppath\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\:::*Path*:::\Default,BackupPath-ChkDskPath-DefragPath-cleanuppath
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Common Startup,Common Startup"="C:\windows\start menu\programs\startup"

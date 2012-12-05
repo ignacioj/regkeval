@@ -39,6 +39,7 @@ HKU\Software\Microsoft\Internet Explorer\SearchURL\Default,
 HKU\Software\Microsoft\Internet Explorer\Search\CustomizeSearch&&Default_Search_URL&&SearchAssistant,
 HKU\Software\Microsoft\Internet Explorer\Toolbar\:::vk:::,
 HKU\Software\Microsoft\Internet Explorer\UrlSearchHooks\:::vk:::,
+HKU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\:::v:::, W32/IRCbot.worm.gen.ay
 HKU\Software\Microsoft\Windows NT\CurrentVersion\Network\Location Awareness\:::vk:::,
 HKU\Software\Microsoft\Windows NT\CurrentVersion\SystemRestore\DisableSR,http://go.eset.com/us/threat-center/encyclopedia/threats/w32lebreata/
 HKU\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunonceEx\:::vk:::,

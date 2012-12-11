@@ -10,10 +10,10 @@
     th.principal { font-family: Arial; background-color: Black; color: White }
 	th.sub { font-family: Arial; text-align: left; background-color: #888888}
 	tr { font-family: Arial; font-size: small }
-	TR.cero {color: #80D980; background-color: #007722;font-size: x-small }
-	TR.uno {color: Black; background-color: #FFDD77;font-size: small }
+	TR.cero {color: #80DA80; background-color: #01796F;font-size: x-small }
+	TR.uno {color: Black; background-color: #FAD6A5;font-size: small }
 	TR.dos {color: White; background-color: Red;font-size: small }
-	TR.tres {color:Red; background-color: #EEEEEE;font-size: small; font-weight:700 }
+	TR.tres {color:#C41E3A; background-color: #EEEEEE;font-size: small; font-weight:700 }
 	TR.tresuno {color: #DDDDDD; background-color: #444444;font-size: x-small }
 	TR.cuatro {color: Blue; background-color: #ffff99;font-size: small }
 	TR.cincouno {color: White; background-color: #0000FF;font-weight:700;font-size: small }

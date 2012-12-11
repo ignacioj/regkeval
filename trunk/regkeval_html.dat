@@ -20,14 +20,11 @@
   </style> 
 </HEAD>
 <BODY> 
-<TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1"> 
+<TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1" width="100%"> 
 <TR> 
   <TH colspan="4" class="principal">Registry values</TH> 
 </TR> 
-<TR> <head><title></title>
-</HEAD>
-<BODY> 
-<TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1" width="100%"> 
+<TR> 
   <col width="45%"></col>
    <col width="10%"></col>
   <col width="35%"></col>

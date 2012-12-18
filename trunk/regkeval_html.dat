@@ -1,7 +1,9 @@
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"> 
 <html>
-<head><title></title>
+<head>
+<meta name="tipo_contenido"  content="text/html;" http-equiv="content-type" charset="utf-8">
+<title></title>
   <style type="text/css">
 	body { font-size: x-small }
 	table { border-collapse: collapse; table-layout: fixed; word-wrap: break-word }

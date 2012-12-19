@@ -60,7 +60,7 @@
 # v3.2.0 New classification value based on the negative match of the regkeval_val_justif.tsv.
 # v3.3   Support for multiples datas for a given value
 # Author: Ignacio J. Pérez J., nachpj@gmail.com
-# 
+# Copyright 2012 Ignacio J. Pérez J., nachpj@gmail.com
 # This software is released via the GPL v3.0 license:
 # http://www.gnu.org/licenses/gpl.html
 #------------------------------------------------------------------------------------------------------------------------

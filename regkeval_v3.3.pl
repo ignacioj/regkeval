@@ -58,7 +58,7 @@
 # Versions:
 # v3.1.5 First public version.
 # v3.2.0 New classification value based on the negative match of the regkeval_val_justif.tsv.
-# v3.2.1 Support for multiples values for a given key
+# v3.3   Support for multiples values for a given key
 # Author: Ignacio J. Pérez J., nachpj@gmail.com
 # 
 # This software is released via the GPL v3.0 license:

@@ -58,7 +58,7 @@
 # Versions:
 # v3.1.5 First public version.
 # v3.2.0 New classification value based on the negative match of the regkeval_val_justif.tsv.
-# v3.3   Support for multiples values for a given key
+# v3.3   Support for multiples datas for a given value
 # Author: Ignacio J. Pérez J., nachpj@gmail.com
 # 
 # This software is released via the GPL v3.0 license:
@@ -231,32 +231,35 @@ sub proc_registro {
 	my $origen;
 	my $root_key;
 	foreach my $keyComodin (@keysBuscadas) {
-	print OUTPUT $keyComodin,"\t","\t","\t","\t","tres","\n";
-	print $keyComodin,"\n";
-			if ($keyComodin =~ /HKU\\(.*),.*/) { $root_key = $root_key_hku; $keyComodin = $1; }
-			if ($keyComodin =~ /HKLM\\Software\\(.*),.*/) { $root_key = $root_key_soft; $keyComodin = $1; }
-			if ($keyComodin =~ /HKLM\\System\\ControlSet(.*),.*/) { $root_key = $root_key_sys; $keyComodin = $ccs_name.$1; }
-			if ( $keyComodin =~ /([^:::]*)\\:::.*/ ) {
-				$origen = $1;
-			} else {
-				$keyComodin =~ /(.*)\\/;
-				$origen = $1;
-			}
-			$keyComodin =~ s/:::\*:::/[^\\\\]\*/g;
-			$keyComodin =~ s/:::\*/[^\\\\]\*/g;
-			$keyComodin =~ s/\*:::/[^\\\\]\*/g;
-			$keyComodin =~ s/&&/,/g;
-			$keyComodin =~ s/(.*)\\/$1;/;
-			$keyComodin =~ s/\\/\\\\/g;
-			$keyComodin =~ /(.*);(.*)/;
-			my $keybuscada = $1;
-			my $valoresbuscados = $2;
-			if (my $keyorigen = $root_key->get_subkey($origen)) {
-				obtain_values($keyorigen,$keybuscada,$valoresbuscados);
-			}
+		print OUTPUT $keyComodin,"\t","\t","\t","\t","tres","\n";
+		print STDERR "\r";
+		print $keyComodin,"\n";
+		print STDERR "Searching...\n";
+		if ($keyComodin =~ /HKU\\(.*),.*/) { $root_key = $root_key_hku; $keyComodin = $1; }
+		if ($keyComodin =~ /HKLM\\Software\\(.*),.*/) { $root_key = $root_key_soft; $keyComodin = $1; }
+		if ($keyComodin =~ /HKLM\\System\\ControlSet(.*),.*/) { $root_key = $root_key_sys; $keyComodin = $ccs_name.$1; }
+		if ( $keyComodin =~ /([^:::]*)\\:::.*/ ) {
+			$origen = $1;
+		} else {
+			$keyComodin =~ /(.*)\\/;
+			$origen = $1;
+		}
+		$keyComodin =~ s/:::\*:::/[^\\\\]\*/g;
+		$keyComodin =~ s/:::\*/[^\\\\]\*/g;
+		$keyComodin =~ s/\*:::/[^\\\\]\*/g;
+		$keyComodin =~ s/&&/,/g;
+		$keyComodin =~ s/(.*)\\/$1;/;
+		$keyComodin =~ s/\\/\\\\/g;
+		$keyComodin =~ /(.*);(.*)/;
+		my $keybuscada = $1;
+		my $valoresbuscados = $2;
+		if (my $keyorigen = $root_key->get_subkey($origen)) {
+			obtain_values($keyorigen,$keybuscada,$valoresbuscados);
+		}
 	}
 }
 sub obtain_values {
+		print STDERR "\r$reg_count";
 		$reg_count +=1;
         my $key = shift;
         my $buscada = shift;

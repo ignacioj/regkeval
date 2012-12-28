@@ -25,12 +25,12 @@ HKLM\Software\Classes\Unknown\shell\openas\command\Default,
 HKLM\Software\Clients\StartMenuInternet\FIREFOX.EXE\shell\open\command\Default,
 HKLM\Software\Clients\StartMenuInternet\Google Chrome\shell\open\command\Default,
 HKLM\Software\Clients\StartMenuInternet\IEXPLORE.EXE\shell\open\command\Default,
-HKLM\Software\Microsoft\Active Setup\Installed Components\:::*:::\Default&&StubPath, Mas de un valor unidos por &&
+HKLM\Software\Microsoft\Active Setup\Installed Components\:::*:::\Default&&KeyFileName&&StubPath, Mas de un valor unidos por &&
 HKLM\Software\Microsoft\Code Store Database\Distribution Units\:::vk:::, activex controls
 HKLM\Software\Microsoft\Command Processor\Autorun\:::vk:::,
 HKLM\Software\Microsoft\Ctf\LangBarAddin\:::vk:::,
 HKLM\Software\Microsoft\Internet Explorer\Explorer Bars\:::vk:::,
-HKLM\Software\Microsoft\Internet Explorer\Extensions\:::*:::\CLSID&&Exec, 
+HKLM\Software\Microsoft\Internet Explorer\Extensions\:::*:::\ButtonText&&CLSID&&Exec, 
 HKLM\Software\Microsoft\Internet Explorer\Main\Default_Page_URL&&HOMEOldSP&&Default_Search_URL&&Local Page$$Search Bar&&Search Page&&Start Page&&Start_Page_bak&&Use Custom Search URL,
 HKLM\Software\Microsoft\Internet Explorer\MenuExt,
 HKLM\Software\Microsoft\Internet Explorer\Search\CustomizeSearch&&Default_Search_URL&&SearchAssistant,
@@ -56,7 +56,7 @@ HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\:::*:::\
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\:::*:::\DLLName,
 HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\CmstpExtensionDll,
 HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\Default,
-HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::*:::\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::*:::\:::v:::,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\:::*Path*:::\Default,BackupPath-ChkDskPath-DefragPath-cleanuppath
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler,
@@ -85,7 +85,45 @@ HKLM\Software\Policies\Microsoft\WindowsFirewall\DomainProfile\GloballyOpenPorts
 HKLM\Software\Policies\Microsoft\WindowsFirewall\StandardProfile\EnableFirewall,
 HKLM\Software\Policies\Microsoft\WindowsFirewall\StandardProfile\AuthorizedApplications\List\:::vk::,
 HKLM\Software\Policies\Microsoft\WindowsFirewall\StandardProfile\GloballyOpenPorts\List\:::vk::,
-HKLM\Software\wow6432node\microsoft\windows\currentversion\run\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\:::*:::\Default&&KeyFileName&&StubPath, Mas de un valor unidos por &&
+HKLM\Software\Wow6432Node\Microsoft\Code Store Database\Distribution Units\:::vk:::, activex controls
+HKLM\Software\Wow6432Node\Microsoft\Command Processor\Autorun\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Ctf\LangBarAddin\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions\:::*:::\ButtonText&&CLSID&&Exec, 
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Main\Default_Page_URL&&HOMEOldSP&&Default_Search_URL&&Local Page$$Search Bar&&Search Page&&Start Page&&Start_Page_bak&&Use Custom Search URL,
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Search\CustomizeSearch&&Default_Search_URL&&SearchAssistant,
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\SearchScopes\DefaultScope,
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\SearchScopes\:::*:::\URL,
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\SearchURL,
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Toolbar,
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Toolbar\:::*:::\,WebBrowser-ShellBrowser
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\URLSearchHooks,
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\:::*:::\ATExe, En windows 7
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Accessibility\Utility Manager\:::*:::\Application path, Solo este valor
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\AeDebug\Debugger,
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32,
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\SvcHost\netsvcs&&,hay una clave con el mismo nombre y lo que quiero es el valor y no la clave
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\AppSetup&&GinaDLL&&LogoffApp&&Shell&&System&&Taskman&&UIHost&&Userinit&&VmApplet,
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\:::*:::\DLLName,
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\:::*:::\DLLName,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::*:::\:::v:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\:::*Path*:::\Default,BackupPath-ChkDskPath-DefragPath-cleanuppath
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Common Startup,Common Startup"="C:\windows\start menu\programs\startup"
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Common Startup,Common Startup"="C:\windows\start menu\programs\startup"
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\run\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnceEx\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce\Setup,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunServices\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunServicesOnce\:::vk:::,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad,
 HKLM\System\ControlSet\Control\BootVerificationProgram\ImagePath\Default,
 HKLM\System\ControlSet\Control\FileSystem\NTFSDisableLastAccessUpdate,
 HKLM\System\ControlSet\control\lsa\Authentication Packages&&Notification Packages&&Security Packages,

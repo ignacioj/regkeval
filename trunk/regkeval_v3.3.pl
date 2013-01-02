@@ -10,6 +10,7 @@
 #       perl regkeval.pl mytask001 d:\cases\C2\allhives d:\cases\C2\allhives
 #
 # System, software and ntuser hives must contain those words in their own file names.
+# e.g.: comp_system.dat, softwareComp.dat, john_ntuser.dat.
 # The selection of the CurrentControlSet is made reading the registry.
 # In order to assist the analyst when reviewing the output the tool automatically retrieves this
 # information of any CLSID contained in the data of a value: 

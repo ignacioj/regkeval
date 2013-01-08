@@ -26,7 +26,7 @@ HKLM\Software\Clients\StartMenuInternet\FIREFOX.EXE\shell\open\command\Default,
 HKLM\Software\Clients\StartMenuInternet\Google Chrome\shell\open\command\Default,
 HKLM\Software\Clients\StartMenuInternet\IEXPLORE.EXE\shell\open\command\Default,
 HKLM\Software\Microsoft\Active Setup\Installed Components\:::*:::\Default&&KeyFileName&&StubPath, Mas de un valor unidos por &&
-HKLM\Software\Microsoft\Code Store Database\Distribution Units\:::vk:::, activex controls
+HKLM\Software\Microsoft\Code Store Database\Distribution Units\:::*:::\Default, activex controls
 HKLM\Software\Microsoft\Command Processor\Autorun\:::vk:::,
 HKLM\Software\Microsoft\Ctf\LangBarAddin\:::vk:::,
 HKLM\Software\Microsoft\Internet Explorer\Explorer Bars\:::vk:::,
@@ -86,7 +86,7 @@ HKLM\Software\Policies\Microsoft\WindowsFirewall\StandardProfile\EnableFirewall,
 HKLM\Software\Policies\Microsoft\WindowsFirewall\StandardProfile\AuthorizedApplications\List\:::vk::,
 HKLM\Software\Policies\Microsoft\WindowsFirewall\StandardProfile\GloballyOpenPorts\List\:::vk::,
 HKLM\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\:::*:::\Default&&KeyFileName&&StubPath, Mas de un valor unidos por &&
-HKLM\Software\Wow6432Node\Microsoft\Code Store Database\Distribution Units\:::vk:::, activex controls
+HKLM\Software\Wow6432Node\Microsoft\Code Store Database\Distribution Units\:::*:::\Default, activex controls
 HKLM\Software\Wow6432Node\Microsoft\Command Processor\Autorun\:::vk:::,
 HKLM\Software\Wow6432Node\Microsoft\Ctf\LangBarAddin\:::vk:::,
 HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars\:::vk:::,

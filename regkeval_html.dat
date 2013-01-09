@@ -4,7 +4,7 @@
 <head>
 <meta name="tipo_contenido"  content="text/html;" http-equiv="content-type" charset="utf-8">
 <title></title>
-  <style type="text/css">
+<style type="text/css">
 	body { font-size: x-small }
 	table { border-collapse: collapse; table-layout: fixed; word-wrap: break-word }
     td { font-family: Arial }
@@ -16,25 +16,27 @@
 	TR.uno {color: Black; background-color: #FAD6A5;font-size: small }
 	TR.dos {color: White; background-color: Red;font-size: small }
 	TR.tres {color:#C41E3A; background-color: #EEEEEE;font-size: small; font-weight:700 }
-	TR.tresuno {color: #DDDDDD; background-color: #444444;font-size: x-small }
 	TR.cuatro {color: Blue; background-color: #ffff99;font-size: small }
-	TR.cincouno {color: White; background-color: #0000FF;font-weight:700;font-size: small }
-  </style> 
+	TR.cinco {color: White; background-color: #0000FF;font-weight:700;font-size: small }
+	TR.seis {color: #DDDDDD; background-color: #444444;font-size: x-small }
+</style> 
 </HEAD>
 <BODY> 
 <TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1" width="100%"> 
 <TR> 
-  <TH colspan="4" class="principal">Registry values</TH> 
+  <TH colspan="5" class="principal">Registry values</TH> 
 </TR> 
 <TR> 
-  <col width="45%"></col>
-   <col width="10%"></col>
   <col width="35%"></col>
+   <col width="10%"></col>
+  <col width="30%"></col>
   <col width="10%"></col>
+  <col width="15%"></col>
 <TR> 
   <TH class="sub">Key</TH> 
   <TH class="sub">Value</TH> 
   <TH class="sub">Data</TH> 
-  <TH class="sub">Key_Timestamp</TH> 
+  <TH class="sub">Key_Timestamp</TH>
+  <TH class="sub">Remarks</TH>
 </TR> 
 

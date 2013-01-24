@@ -1,4 +1,8 @@
 Indicator	detail	classification:dos-malware_cuatro-special
+RtkN32Gdi.exe	RedOctober	dos
+Microsoft\svchost.exe	RedOctober	dos
+ms32trayX.exe	RedOctober	dos
+lgfxtray.exe	RedOctober	dos
 glaide32.sys	Win32/Rustock	dos
 lzx32.sys	Win32/Rustock	dos
 msqpdx	Win32/Alureon	dos

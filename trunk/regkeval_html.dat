@@ -22,16 +22,15 @@
 </style> 
 </HEAD>
 <BODY> 
-<TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1" width="100%"> 
+<TABLE BORDERCOLOR="BLACK" BORDER="1" CELLPADDING="1" width="100%">
+<col width="35%"></col>
+<col width="10%"></col>
+<col width="30%"></col>
+<col width="10%"></col>
+<col width="15%"></col>
 <TR> 
   <TH colspan="5" class="principal">Registry values</TH> 
 </TR> 
-<TR> 
-  <col width="35%"></col>
-   <col width="10%"></col>
-  <col width="30%"></col>
-  <col width="10%"></col>
-  <col width="15%"></col>
 <TR> 
   <TH class="sub">Key</TH> 
   <TH class="sub">Value</TH> 

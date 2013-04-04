@@ -56,6 +56,8 @@ HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\:::*:::\
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\:::*:::\DLLName,
 HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\CmstpExtensionDll,
 HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\:::c:::\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\BITS\IGDSearcherDLL,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::*:::\:::v:::,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\:::*Path*:::\Default,BackupPath-ChkDskPath-DefragPath-cleanuppath
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace,
@@ -76,6 +78,7 @@ HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\Setup,
 HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices\:::vk:::,
 HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\:::vk:::,
 HKLM\Software\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad,
+HKLM\Software\Microsoft\Windows\CurrentVersion\StillImage\Registered Applications\:::vk:::,
 HKLM\Software\Policies\Microsoft\Windows NT\CurrentVersion\SystemRestore\DisableSR,http://go.eset.com/us/threat-center/encyclopedia/threats/w32lebreata/
 HKLM\Software\Policies\Microsoft\Windows\System\Scripts\:::*:::\:::*:::\:::*:::\Script,logon.logoff.shutdown.startup-0.1-0.1
 HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate\AU\NoAutoUpdate&&AUOptions,http://go.eset.com/us/threat-center/encyclopedia/threats/w32lebreata/
@@ -108,6 +111,7 @@ HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DL
 HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\AppSetup&&GinaDLL&&LogoffApp&&Shell&&System&&Taskman&&UIHost&&Userinit&&VmApplet,
 HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\:::*:::\DLLName,
 HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\:::*:::\DLLName,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\:::c:::\Default,
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::*:::\:::v:::,
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\:::*Path*:::\Default,BackupPath-ChkDskPath-DefragPath-cleanuppath
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace,
@@ -141,6 +145,8 @@ HKLM\System\ControlSet\Control\Session Manager\FileRenameOperations\:::vk:::,
 HKLM\System\ControlSet\Control\Session Manager\PendingFileRenameOperations\:::vk:::,
 HKLM\System\ControlSet\Control\Session Manager\S0InitialCommand,
 HKLM\System\ControlSet\Control\Session Manager\SetupExecute,
+HKLM\System\ControlSet\Control\StillImage\Events\:::*:::\Cmdline,
+HKLM\System\ControlSet\Control\WDI\DiagnosticModules\:::*:::\ImagePath,
 HKLM\System\ControlSet\Control\WOW\cmdline,
 HKLM\System\ControlSet\Control\WOW\wowcmdline,
 HKLM\System\ControlSet\Services\:::*:::\ImagePath,

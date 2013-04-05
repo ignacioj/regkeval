@@ -56,7 +56,9 @@ HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\:::*:::\
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\:::*:::\DLLName,
 HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\CmstpExtensionDll,
 HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\:::*:::\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters\:::c:::\Default,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\:::c:::\Default,
+HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\PLAP Providers\:::c:::\Default,
 HKLM\Software\Microsoft\Windows\CurrentVersion\BITS\IGDSearcherDLL,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::*:::\:::v:::,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\:::*Path*:::\Default,BackupPath-ChkDskPath-DefragPath-cleanuppath
@@ -111,7 +113,9 @@ HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DL
 HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\AppSetup&&GinaDLL&&LogoffApp&&Shell&&System&&Taskman&&UIHost&&Userinit&&VmApplet,
 HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\:::*:::\DLLName,
 HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\:::*:::\DLLName,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters\:::c:::\Default,
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\:::c:::\Default,
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Authentication\PLAP Providers\:::c:::\Default,
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\:::*:::\:::v:::,
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\:::*Path*:::\Default,BackupPath-ChkDskPath-DefragPath-cleanuppath
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace,

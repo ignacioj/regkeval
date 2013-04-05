@@ -1,5 +1,6 @@
 HKLM\Software\Classes\.bfc\ShellNew\command,
 HKLM\Software\Classes\.lnk\ShellNew\command,
+HKLM\Software\Classes\*\ShellEx\:::*:::\:::*:::\Default,ContextMenuHandlersCopyHookHandlersDragDropHandlersPropertySheetHandlers
 HKLM\Software\Classes\:::*:::\ShellEx\:::*:::\:::*:::\Default,ContextMenuHandlersCopyHookHandlersDragDropHandlersPropertySheetHandlers
 HKLM\Software\Classes\:::*file*:::\shell\:::*:::\command\Default, Poner \ al principio si es donde está el comodín
 HKLM\Software\Classes\AllFileSystemObjects\ShellEx\:::*:::\:::*:::\Default,ColumnHandlersCopyHookHandlersDragDropHandlersPropertySheetHandlersContextMenuHandlers

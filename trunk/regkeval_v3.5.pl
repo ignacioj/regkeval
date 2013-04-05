@@ -310,6 +310,7 @@ sub proc_registro {
 		$keyComodin =~ s/\*:::/[^\\\\]\*/g;
 		$keyComodin =~ s/&&/,/g;
 		$keyComodin =~ s/(.*)\\/$1;/;
+		$keyComodin =~ s/\\\*\\/\\[^\\\\]\\*\\/g; ## divertido eh?: para usar el literal Classes\*\
 		$keyComodin =~ s/\\/\\\\/g;
 		$keyComodin =~ /(.*);(.*)/;
 		my $keybuscada = $1;

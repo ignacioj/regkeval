@@ -41,6 +41,10 @@ HKLM\Software\Microsoft\Internet Explorer\SearchURL,
 HKLM\Software\Microsoft\Internet Explorer\Toolbar,
 HKLM\Software\Microsoft\Internet Explorer\Toolbar\:::*:::\,WebBrowser-ShellBrowser
 HKLM\Software\Microsoft\Internet Explorer\URLSearchHooks,
+HKLM\Software\Microsoft\NetSh\:::v:::,
+HKLM\Software\Microsoft\Rpc\ClientProtocols\:::v:::,
+HKLM\Software\Microsoft\Rpc\Extensions\:::v:::,
+HKLM\Software\Microsoft\Rpc\SecurityService\:::v:::,
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\:::*:::\ATExe, En windows 7
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Accessibility\Utility Manager\:::*:::\Application path, Solo este valor
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\AeDebug\Debugger,
@@ -136,8 +140,11 @@ HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\ShellServiceObjectDel
 HKLM\System\ControlSet\Control\BootVerificationProgram\ImagePath\Default,
 HKLM\System\ControlSet\Control\FileSystem\NTFSDisableLastAccessUpdate,
 HKLM\System\ControlSet\control\lsa\Authentication Packages&&Notification Packages&&Security Packages,
+HKLM\System\ControlSet\Control\Network\LightweightCallHandlers\PNIDUI\OnPrivateNetworkAvailable\:::vk:::,
+HKLM\System\ControlSet\Control\Network\LightweightCallHandlers\PNIDUI\Startup\:::vk:::,
 HKLM\System\ControlSet\Control\NetworkProvider\Order\ProviderOrder,
 HKLM\System\ControlSet\Control\Print\Monitors\:::*:::\Driver,
+HKLM\System\ControlSet\Control\Print\Providers\:::*:::\Name,
 HKLM\System\ControlSet\Control\SafeBoot\AlternateShell,
 HKLM\System\ControlSet\Control\SecurityProviders\SecurityProviders,
 HKLM\System\ControlSet\Control\Session Manager\AppCertDlls\:::vk:::,
@@ -164,5 +171,9 @@ HKLM\System\ControlSet\Services\SharedAccess\Parameters\FirewallPolicy\DomainPro
 HKLM\System\ControlSet\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\EnableFirewall,
 HKLM\System\ControlSet\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\AuthorizedApplications\List\:::vk:::,
 HKLM\System\ControlSet\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\GloballyOpenPorts\List\:::vk:::,
-HKLM\System\ControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\:::*:::\:::vk:::, todos los valores bajo las claves
 HKLM\System\ControlSet\Services\Winsock2\Parameters\NameSpace_Catalog5\Catalog_Entries\:::*:::\LibraryPath,
+HKLM\System\ControlSet\Services\Winsock2\Parameters\NameSpace_Catalog5\Catalog_Entries\:::*:::\DisplayString,
+HKLM\System\ControlSet\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\:::*:::\LibraryPath,
+HKLM\System\ControlSet\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\:::*:::\DisplayString,
+HKLM\System\ControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\:::*:::\:::vk:::, todos los valores bajo las claves
+HKLM\System\ControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries64\:::*:::\:::vk:::, todos los valores bajo las claves

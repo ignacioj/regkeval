@@ -79,8 +79,7 @@ HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Commo
 HKLM\Software\Microsoft\Windows\CurrentVersion\Group policy\state\:::*:::\Scripts\:::*:::\:::*:::\:::*:::\Script,user-logon.startup.logoff.shutdown-0.1-0.1
 HKLM\Software\Microsoft\Windows\CurrentVersion\OptionalComponents,
 HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\:::vk:::,
-HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\DisableRegistryTools&&DisableTaskMgr,http://go.eset.com/us/threat-center/encyclopedia/threats/w32lebreata/
-HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\Shell,Shell=
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\DisableRegistryTools&&DisableTaskMgr&&EnableLUA&&Shell,http://go.eset.com/us/threat-center/encyclopedia/threats/w32lebreata/
 HKLM\Software\Microsoft\Windows\CurrentVersion\Run\:::vk:::,
 HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\:::vk:::,
 HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnceEx\:::vk:::,

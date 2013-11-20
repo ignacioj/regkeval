@@ -105,7 +105,7 @@ print "\nSystem, software and ntuser hives must contain those words in their own
 open( OUTPUT, ">:utf8", $output_file ) or die "Can't write new file: $!";
 	my @keysBuscadas;
 	### HKLM #######################
-	open (F,"<regkeval_HKLM_kk.csv") or die "Error opening HKLM.csv: $!\n";
+	open (F,"<regkeval_HKLM.csv") or die "Error opening HKLM.csv: $!\n";
 		while(<F>) {
 				chomp;
 				push(@keysBuscadas, $_);

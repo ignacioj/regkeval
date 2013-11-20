@@ -63,6 +63,7 @@
 # v3.3   Support for multiple datas for a given value
 # v3.4 Added timeline output.
 # v3.5 Now you can force to obtain information for CLSID,s found in the Key name.
+# v3.6 Minor change in search function.
 # Author: Ignacio J. Pérez J., nachpj@gmail.com
 # Copyright 2012 Ignacio J. Pérez J., nachpj@gmail.com
 # This software is released via the GPL v3.0 license:

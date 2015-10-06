@@ -1,8 +1,5 @@
 # regkeval
-serv-triggers.pl Is a perl program to get all the service triggers from an offline hive. Service triggers can start and stop services containing malware. You have to run it as: serv-triggers.pl system 
-
-
-Regkeval. The idea is to compare as many registry entries as I know that can be used for malware persistence against both a well-known baseline of right and wrong values. 
+The idea is to compare as many registry entries as I know that can be used for malware persistence against both a well-known baseline of right and wrong values. 
 
 Characteristics: 
 
